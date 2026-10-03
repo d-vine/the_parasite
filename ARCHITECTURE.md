@@ -484,6 +484,21 @@ choice at every node), but it is the reference every other path is a deviation
 from, and it should be playable end to end at any point in development. It is
 also the best smoke test available: walk it, read it, ask whether it is a story.
 
+**And it has a fixed observer.** The canonical path is the finder's story from
+her point of view (`STORY.md`, The opening) — the parasite is a passenger in an
+object she carries, so `observer` is constant along the whole spine. Two things
+follow for the engine:
+
+- **The spine can be authored before POV-parameterisation exists.** It is
+  `(state, her)` throughout, so it is writable as ordinary single-viewpoint prose
+  and needs none of the machinery below to be read end to end.
+- **The first host transfer is the first change of `observer`**, and it is
+  irreversible in practice. Whether her vantage is recoverable afterwards is a
+  content question, not an engine one — the engine only needs to not assume it.
+
+This makes the spine cheap early and the parameterisation a later concern, which
+is the opposite of how it looked before there was a protagonist.
+
 **Scenes are POV-parameterised, not POV-specific.** The same beat has to render
 from any host present at it, which means a scene is a function of
 `(state, observer)` rather than a fixed block of text. Authoring each scene N

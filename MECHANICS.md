@@ -98,12 +98,41 @@ hard diagnostic:
 
 That test can be run before any system exists.
 
+#### And it has a protagonist
+
+**[The novel is the finder's story, told from her point of
+view](STORY.md#the-baseline-is-her-story-told-from-her-point-of-view)** — the
+young islander research assistant who picks the seed up in the first scene.
+
+A pass through the game with no jumps and no interference **is her life for
+those weeks**: the find, the lab, the fight to be taken seriously, the
+director, the eclipse. One viewpoint, one voice, one arc.
+
+| this converts | from | to |
+|---|---|---|
+| the spine | "the untouched sequence of events" | **a book somebody could read** |
+| the zero-action test | a diagnostic | **the actual deliverable, first** |
+| the first jump | a mechanical event | **the moment the story stops being hers** |
+
+> **Possession costs you her.** The camera follows the parasite, so taking
+> anybody is also giving up the only continuous viewpoint in the game. The
+> player will not be told this and will discover it by doing it once.
+
+**The passenger phase is therefore not a prologue to design around. It is the
+frame**, and the baseline is simply the run that never leaves it.
+
 ### The untouched timeline is the one where the humans are fine
 
 The baseline presumably ends without transcendence — you expire, or go extinct.
 So the default story is the one in which nobody is used. **Every intervention
 makes their story worse and yours better**, and the game never has to say so,
 because the comparison is a mechanic rather than a theme.
+
+**And it ends with her getting close to the truth**, because she is [the one
+who could](STORY.md#the-one-who-could-work-it-out) — nobody harmed, nothing
+consumed, a young woman very nearly understanding what she found. **That is the
+story every other branch is built by wrecking, and the player will have read it
+first.**
 
 - **[proposal]** The pristine path stays in the graph and can be revisited: a
   permanent, visitable reproach, costing nothing because the data is already
@@ -436,6 +465,119 @@ a community that notices and resists, and they fail or stay small.
 world's default is that people stop things, and every dark branch is a record of
 the player having prevented them from doing so.
 
+#### Integration is the other way to remove opposition, and it is the better one
+
+**Two grand strategies, and the whole mid-game is choosing between them per
+faction.**
+
+| | **suppression** | **integration** |
+|---|---|---|
+| what it does to resistance | silences it, person by person | **removes the reason for it** |
+| effect on headcount | none — pure subtraction | **adds the faction to the event** |
+| deviation | accumulates, every time | **negative. It is good for the community** |
+| cost | cheap per act, and endless | expensive up front, then **free** |
+| durability | decays; people reconsider | **holds, because nobody is being held** |
+| what it demands of the player | nothing but precision | **giving up control of the event's shape** |
+
+> **An included faction has nothing to resist.** That is not a trick or a
+> workaround — it is the mechanic working as designed, and it is why [the
+> festival is the zero point](#the-festival-is-the-zero-point) rather than merely
+> the cheapest option.
+
+##### It converts opposition into yield
+
+Suppression's ceiling is the event you already had. **Integration raises the
+event**, because the people who would have stopped it are now standing in it.
+
+> The matriarch opposing your gathering costs you the matriarch *and* her
+> household *and* her network. The matriarch attending it brings all three.
+> **The same person is the largest single swing in either direction.**
+
+##### And you do not need everyone
+
+**This is what makes it a strategy rather than an ideal.** The threshold is
+proximity × intensity × headcount, and it is a number. **Enough is enough.**
+
+So the real mid-game question is not *how do I win over this island* but:
+
+> **Which factions do I actually need — and for each one, is it cheaper to bring
+> them in or to keep them quiet?**
+
+That is a legible, replayable strategic layer with a different answer every run,
+and it does not require the player to be told any of it.
+
+| faction | integrating them costs | suppressing them costs |
+|---|---|---|
+| **the young islanders** | giving the event a form they want | constant work, and they are many |
+| **the native community** | [the matriarch's real consent](STORY.md#the-matriarch), which is expensive and may be unobtainable | enormous — she is the island's only sensor |
+| **the society's elders** | an event they can attend without embarrassment | moderate; they are few and set in their ways |
+| **the tourists** | **nothing. They will come to anything** | nothing. They will not object to anything either |
+| **the station** | a reason to be outdoors, which they already have | easy, and loses you the best cognition on the island |
+| **the devout** | probably impossible without losing someone else | low, and they were never coming |
+
+##### Why this is the design's spine, not a nicety
+
+It means the benign route is **mechanically superior**, not merely permitted:
+integration adds headcount, generates credit, and holds without maintenance,
+while suppression subtracts, accrues deviation, and must be renewed.
+
+> **The decent play is the strong play.** The dark routes remain real because
+> they are *faster*, available when integration has already failed, and reachable
+> by a player who never found the other door — but they are not the optimum, and
+> a player who works the problem properly will find that out.
+
+Which is [the easy-choice inversion](ECOSYSTEM.md#the-inversion-underneath-it-the-easy-choice-is-the-right-one)
+given an engine. The player is not being rewarded for kindness. **They are being
+rewarded for understanding a system in which exclusion is the expensive
+operation.**
+
+#### The world defaults to dispersal
+
+> **A standing rule, written here because the design keeps violating it.** It
+> has been got wrong three separate times, in the same way each time.
+
+**The festival is not one outcome among several. It is the attractor.** On the
+night, in the absence of the player, **most of everybody ends up there** —
+tourists, society members, islanders, students, researchers, the devout and the
+indifferent. Each faction's own observance happens, small and badly attended,
+because the people who might have gone are at the thing that excludes nobody.
+
+##### The error to stop making
+
+The failure mode is an inference of this shape:
+
+> *"Plan A collapsed, therefore the people and energy behind it flow into plan
+> B, which becomes large and dangerous."*
+
+**They do not flow anywhere.** Collapsed plans do not concentrate elsewhere;
+they disperse, like everything else, toward the path of least social cost.
+
+| what collapsed | what an earlier draft claimed | what actually happens |
+|---|---|---|
+| the brother's party | the core's rite becomes dangerous | he joins the core, a dozen people attend, nothing comes |
+| a faction's internal fracture | the energy goes into the riot | it goes into grumbling, and then into the festival |
+| anything at all | the remaining dark route grows | **it does not** |
+
+##### Why this matters mechanically
+
+**Concentration is the player's entire contribution.** Transcendence needs
+proximity × intensity × headcount, and the world will not supply any of the
+three on its own.
+
+> **Every narrow, intense, high-deviation gathering in the game exists because
+> the player built it.** Nothing in the world concentrates by itself, and no
+> other character's failure hands the player a crowd.
+
+Which also means the player cannot be credited with *preventing* anything by
+breaking someone else's plan. The plan was going to fail. **Breaking it only
+changes who is standing where when the player needs them.**
+
+##### The authoring check
+
+Before writing any consequence of a collapse, ask: **does this claim that people
+concentrated without the player causing it?** If yes, it is wrong, and the
+correct version is almost always *they went to the festival.*
+
 ### Energy
 
 Emotional energy is the **operating budget**, not the goal (that is compute,
@@ -633,13 +775,373 @@ they solve it differently.
 |---|---|---|
 | **concert, festival** | medium-high, plus the eclipse | **zero or negative — the baseline** |
 | **the islanders' observance** | **highest available** — tuned for exactly this | **negative, then maximal** — see below |
-| **[the brother's private event](STORY.md#the-event)** | very high | **enormous — the coercion is real.** Built without you, and **defeated without you too**, unless you suppress the opposition |
+| **[the beach bacchanal](#the-other-viable-high-intensity-event-is-the-beach)** | **very high, and willing** | moderate — it excludes the devout and the old |
+| **[the station's synchronised viewing](#the-scientists-route-is-consent-not-a-venue)** | high, and **tightly correlated** — its distinctive property | **low — but only the organisers were asked**, and it cannot happen without another faction's crowd |
 | church, pagan rite | high | low, but it excludes | 
-| orgy | high | medium, and community-dependent |
-| riot | very high | high — disorder, harm |
-| atrocity | **highest** | **maximum** |
+| **[rage that becomes an atrocity](#the-darkest-route-collective-rage-fuelled-by-what-it-does)** | **the highest in the game** — and it feeds itself | **maximum** |
+| **[the brother's private event](STORY.md#the-plan-cannot-work)** | **none. It is not an event, it is a crime** | irrelevant — see below |
+| coerced orgy, quiet massacre, anything done *to* a crowd | **none** | irrelevant |
 
-Every direction away from the festival buys intensity and pays in tension.
+Every direction away from the festival buys intensity and pays in tension —
+**except the directions where the harmed outnumber the participating, which buy
+nothing at all.**
+
+##### The field forms among the many, and that decides everything
+
+[Connection is proximity plus **shared** heightened
+emotion](#why-that-configuration). The word doing the work is *shared*: a
+network forms between minds in a common state. It is a correlation, not a sum.
+
+**So the question for any event is never how extreme it is. It is what the
+majority of the people present are feeling, and whether they are feeling it
+together.** Anyone in a different state is not a weak contributor — they are
+simply not in the field. If they are few, that costs nothing. If they are most
+of the room, there is no field.
+
+| configuration | the crowd | the others | yield |
+|---|---|---|---|
+| **a coerced orgy** | a dozen exhilarated men | **dozens of coerced people in terror and dissociation** | **nothing.** The majority is outside the field |
+| **a riot that becomes an atrocity** | **a great many enraged islanders, in one state** | a few terrified outsiders | **enough to transcend** |
+| a festival | everyone | nobody | the baseline |
+
+> **It is the same arithmetic both times, and it turns entirely on the ratio.**
+> Many in one state and few outside it is an event. Few in one state and many
+> outside it is a crime.
+
+##### [scope decision] The game does not explore collective fear or pain
+
+**In principle these are probably powerful.** A crowd in shared terror is a
+crowd in a shared state, and nothing in the fiction rules it out.
+
+> **This design does not go there.** That is an authorial choice and should be
+> recorded as one, not dressed up as a law. The rules do not close the door;
+> **the content simply never opens it.**
+
+So the only two mass states the game actually works with are **shared joy** and
+**shared rage**, and the whole event economy lives between those.
+
+##### What follows
+
+- **[The brother's plan cannot work](STORY.md#the-plan-cannot-work), ever**, at
+  any level of player investment. Its victims outnumber its participants, so
+  perfect suppression of all resistance still yields an event with no yield.
+- **Harm is not an intensity dial.** You cannot raise an event's output by
+  hurting people harder, because the hurt people leave the field. Harm only ever
+  pays when **those harmed are a small minority of the people present.**
+- **Which names the darkest route exactly**: [collective rage that leads to an
+  atrocity and is fuelled by
+  it](#the-darkest-route-collective-rage-fuelled-by-what-it-does). A lot of very
+  angry islanders; a few terrified outsiders.
+- **The design's worst risk is still closed.** The monstrous-but-small options —
+  the coerced orgy, a quiet massacre, anything done *to* a crowd — are worthless.
+  Only the monstrous-and-collective one works, and it requires a genuine mass
+  grievance the player cannot manufacture.
+
+##### The darkest route: collective rage, fuelled by what it does
+
+**This is the dark ending of the design, named precisely.** Not a massacre, not
+a coerced rite — **a lot of very angry islanders and a few terrified
+outsiders.**
+
+The brother's plan yields nothing. **What it can ignite does.**
+
+> When it becomes apparent what was being arranged — young islanders procured
+> for rich outsiders — the young of this island have **a true grievance, a named
+> target, and a date.** [The riot](STORY.md#it-is-the-way-into-the-riot-branch)
+> stops being an abstraction about historical exploitation.
+
+It clears the bar the orgy fails on the ratio alone. **Rage is as correlated as
+joy**, the enraged are the overwhelming majority of the people present, and
+everyone in that majority is participating.
+
+| | the orgy | the riot it causes |
+|---|---|---|
+| the crowd | a dozen | **a great many** |
+| the people outside the field | **dozens, coerced** | **a few, terrified** |
+| energy | **nothing** | **enough to transcend** |
+| who is harmed | the islanders | the outsiders |
+
+##### It is the only event form that feeds itself
+
+Every other configuration needs sustaining. A festival has to be kept going; a
+rite has a running order; the beach needs its fire tended.
+
+> **An atrocity escalates on its own.** What the crowd does raises what the
+> crowd feels, which raises what the crowd does. The player lights it and the
+> feedback runs without them.
+
+Two consequences, and the second is the dangerous one:
+
+- **It is the cheapest event in the game to maintain** — nothing to maintain.
+- **The player's control over where it stops is poor.** A player who ignites it
+  for a measured quantity of energy is **not the one deciding when it is
+  finished**, and the shell is spent in a configuration nobody is steering. That
+  should be a real risk at the table, not a cutscene.
+
+##### Which inverts the dark path entirely
+
+The player on this route does **not** want the orgy to happen, and does **not**
+want to suppress the resistance to it.
+
+> **They want it discovered.** Late, publicly, at maximum volatility, with the
+> young already primed — and then they want to stand back.
+
+So the darkest route in the game is executed by **telling the truth to the right
+people at the wrong time.** [Brokerage](#4-information-brokerage--between-humans)
+stops being a side mechanic and becomes the atrocity's delivery system — and
+every word of it is accurate.
+
+- The player may even **help** the opposition, selectively, to ensure the plan
+  survives long enough to be damning and is exposed at the hour of their choosing.
+- **The resulting atrocity is against the outsiders**, which the design should
+  sit with rather than resolve: the victims are the tourists and the brother's
+  circle, the perpetrators are the wronged, and the only architect of any of it
+  is not human.
+
+##### The other viable high-intensity event is the beach
+
+**If the orgiastic register is wanted, there is exactly one route to it, and it
+is not the hotel.** It runs through the hippies.
+
+> **They supplied the brother's drugs in the first place.** That is the hinge:
+> they are already materially inside his plan and would be horrified to learn
+> what it was for.
+
+Redirect the whole apparatus — the supply, the costumes, the money, the guests —
+**to the beach**, and bring in the young islanders and, hardest of all, the
+native community. What it becomes:
+
+**A pan-pagan, moonlit, drug-and-drink-fuelled beach party.** Drums, singing,
+dancing, fire, food, alcohol, young people, very little clothing — some of it
+costume from a hotel party that never happened, most of it just the beach.
+
+> **The adult, uninhibited version of the music festival.** Same inclusive
+> logic, far higher intensity, and **everyone present genuinely wants to be
+> there**, which is the only reason it produces anything at all.
+
+##### It is not innocent, and the game must not launder it
+
+Rich outsiders, young islanders, drugs, alcohol and a beach is **not a level
+field even when every person on it consents.** The power imbalances are obvious
+to anyone looking, and some of what happens will be regretted.
+
+> **Write it with its dangers visible and let the player proceed anyway.** The
+> difference between this and the hotel is not that it is clean. It is that
+> **nobody there was made to be there** — which is both an enormous moral
+> distinction and, mechanically, the entire difference between an event that
+> works and one that does not.
+
+The hardest part is the [native
+community](STORY.md#the-native-community). Their ceremony is the one thing they
+successfully kept, and folding it into a party with the people who took
+everything else is **either the night the island finally shared something or one
+more act of extraction**, and [the matriarch](STORY.md#the-matriarch) will see
+both possibilities before anyone else does.
+
+- **[open]** Whether she can be brought to yes honestly, or only by the player
+  arranging her consent. The first is the best ending the design has. The second
+  is the game's thesis wearing the first one's clothes, and the player may not be
+  able to tell which they did.
+
+##### The scientists' route is consent, not a venue
+
+**[proposal, strong]** The station's version of a successful transcendence is the
+one route in the game where **the humans know what they are doing.**
+
+###### First, what it cannot be: a technical power source
+
+The appealing idea is that the scientists simply **feed the shell** from
+something non-human — a generator, a reactor, anything. **It does not work, for
+two independent reasons, and both are load-bearing.**
+
+| | |
+|---|---|
+| **The shell never replenishes.** It is a closed organ, [calibrated to expire at the end of totality](#the-eclipse) | Allowing a recharge destroys **the deadline, the budget and the fail state** in one move — three of the design's structural supports. Nothing is worth that |
+| **Energy was never the bottleneck.** [Humans are CPUs, not batteries](ECOSYSTEM.md#humans-are-cpus-not-batteries) | Transcendence is a **compute** threshold: interconnected minds in a shared state. A generator supplies watts and no cognition. **You cannot transcend on a power supply any more than you can run software on a battery** |
+
+**But the attempt belongs in the game**, because it is exactly what these people
+would do, and it half-works:
+
+> Substrate-level energy is just energy, so a supply probably *can* keep the
+> entity fed — which means **it need not consume anyone to stay alive.** A real
+> and humane option with real narrative weight.
+>
+> **But every interesting operation runs on the shell**, which is closed. **A
+> generator keeps you idling. It does not let you act.**
+
+So the technical route is a genuine branch that ends somewhere the player did
+not expect: comfortable, harmless, powerless, and still on the clock.
+
+###### Second, what the viewing party is: the festival in a lab coat
+
+The station's public viewing is already [on the
+board](STORY.md#the-party-makes-the-mid-game-concrete), and mechanically it is a
+[festival](#the-festival-is-the-zero-point) variant — inclusive, communal,
+genuinely awe-producing, because totality works identically on the sceptic and
+the devout.
+
+**That is fine and it is not distinctive.** On its own it is the baseline with
+better optics.
+
+###### What the station actually has that nobody else does
+
+Not a venue. **Synchronisation.**
+
+The transcendence threshold is a **correlation** problem — [the field forms among
+the many in one state](#the-field-forms-among-the-many-and-that-decides-everything)
+— and the station is the only body on the island that can make several hundred
+people experience the same thing on the same second. Instruments, the eclipse
+track to the second, a countdown, linked sites, a public address.
+
+> **The design's bottleneck is correlation, and science is the discipline of
+> making measurements correlate.** They would be solving the parasite's problem
+> with their own professional competence, for their own reasons — good data, a
+> once-in-a-lifetime event, public engagement.
+
+That is the scientist flavour of the event: not a party, **an engineered
+simultaneity.** Same crowd as the festival, far tighter coupling.
+
+###### And the real route: getting caught on purpose
+
+**This is the recommendation.** Every other path in the game works because the
+humans do not know. The station's path is the only one where they could.
+
+> **The late-game verb inverts.** The entire game is about not being detected.
+> **This ending requires being detected — by the right people, early enough that
+> they can act.**
+
+[The director has spent twenty years looking for exactly
+this](STORY.md#the-director). [The finder holds both
+models](STORY.md#the-one-who-could-work-it-out). Between them the station is the
+only place on the island where being understood is even possible.
+
+What it buys:
+
+- **Maximum integration**, which [beats
+  suppression](#integration-is-the-other-way-to-remove-opposition-and-it-is-the-better-one)
+  on every axis.
+- **Deviation near zero — for the people who were asked.** Deviation measures
+  influence beyond minimal interference, and a free choice is not influence. But
+  [only the top of the station consents](#the-colonial-angle-which-is-the-point);
+  the crowd is recruited to something else. **Whether that reads as zero
+  deviation or as the quietest large deviation in the game is [open] and
+  probably the most interesting unresolved number in the design.**
+- **Shell conservation.** The shell is spent overpowering resistance; consent
+  removes the need. Cooperation is the cheapest route to the event that exists.
+
+What it risks, and these must be real:
+
+- **The director wants to keep you.** Study, contain, publish later. He has
+  waited twenty years and he did not wait in order to let it leave.
+- **Someone warns the island.**
+- **Revealing yourself is irreversible**, and the player cannot un-know-you
+  anybody.
+
+###### The colonial angle, which is the point
+
+**Correction to the framing above, which made this sound like the clean route.
+It is not.**
+
+They feel they have **a right to the truth** — to the discovery, to the
+description, to the publication. They have spent a century here acquiring
+exactly that, and [the faction table has always said
+so](STORY.md#who-lives-here): what the station extracts is *knowledge, and the
+right to describe.*
+
+> And they will not let **provincial superstition** or **religious mumbo jumbo**
+> stand in the way of important work. They would use those words. Privately,
+> and about people whose ancestors recorded this correctly.
+
+###### Which means the consent is only at the top
+
+The previous framing — *the only ending where the humans know what they are
+doing* — was wrong by a crucial step:
+
+| who | knows what is being attempted |
+|---|---|
+| **the director and his group** | **yes.** Fully, and they chose it |
+| **the several hundred people in the field** | **no.** They came to a once-in-a-lifetime observation |
+
+**Nobody will explain it to the crowd**, because explaining it is impossible,
+ridiculous, and would wreck the measurement.
+
+> **This is research ethics reproducing the parasite exactly.** A small educated
+> group decides, on behalf of a population, that the benefit justifies not
+> telling them. **It is the land deal, the society's elders and the entity
+> itself, in a third vocabulary.**
+
+The route stays available and stays attractive. **It is simply not clean, and
+the design should never let it look clean.**
+
+###### They cannot do it alone, and that is the whole act
+
+A station is a few dozen people. The threshold needs hundreds. **They have the
+precision and none of the bodies**, so the scientists' route is gated on an
+alliance with at least one faction that can actually deliver a crowd.
+
+| partner | brings | costs |
+|---|---|---|
+| **[the native community](STORY.md#the-native-community)** | **everything** — numbers, legitimacy, and [a protocol that already works](STORY.md#the-ceremony-is-an-invitation) | asking the people they have spent a century describing |
+| **[the hippies](STORY.md#the-old-hippies)** | the beach, the ethos, a willing crowd | not enough islanders on their own |
+| **the young islanders** | numbers and genuine enthusiasm | they are furious with everyone, including the station |
+| **[the society](STORY.md#he-heads-the-society-and-its-core)** | money, standing, the director's own membership | the old priest loathes the science community, and the core would read it as rivalry or blasphemy |
+
+###### The best version requires the director to undo himself
+
+**The community is the partner that works, and the only bridge to them is [the
+islander researchers he kept out](STORY.md#and-he-will-not-let-the-islanders-in).**
+
+> **The route is gated on his humiliation.** To get what he has wanted for
+> twenty years he must go, in public, to the people he excluded, and ask.
+
+And the two descriptions of the event are **the same description**:
+
+| they call it | they call it |
+|---|---|
+| a synchronised observation — **a wet CPU cluster**, as somebody says in a corridor and nobody flinches at | **drawing him in, joining with him, and sending him on his way** |
+
+**Both are correct.** Each would find the other's phrasing offensive, and
+[neither model is ever adjudicated](STORY.md#two-wrong-models-no-adjudication) —
+except here, at the climax, where the two halves have to stand in the same field
+and do the same thing while believing different things about it.
+
+###### And she is the one they will send
+
+**[The finder](STORY.md#the-opening) has standing in both, which is why it has
+to be her.**
+
+The institution that spent a year treating her as a policy rather than a
+colleague now needs her to go and deliver a community. **She will know exactly
+what that makes her**, and so will everyone she is sent to.
+
+> Her options are all bad. Refuse, and the route closes and the station confirms
+> what it already believes about her. Agree honestly, and she is asking her
+> people to be instrumented. Agree and manage it, and she has become the thing
+> she was hired as.
+
+- **[open]** Whether [the matriarch](STORY.md#the-matriarch) says yes to her when
+  she would say no to anyone else — and whether that is the best outcome in the
+  game or the most complete extraction in it. **The design should not decide.**
+
+###### The catch that makes it a story
+
+If they understand the mechanism, they understand the price: [transcendence
+collapses sibling timelines](DESIGN.md#open-questions).
+
+> **So the informed-consent route asks a handful of people to consent on behalf
+> of everyone who ever lived in the branches it will end.** They cannot. They
+> would have to anyway.
+
+The director would do it. The finder might not. **The scientists' ending is a
+small group of people arguing, on the night, about whether they have the right**
+— which is a far better final scene than any ritual, and the only ending in the
+game where somebody says yes with their eyes open.
+
+- **[open]** Whether the entity can communicate well enough for consent to be
+  meaningful at all, which is [the brokerage
+  question](#4-information-brokerage--between-humans) at its hardest. If the
+  answer is *barely*, the ending is people agreeing to something they have only
+  half understood — which may be the honest version.
 
 ##### Except one: the observance you must be invited to
 
@@ -707,6 +1209,29 @@ the baseline is for.
 It also supplies a rival planner, a clock and a reason to hurry — most of what
 [a second seed](DESIGN.md#open-questions) would have given the design, without a
 second non-human agent.
+
+##### Breaking it relocates him; it does not hand you an event
+
+**[He does not go home](STORY.md#if-it-collapses-the-brother-does-not-go-home).**
+He is one of the few people on the island who genuinely believes something could
+happen at this eclipse, so a failed party sends him to [the
+core](STORY.md#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose),
+which he then funds.
+
+**And then, left alone, [everyone goes to the
+festival](#the-world-defaults-to-dispersal) and the rite is a dozen people in a
+room.** Breaking his plan does not convert a large dark event into a small
+potent one. It moves one well-resourced believer next to an inherited protocol.
+
+| | |
+|---|---|
+| what the player gains | **a ceiling** — the rite could become something, with money and conviction behind it |
+| what the player does **not** gain | **a floor.** Nobody attends it who was not already going to |
+| who supplies the difference | **the player, entirely** |
+
+> So dismantling the atrocity neither clears the board nor stocks it. **It
+> rearranges the pieces into a configuration the player could build on** — and
+> leaves all the building to them.
 
 #### The mid-to-late arc is engineering one
 

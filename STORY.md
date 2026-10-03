@@ -94,9 +94,16 @@ It also gives every potential discoverer a home — the biologist with a contact
 map, the astronomer with eclipse paths, the anthropologist with the myths. See
 [What each discipline can discover](#what-each-discipline-can-discover).
 
+**And one of them has been doing it deliberately for twenty years.** See [the
+director](#the-director).
+
 The station is not decoration. It is the reason this seed is viable: compute
 comes from cognition, and without it there is nothing here worth transcending
 on.
+
+**It is also the island's freshest wound** — see [the station's
+fracture](#the-stations-fracture), where the land deal's human clause came due
+this year and the staff split in two over it.
 
 ### Who lives here
 
@@ -106,9 +113,9 @@ on.
 |---|---|---|
 | **[Indigenous islanders](#the-native-community)** | recognition, cultural heritage, ecological protection, an end to marginalisation | — they are the extracted |
 | **Developers** | the island's beauty, realised as a resource | land, labour, image |
-| **Old hippies** | paradise preserved — **on their terms** | belonging in a place that is not theirs |
-| **The research station** | understanding of the island, its people, its myths | knowledge, and the right to describe |
-| **Wealthy tourists** | a carefree paradise, few in number, brought by the developer | the performance of carefreeness from everyone else |
+| **[Old hippies](#the-old-hippies)** | paradise preserved — **on their terms** | belonging in a place that is not theirs |
+| **[The research station](#the-stations-fracture)** | understanding of the island, its people, its myths | knowledge, and the right to describe |
+| **[Wealthy tourists](#the-tourists)** | a carefree paradise, few in number, brought by the developer | the performance of carefreeness from everyone else |
 | **The Catholic congregation** | its flock; continuity | souls, and once, culture |
 
 **Every faction here is extractive except the islanders.** The hippies are the
@@ -171,12 +178,381 @@ Implications:
 
 ### The opening
 
-`story.ink` — Astrid and Clement at the crater — is the first human contact.
-**[open]** whether they are station people or locals; given the split above,
-which one matters.
+> **Resolved.** `story.ink` — Astrid and Clement at the crater — is the first
+> human contact, and the **[open]** question of whether they are station people
+> or locals now has an answer: **she is both.**
+
+**The person who finds the seed is a young islander research assistant** — one
+of [this year's quota intake](#the-stations-fracture).
+
+#### Why it has to be her
+
+She is the only kind of person on the island who could do all three things the
+opening needs, in one scene, without any of it being a coincidence:
+
+| | because |
+|---|---|
+| **recognise the object** | she has handled the rare fossils before — a couple of times, the way you handle things that are around. **[open]** where: a relic in a grandmother's house is the best answer, and chains her straight to the folklore |
+| **know what it means** | she grew up with the stories. **Casually, unromantically, the way you know things from your family** — not as mystical insight |
+| **take it somewhere that matters** | she works at the station. **She carries it into the compute**, which is the only reason the game can start |
+
+> **And she can tell this one is different.** Every other husk she has seen was
+> stone. This one is not.
+
+#### What it costs her to be believed
+
+She brings it in, and she is **let into the research reluctantly**, after
+demonstrating that she knows her material and is extremely sharp.
+
+> **She has to interview for admission to her own discovery.** Nobody in the
+> room would describe it that way, and every islander at the station will
+> recognise it instantly.
+
+That is [the station's fracture](#the-stations-fracture) delivered as a scene
+instead of a situation, in the first hour, with no exposition.
+
+#### And it is the director's catastrophe
+
+[He has spent twenty years](#the-director) building a quiet, deniable,
+career-long search for exactly this, and has kept the islanders away from it
+partly because he feared they would understand it too quickly and **it would
+stop being his.**
+
+> **It stopped being his the moment she carried it through the door.** He cannot
+> exclude her — she found it, identified it, and is manifestly the most
+> qualified person available. He has to let her in, in front of everyone, and
+> everyone can see that he had to.
+
+The thing he most wanted arrived in the hands of the person he least wanted to
+give it to. **He will never get over this and it happens in act one.**
+
+#### She is the opening's hub
+
+The cast already has [an endgame hub](#she-is-the-hub-of-the-endgame). This is
+the other end of the game, and the two should not be the same person.
+
+| thread | how she touches it |
+|---|---|
+| **the station** | she works there, and is now inside the real project |
+| **[the director's group](#he-has-followers)** | admitted, resented, indispensable |
+| **the native community** | she is of it, and the folklore is hers |
+| **the young** | she is one of them, and her treatment at work is the grievance in miniature |
+| **[the fossils](#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye)** | she will want to see the cabinet in that villa, which is how the two ends of the game meet |
+
+**[proposal]** She is also the [islander who could assemble
+it](#the-one-who-could-work-it-out). Folding the finder and the potential
+discoverer into one person keeps the cast tight and means the game's most
+dangerous mind is introduced in its first scene.
+
+#### The baseline is her story, told from her point of view
+
+**This is the load-bearing consequence, and it resolves the baseline from an
+abstraction into a book.**
+
+> **An unadulterated pass through the game — no jumps, no interference, nothing
+> taken — is her perspective, end to end.** The find, the lab, the fight to be
+> let in, the director, the work, the island, the eclipse, the festival.
+
+The design has always said [the baseline is a real
+novel](MECHANICS.md#the-baseline-is-a-real-novel-and-it-comes-first) and
+[the untouched timeline is the one where the humans are
+fine](MECHANICS.md#the-untouched-timeline-is-the-one-where-the-humans-are-fine).
+**It now has a protagonist.**
+
+##### What that gives the design
+
+- **The spine is authorable as one narrative**, from one viewpoint, in one
+  voice. Every branch in the game is a departure from a story that already
+  works without the player in it.
+- **The parasite's first jump is the game's first real choice** — and it is the
+  moment the story stops being hers. You begin by watching a person and
+  continue by using people. Nothing has to say so.
+- **Possession costs you her.** The camera follows the parasite, so **the price
+  of taking anyone is the only continuous viewpoint in the game.** That is a
+  mechanical fact with the force of a moral one.
+- **The ending of the untouched run is her getting close to the truth** —
+  because she is [the one who could](#the-one-who-could-work-it-out) — while
+  nobody is harmed and nothing is consumed. **That is the story the player
+  spends every other branch destroying**, and they will have read it first.
+
+##### Which answers the passenger question
+
+**The parasite has no host at the start.** [Symbiotes are the
+bridge](MECHANICS.md#they-are-the-bridge) and nothing is bridged yet, so the
+opening is a **passenger phase** — carried in a bag, set on a bench, moved
+between rooms, with no agency whatsoever.
+
+That is not a limitation to design around. **It is the frame.** The baseline
+simply never ends the passenger phase.
+
+- **[open]** Whether she is takeable at all, and when. Islanders carry strong,
+  well-connected symbiotes, so she should be among the hardest people in the
+  game to enter — **the early game's reward rather than its starting position.**
+  The likely first host is whoever handles the object bare-handed in the lab.
+- **[open]** Whether her viewpoint can ever be recovered after the first jump.
+  **Recommend not, or only partially.** A player who can return to her for free
+  has not paid for anything.
+
+#### Craft notes
+
+- **Not a plucky ingenue.** She is a working research assistant: underpaid,
+  tired, and currently employed somewhere that has spent a year making it clear
+  she is a policy rather than a colleague.
+- **Her folklore knowledge is not a gift.** It is background. She should relay it
+  flatly, slightly embarrassed, and be surprised anyone cares.
+- **She is not grateful.** Being let in is not a kindness and the scene should
+  not play as one.
 
 ---
 
+## The station's fracture
+
+**The land deal had a human clause, and this is the year it finally came due.**
+
+Part of what the station paid for the ground was **scholarships for high-
+performing islanders** and **a quota of research posts reserved for islanders**,
+if there were ever any takers. For most of the station's history there were
+few, and the quota sat politely unfilled.
+
+> **This year, for the first time, every reserved post is occupied.** The
+> youngest cohort of a decades-old promise arrived all at once.
+
+### What that cost, and who paid it
+
+**Colleagues had to be let go to make room.** Real posts, real people, some of
+whom are still on the island with nothing to do and a lot to say about it.
+
+And among the international staff there is a sentiment — rarely stated plainly,
+constantly audible — that **the islanders are not here on merit and are not as
+good.** The two groups have been drifting apart all year.
+
+| | what they would say | what is underneath it |
+|---|---|---|
+| **international staff** | *"It's about standards. I'd say the same about anyone."* | someone they liked lost a job, and the replacement arrived by a rule rather than a search |
+| **islander staff** | *"I published more than he did."* | **they know someone was removed for them**, which poisons an achievement they earned |
+
+> Almost nobody in this involved is a villain and almost everybody is behaving
+> badly. Per [the standing
+> rule](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype):
+> **no cartoon bigots, and no saints.** Some of the islander hires are
+> brilliant, some are ordinary, and **at least one of them privately wishes he
+> had got in clean** — which is the most painful position available and the
+> truest.
+
+### They are the land payment, in human form
+
+This is the line the whole thread turns on.
+
+> **Their jobs were the price of the hill.** They work in a building that stands
+> on [ground their community lost](#what-each-discipline-can-discover), in posts
+> that the losing of it bought. Some of them have thought about this. One of
+> them has thought about nothing else.
+
+It also gives [the native community](#the-native-community) a second co-option
+question, far more sympathetic than [the
+society's](#he-was-in-the-society): not *who sold out to the powerful*, but
+**did the young people who took the scholarships take something that was owed,
+or something that was bait?** Elders disagree. [The matriarch](#the-matriarch)
+negotiated for these posts and is not sure what she bought.
+
+### Mechanically, they collapse the design's central split
+
+The [compute/standing split](#the-computestanding-split-still-holds) held that
+cognition and community centrality come apart: the cheapest high-cognition
+targets are incomers with weak symbiote protection, while the islanders have
+standing and ordinary cognition.
+
+**The islander researchers are both.**
+
+| | cognition | standing | symbiote protection | connectivity |
+|---|---|---|---|---|
+| international staff | high | none | weak | low |
+| long-rooted islanders | ordinary | **the community itself** | **strong** | high |
+| **islander researchers** | **high** | **real** | **strong** | **highest on the island** |
+
+> **A decades-old land deal manufactured exactly the population the parasite
+> most wants, and defended it at the same time.** They are the most valuable
+> hosts in the game and among the hardest to take.
+
+And they sit in several factions at once — the station, the community, the young
+— which makes them the island's **pre-existing bridges**. Under the
+[integration](MECHANICS.md#integration-is-the-other-way-to-remove-opposition-and-it-is-the-better-one)
+strategy, the route between the station and the native community already exists
+and is made of people.
+
+### And they are under exactly the right kind of pressure
+
+Isolated at work, resented in a way nobody will say out loud, carrying a
+grievance that is true, aware that someone was displaced for them, and divided
+between an institution and a community that are not sure about each other.
+
+**None of that has to be manufactured.** It is a year old, it is still raw, and
+it peaks on the same date as everything else.
+
+### The one who could work it out
+
+[Two wrong models, no adjudication](#two-wrong-models-no-adjudication) has the
+scientists and the mystics each holding half of it and unable to see each other.
+
+> **An islander researcher holds both.** They grew up with the trickster and the
+> guardian spirits, and they have access to the fossil record, the station's
+> archive and the eclipse track.
+
+So the person most likely to find [the fossil-locality/eclipse-path
+correlation](DESIGN.md#open-questions) — the design's most plausible route to
+the truth and the third act's clock — is an islander postdoc.
+
+**And nobody at the station will listen to them**, because the institution has
+spent a year training itself to discount exactly this person.
+
+> That is the thread: **the one mind that could assemble it is the one the room
+> has decided is not serious.** It needs no parasite to be true, and the
+> parasite can make it permanent with almost no effort at all.
+
+And [the room has a chairman](#the-director), who has been chasing the same
+answer for twenty years and will not let these people near it.
+
+- **[open]** Who gets cast. The minimum useful set is **one islander researcher
+  who is clearly excellent**, **one international colleague who is decent and
+  still resentful**, and **the person who was let go**, who should be named
+  rather than abstract — an absence with a surname in it does far more work than
+  a policy does.
+
+---
+
+### The director
+
+**And the person who will not listen has a name, a history and a reason.**
+
+He runs the station. He arrived decades ago as a research assistant —
+**brilliant, and not much liked** — and he rose, which on this island means one
+thing: [the developer](#her-father-and-what-he-left-on-the-island) took an
+interest in him.
+
+Under that mentorship he worked himself into a position of power. He is a
+[society](#he-heads-the-society-and-its-core) member, like everyone else at that
+level, and he would tell you it is a social obligation.
+
+#### His career is the argument he cannot make
+
+> **He did not get here on merit alone, and he knows it.** He got here on merit
+> *plus* a powerful man's attention — which is how nearly everyone gets
+> anywhere, and which he has never been able to say.
+
+So when the station's international staff mutter that [the islanders are not
+here on merit](#what-that-cost-and-who-paid-it), **the loudest unspoken version
+of that argument is at the top of the building, and it is a defence.**
+
+He is not a hypocrite about this in any way he could be shown. He is a man
+protecting one idea about himself, and the islanders' arrival puts pressure on
+it from the one direction he cannot absorb.
+
+#### He inherited the eclipse too
+
+**The developer shared his fascination with him** — the past events, the lore,
+the anomalies, the whole assembled oddity. Which means the father's material
+went to **two** people:
+
+| | got | and did |
+|---|---|---|
+| **[the eldest son](#the-eldest)** | the blood, the money, the confidences of a childhood | read the lore for its orgies and planned a party |
+| **the director** | the friendship of an adult, and an institution | **spent twenty years investigating it properly** |
+
+> **Each almost certainly believes he is the real heir to it**, and each is
+> probably wrong about how much the other has. **[open]** Whether they know what
+> the other is doing. *Partially* is the best answer — enough to be wary,
+> not enough to combine.
+
+And if the brother's party collapses and he goes looking for people who think
+something might actually happen, **there are now two doors**: [the
+core](#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose),
+and this man. They are very different endings.
+
+#### Twenty years of research hidden in plain sight
+
+This is the part worth getting right, because it is **not** another secret
+cabal.
+
+> **Nothing is hidden except the through-line.** He has spent two decades lining
+> up grants and projects that are ostensibly about other things — coastal
+> sediment, oral history, atmospheric scattering, an unclassifiable fossil
+> taxon, migration patterns — and **bending each one far enough to serve his
+> actual question.** Every project is real, published and defensible. Only the
+> pattern across them is concealed.
+
+That makes him different in kind from the island's other hidden interiors:
+
+| | what is concealed |
+|---|---|
+| [the society](#he-heads-the-society-and-its-core) | a core, from the body around it |
+| [the tourists](#the-tourists) | a plan, from the guests who are its cover |
+| **the station** | **nothing at all — only the fact that these twelve honest projects are one project** |
+
+Which also means **the evidence is all published.** Anybody who read the
+station's twenty-year output in the right order would see it. Nobody ever has,
+because nobody reads a small institution's back catalogue.
+
+#### He has followers
+
+Over the years he has gathered **a small group** — people he brought in, funded,
+promoted and gradually let into the real question. Not a conspiracy; a
+research group that is loyal to a person rather than a department, and knows it
+is doing something the grant does not describe.
+
+- They **protect it**, which is how it has survived twenty years.
+- They **disagree internally**, because some of them think it is a career and
+  some think it is the point.
+- At least one has started to wonder whether the director is **a serious
+  scientist with an unusual hunch, or a man in the grip of something.**
+
+#### And he will not let the islanders in
+
+**He has always been hesitant**, and this year it has become untenable.
+
+> **The latest intake includes people who are very bright and deeply invested in
+> the island's own history.** They are, objectively, the best people he has ever
+> had access to for this specific question. And they are the ones he cannot
+> bring himself to include.
+
+Two reasons, and he would only admit the first:
+
+| | |
+|---|---|
+| **what he says** | a question of standards, and of keeping a delicate programme small |
+| **what it is** | **he is afraid they would understand it too quickly** — that people who grew up with the trickster and the guardian spirits would take one look at his twenty years and know what he has, **and that it would stop being his** |
+
+> **The one man who could finish this has, this year, been handed exactly the
+> minds that could finish it, and he is keeping them out of the room.** That is
+> the station's whole tragedy in a sentence, and no parasite is required for any
+> of it.
+
+And it has a sharp end. [The station's route to the
+event](MECHANICS.md#they-cannot-do-it-alone-and-that-is-the-whole-act) needs
+hundreds of people it does not have, so it runs through the native community —
+**whose only bridge into this building is the researchers he excluded.** To get
+what he has wanted for twenty years he has to go to them, in public, and ask.
+
+#### What he is, mechanically
+
+- **The best single source in the game, and the most guarded.** Twenty years of
+  assembled work in one head, held by a man whose instinct is to withhold.
+- **A rival investigator**, like the brother — but methodical, institutional and
+  two decades in. He is much closer than anyone.
+- **The most dangerous person to be seen by.** He is the only human alive who has
+  been looking for this specific thing on purpose, and he would recognise a
+  signature in his own data faster than anyone could explain it to him.
+- **An integration blocker.** The station as a faction routes through him, and
+  his refusal to let islanders near the real work is precisely what keeps the
+  station↔community bridge from carrying anything.
+- **And a dead end worth breaking.** He and [the old
+  priest](#the-old-priest) are chasing the same object from opposite directions,
+  both in the society, and they hold each other in contempt — the priest
+  [hates the science community](#the-old-priest), and the director finds the core
+  embarrassing. **Each is the other's best source.** Only the parasite can see
+  that, and [brokerage](MECHANICS.md#4-information-brokerage--between-humans) is
+  how it gets spent.
+
+---
 
 ## The generational axis
 
@@ -298,7 +674,7 @@ Two are already written; the rest sketch themselves.
 | **the church** | the two priests — already built |
 | **the developer's family** | the dead father, the [eldest son who was made to carry him](#the-eldest), the daughter who was not — already built, and the bitterest version |
 | **indigenous** | [the matriarch](#the-matriarch) holding caution and tradition against younger confrontation — and the fracture of those co-opted into the cult. **The sharpest version, because the rite's inclusiveness is itself what the young are rejecting.** |
-| **the station** | seniors whose careers rest on a compromised facility against juniors who know how it was built |
+| **the station** | seniors whose careers rest on a compromised facility against juniors who know how it was built — **and crossing it, [the islander/international split](#the-stations-fracture)**, which is this year's and still bleeding. [The director](#the-director) is the hinge of both |
 | **the hippies** | original settlers against whoever came after, or against their own children |
 | **visitors** | the crypto investors against old money, which is a generational marker in itself |
 
@@ -1164,8 +1540,9 @@ idea](#her); he supplied the first guests; the list is now twelve.
 
 ##### Who is supposed to be there
 
-Him and his friends, and **a large number of young women — and some men — from
-the island.**
+Him and **the one or two who are actually in on it** — see [the
+tourists](#the-tourists), where most of the guest list has no idea and would
+object — and **a large number of young women, and some men, from the island.**
 
 The plan involves **coercion of every available kind**: money, debt, employment,
 leverage on families, immigration status, whatever is to hand. And it does not
@@ -1192,6 +1569,43 @@ seed](DESIGN.md#open-questions) would have given it — a competing planner, a
 clock, a reason to hurry — at a fraction of the cost, and without a second
 non-human agent.
 
+##### The plan cannot work
+
+**It is not a dark route. It is a crime with no payoff, and the design should be
+explicit about that.**
+
+Two independent reasons, either sufficient:
+
+1. **The island will stop it.** Almost everyone will be heavily against it the
+   moment they understand, and many before — [the baseline defeats
+   it](#in-the-baseline-it-fails).
+2. **Even if they did not, it yields nothing.** [The field forms among the
+   many](MECHANICS.md#the-field-forms-among-the-many-and-that-decides-everything):
+   a dozen exhilarated men and dozens of coerced people in terror is a room
+   where **the majority is outside the field entirely.** Perfect suppression of
+   all resistance still ends in an event with no yield.
+
+> **So the best case for the brother is an event that amounts to mass sexual
+> assault and achieves nothing whatsoever.** No transcendence, no fabled
+> outcome, nothing. That is worth stating plainly in the design, because it
+> removes the possibility of the darkest content also being the optimal play.
+
+##### What it can cause is the real danger
+
+**[The backlash](MECHANICS.md#the-darkest-route-collective-rage-fuelled-by-what-it-does).**
+Once it becomes apparent what was being arranged, the young of this island have
+a true grievance, a named target and a date — and the ratio inverts: **a great
+many enraged islanders, a few terrified outsiders.**
+
+> **The brother's plan is not a route. It is a fuse.** Its value to a dark
+> player is not that it happens but that it is *found out*, late, publicly, at
+> maximum volatility.
+
+Which inverts the dark play around it completely: the player does not suppress
+the opposition to his plan. They **let the truth arrive at the hour of their
+choosing** — and the atrocity that follows is against the outsiders, committed
+by the wronged, architected by the only non-human thing present.
+
 ##### In the baseline, it fails
 
 **Correction to a first reading of this character, which had the event as a
@@ -1207,26 +1621,27 @@ Mothers make calls. Staff talk. The young priest hears something and will not
 let it go. The matriarch finds out and has every reason and every channel to
 act. **It does not survive contact with a community that notices.**
 
-##### Which makes it the clearest instance of the real dark verb
+##### And if it collapses he goes to the core
 
-He supplies the **plan, the money, the venue and the intent**. The player
-supplies the only missing ingredient: **the island not stopping it.**
+He does not leave the island. **[He is one of the few people here who believes
+something could actually happen](#if-it-collapses-the-brother-does-not-go-home)**,
+so a failed party routes him to the only other group that believes it — which
+means breaking his event converts a dark route rather than closing one.
 
-| he provides | the player provides |
-|---|---|
-| the event | the silence around it |
-| the coercion | the calls that do not get made |
-| the guest list | the week in which nobody quite gets round to it |
+##### And his apparatus is the one thing worth taking from him
 
-> **The player never has to want what he wants.** They only have to keep
-> removing the people who would have intervened, one ordinary hesitation at a
-> time — which is [far cheaper than inciting
-> anything](MECHANICS.md#and-it-is-cheap-which-is-the-whole-problem).
+The plan is worthless; **the logistics are not.** He has assembled a drug
+supply, costumes, money, a guest list of people who will attend anything, and a
+date.
 
-That is the sharpest form of [the easy-choice
-inversion](ECOSYSTEM.md#the-inversion-underneath-it-the-easy-choice-is-the-right-one):
-not that the atrocity is free, but that **the cheapest possible play produces
-it, and the player's whole contribution is an absence.**
+[Redirected to the beach](MECHANICS.md#the-other-viable-high-intensity-event-is-the-beach),
+with the hippies who supplied him, the young islanders and — hardest — the
+native community, all of it becomes **the one high-intensity event in the game
+that actually works**, for the single reason that everybody there chose to come.
+
+> **The same materials build the worthless atrocity and the viable
+> celebration.** What separates them is not scale, intensity or taste. It is
+> whether the people in the room were asked.
 
 ##### He is not a cheap host. He is barely a host at all.
 
@@ -1371,6 +1786,265 @@ Three consequences:
 > critique](ECOSYSTEM.md#do-not-state-the-critique). The coercion should be
 > **administrative and boring** in its mechanics — a debt, a shift rota, a
 > family member's job — because that is what it actually looks like.
+
+### The tourists
+
+**Structurally identical to [the society](#he-heads-the-society-and-its-core): an
+outer body with a reason, and a small core with the real one.**
+
+| | **the guests** (outer) | **the core** (inner) |
+|---|---|---|
+| who | twelve or so very rich people | [the brother](#the-eldest) and one or two others |
+| why they came | **an exclusive eclipse event among their peers.** A rare sky, a private island, the right names on the list | **to engineer one of the legendary nights** out of the lore the brother inherited |
+| what they know | that it will be a very good party | everything |
+| what they do when it becomes obvious | **nothing. They enjoy it.** | it was always the point |
+
+#### They are not conspirators, and they are not innocent
+
+> **Correction to a first reading, which had most of the guest list objecting
+> once they understood. They will not object.**
+
+They are **entirely comfortable with the exploitation of the island and the
+islanders**, on one condition: that it is in the service of their pleasure and
+they do not have to look at it directly. That is not an exception they make for
+this event. It is how they travel.
+
+**The sexualisation of the islanders will be obvious very early** — who was
+hired, how they are dressed, what "local entertainment" is being used to mean.
+Nobody will miss it.
+
+> **And they will read it as *edgy*, or as *cute*.** A flavour, not a fact. The
+> appalling thing is not that they fail to notice; it is that noticing is part
+> of the appeal, and asking one further question is the only move unavailable to
+> them.
+
+#### They are the game's question, arriving pre-answered
+
+**[How could you let this happen](MECHANICS.md#the-moral-question-changes-shape)
+is the design's central moral question.** The player spends the whole game
+engineering that state in other people, one ordinary hesitation at a time.
+
+> **The tourists arrive in it already.** Nobody has to suppress them. Their
+> entire social formation did it years ago, for free.
+
+So they are not a resistance surface. **They are a demonstration of the end
+state** — a picture of what the player is manufacturing everywhere else, in
+people who required no manufacturing at all. The player should recognise their
+own work in a group they never touched.
+
+- **[open]** Whether one guest is written as an exception. **Recommend at most
+  one, and not a hero** — someone who leaves quietly, tells nobody, and is never
+  heard from again. More than one, and the group's actual quality is lost.
+
+#### The complicity is not a discount
+
+They are complicit, in the ambient way — and that is precisely why it buys the
+design nothing.
+
+> **It is the kind of complicity nearly everyone in the story has.** Treating it
+> as a licence for what happens to them would license treating most of the cast
+> that way. [The standing
+> rule](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype)
+> applies to them at full strength, and they are harder to write well than
+> anyone except the brother.
+
+#### Mechanically they are food
+
+Dropping the resistance reading leaves a cleaner one. By [the compute/standing
+split](#the-computestanding-split-still-holds) they are:
+
+| | |
+|---|---|
+| cognition | high — educated, well-fed, unoccupied |
+| community standing | **none.** Nobody here is theirs |
+| symbiote protection | **weakest on the island** — recent arrivals, unknown signatures, no network integration |
+| emotional volatility | **high and deliberately cultivated.** They came to feel something |
+
+**High value, no defence, and already primed.** The least protected people at
+the best-attended private event on the island.
+
+#### If the orgy happens, they are used too
+
+**The coercion gradient does not stop at the islanders.** The core's event
+consumes everyone present at wildly different levels of power and consent:
+
+- **some guests buy in enthusiastically**, and would describe it afterwards as
+  the best night of their lives
+- **some are swept**, in the ordinary way that a room's momentum sweeps people,
+  and are not sure afterwards what happened to them
+- **and all of them have recourse that no islander has** — money, lawyers,
+  distance, and the option of never coming back
+
+> That asymmetry in the *aftermath* is sharper than any asymmetry on the night,
+> and it is the part worth writing. **The guest who was genuinely harmed will be
+> fine. The islander who was will still live here.**
+
+- **[open]** Whether a used guest becomes an aftermath thread. They are the only
+  people harmed at that event with the power to do something about it — which
+  makes them a late, unreliable and entirely self-interested route to
+  consequences for the brother.
+
+#### The two or three
+
+Keep them distinct from each other, and from him:
+
+- **one true peer** — equally rich, equally bored, in it for the same reason and
+  without the brother's inherited obsession. He wants a story to tell.
+- **one hanger-on** — in it for proximity to the brother, who would abandon the
+  whole thing instantly if the brother did. **The weak link, and the player will
+  find him.**
+
+#### If it collapses, the brother does not go home
+
+**This is the branch that makes the whole structure earn its place.**
+
+The plan can fall apart several ways — [the island
+resists](#in-the-baseline-it-fails), a guest balks, the sister finds out, the
+player breaks it. In none of them does he simply leave.
+
+> **He is one of the very few people on this island who believes something could
+> actually happen at this eclipse** — not as a vibe, but because [his father
+> told him things](#he-inherited-the-fathers-assembled-picture) from three
+> independent directions and he put them together.
+
+So he goes to **[the core](#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose)**
+— the only other group on the island that believes it too. The door is open:
+his father was a member, his name is good, and he arrives with money,
+conviction and a free week.
+
+##### What that does — and what it does not
+
+> **It does not make the rite happen.** An earlier reading had the collapse of
+> the party automatically upgrading the core's rite into a dangerous event. That
+> is the same mistake twice: **[the default is still the
+> festival](MECHANICS.md#the-world-defaults-to-dispersal)**, for the tourists,
+> the society, the islanders and the station alike.
+
+In the untouched timeline he joins, they perform their rite, a dozen people
+attend, most of the membership is at the festival with everyone else, and
+**nothing happens.**
+
+What it creates is a **potential**, which is a different and better thing:
+
+- **Breaking his event is not a win. It is a branch.** The player does not
+  remove a dark route; they relocate the one person on the island with money,
+  conviction and nothing left to do, into the one group with an actual protocol.
+  **Whether that becomes anything is entirely the player's work.**
+- **The core gets a benefactor** — resources, energy, and someone young enough
+  to carry it. That raises the *ceiling* of what the rite could be. It does not
+  raise the floor.
+- **The old priest is believed.** By a serious man, with standing, for the first
+  time in years — after a lifetime of being told he is an embarrassment and
+  [quietly removed for it](#he-rarely-says-mass-because-he-was-eased-out-not-because-he-cannot).
+  It would transform him, and it should be written as a kindness that turns out
+  to be a catastrophe **only if the player makes it one.**
+- **And the father's three strands come home.** The assembled picture arrives
+  inside the one group positioned to act on it.
+
+##### Not a conversion
+
+He does not find faith. **He redirects the same appetite.** He wanted the
+legendary night; the core offers the legendary night with a theory attached, and
+a better claim on it. Write it as a man upgrading his plan, not as a man
+humbled.
+
+##### And it gives the baseline its sting
+
+The core has been correct in principle and wrong in practice for a century. The
+rite is performed, badly attended, and nothing comes.
+
+> **This is the year they are right** — and in the baseline they still get
+> nothing, because the thing they are inviting spends the evening at a music
+> festival with everybody else.
+
+#### A caution about the pattern
+
+This is the **second** group on the island built as *visible body, smaller real
+reason*. There are exactly two:
+
+| | how long the gap took to form | where the core sits |
+|---|---|---|
+| **[the society](#he-heads-the-society-and-its-core)** | **a century.** The body forgot | the core is the **original** purpose, surviving inside a body that drifted |
+| **the tourists** | **eighteen months.** The body never knew | the core is the **origin**, and the body is the cover it built |
+
+Same shape, opposite histories, wildly different timescales. Written that way it
+reads as an observation about how these things form. Written carelessly it is
+the same reveal twice.
+
+> **The [native community](#the-native-community) is not an instance of this**,
+> and should not be made into one. The matriarch's ceremonial role is **a public
+> office with no concealed purpose** — everyone knows it exists and what it is
+> for. What she has that others do not is skill, not secrecy.
+
+##### Where the pattern would tip over
+
+**[The station](#the-director) is the one that could make it a third**, and it
+is deliberately built not to be. The director has a loyal group inside a public
+institution, which is the right shape — but **nothing about it is concealed
+except the through-line.** Every project is real, funded, published and
+defensible; only the fact that a dozen of them are one project is unstated.
+
+> A third *hidden core* would be a tic. **A third kind of hiding is a theme.**
+> Keep the difference sharp, and do not build a fourth of anything.
+
+### The old hippies
+
+> Promoted from a [faction table](#who-lives-here) row, because the only viable
+> orgiastic route in the game runs through them.
+
+Settled here decades ago, on land they did not have a claim to, in pursuit of a
+paradise they then spent forty years defending against everyone who arrived
+after them — including their own children. The faction table has them wanting
+**paradise preserved *on their terms*** and extracting **belonging in a place
+that is not theirs**, which remains exactly right and is the hardest extraction
+in the design to write honestly, because it is the gentlest and the most
+sincerely meant.
+
+#### They supplied the brother's drugs
+
+**The concrete hook, and it is a good one.** Whatever is going to the hotel came
+from the beach. They are **already materially inside a plan they would be
+appalled by**, and they have no idea what it is for.
+
+Which gives the player a lever that is simply the truth: tell them what their
+supply was for. It costs nothing, it is accurate, and it detonates.
+
+#### They are the bridge between the tourists and the island
+
+Nobody else is. They are **white, foreign, and have been here forty years** —
+not of the community and no longer of anywhere else. That makes them the only
+group that can plausibly convene outsiders and islanders on the same sand,
+which is the precondition for [the beach
+route](MECHANICS.md#the-other-viable-high-intensity-event-is-the-beach).
+
+> And it is the one occasion where their forty years of **not quite belonging**
+> turns into a capability. They have spent decades being tolerated by both
+> sides. Here that is worth something.
+
+#### Their generational conflict is the cruellest one
+
+| | |
+|---|---|
+| **the founders** | came for freedom, built a paradise, and now own the gate |
+| **their children** | grew up here, are not islanders, are not visitors, and inherited an ideology that cannot explain why they are landlords |
+
+The [generational axis](#the-generational-axis) version here is **children who
+cannot even make the accusation cleanly**, because the parents agree with every
+word of it in principle.
+
+#### Two cautions
+
+- **Not comic relief.** Ageing hippies are an easy laugh and the laugh costs the
+  design everything it needs them for.
+- **Their sincerity is the point.** They did mean it, they do still mean it, and
+  they have been quietly profiting from a housing market and a land settlement
+  they would denounce in any other country. **Both at once, with no irony
+  available to them**, per [the standing
+  rule](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype).
+
+- **[open]** Whether a founder is named and cast, or the group acts through its
+  children. The beach route probably needs one founder with the standing to
+  convene it, and one of the children with ties to the young islanders.
 
 ### The young priest
 

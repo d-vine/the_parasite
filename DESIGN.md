@@ -42,7 +42,7 @@ radii](STORY.md#he-heads-the-society-and-its-core).
 | 7 | Is another seed present at this eclipse? | **Probably unnecessary now** — [the brother](STORY.md#a-human-has-already-done-your-mid-game) supplies the rival planner, the clock and the hurry, with no second non-human agent |
 | 8 | What sits above rung 3 of the escalation ladder? | It is not negotiation; the late game has to escalate into human action |
 | 9 | How does information pass from the entity into a human? | Brokerage is the late-game verb and it has no mechanism yet |
-| 10 | How close is anyone to the fossil-locality/eclipse-path correlation? | It is the most plausible route to the truth and sets the third act's clock |
+| 10 | How close is anyone to the fossil-locality/eclipse-path correlation? | It is the most plausible route to the truth and sets the third act's clock — and [the one person positioned to find it](STORY.md#the-one-who-could-work-it-out) is the one the station has decided not to take seriously |
 | 11 | Is a direct link per-timeline or cross-timeline, and which one holds you at expiry? | It is the survival condition and its scope is undefined |
 | 12 | How is the epidemiological signature computed from play? | It is the game's main detection channel and must respond to style, not just volume |
 | 13 | Does transcendence collapse sibling timelines, or only your own branches? | Decides whether victory is fratricide at scale or something much smaller |
@@ -51,6 +51,172 @@ radii](STORY.md#he-heads-the-society-and-its-core).
 
 ### Resolved
 
+- **A technical power source cannot produce transcendence.** The shell never
+  replenishes — allowing a recharge would destroy the deadline, the budget and
+  the fail state — and **energy was never the bottleneck**: transcendence is a
+  compute threshold and a generator supplies no cognition. The attempt still
+  belongs in the game, because it half-works: a supply can keep the entity fed,
+  so it need not consume anyone, but every interesting operation runs on the
+  shell. **A generator keeps you idling; it does not let you act.**
+- **The station's distinctive capability is synchronisation, not venue.** A
+  public viewing is the festival in a lab coat; what nobody else can do is make
+  several hundred people experience the same thing on the same second. **The
+  bottleneck is correlation, and science is the discipline of making
+  measurements correlate.**
+- **The scientists' route is consent — at the top only.** The late-game verb
+  inverts from avoiding detection to **getting caught on purpose**, by the right
+  people, early enough to act. But the director's group consents and **the
+  several hundred people in the field do not**: they came to an observation.
+  **Research ethics reproducing the parasite exactly** — a small educated group
+  deciding, on behalf of a population, that the benefit justifies not telling
+  them. The route stays attractive; it must never look clean.
+- **There is a semi-colonial angle and it is the point.** They feel entitled to
+  the truth, the discovery and the right to describe, and they will not let
+  *provincial superstition* stop important work. They would use those words,
+  about people whose ancestors recorded this correctly.
+- **They cannot do it alone.** A station is dozens; the threshold needs hundreds.
+  **They have the precision and none of the bodies**, so the route is gated on an
+  alliance — and the partner that works is the native community, **whose only
+  bridge into the building is the islander researchers the director kept out.**
+  To get what he has wanted for twenty years he must go to them in public and
+  ask. **The route is gated on his humiliation.**
+- **The two descriptions are the same description** — a synchronised observation,
+  *a wet CPU cluster* as somebody says in a corridor without flinching, and
+  drawing him in, joining with him, sending him on his way. Both correct, each
+  offensive to the other, standing in the same field on the night.
+- **And the finder is the one they will send**, because she has standing in both.
+  **All her options are bad**, and whether the matriarch says yes to her when she
+  would say no to anyone else is **the best outcome in the game or the most
+  complete extraction in it. The design should not decide.**
+- **Its final scene is the argument.** If they understand the mechanism they
+  understand that transcendence collapses sibling timelines — so a handful of
+  people must consent on behalf of everyone in the branches it ends. They
+  cannot, and would have to anyway. **The only ending where somebody says yes
+  with their eyes open.**
+- **The seed is found by a young islander research assistant**, one of this
+  year's quota intake. She recognises it as one of the rare fossils — she has
+  handled them before and knows the folklore — and can tell this one is
+  different. She carries it into the station, **which is the only reason the
+  game can start**, and is let into the research reluctantly after proving she
+  knows her material. **She has to interview for admission to her own
+  discovery.**
+- **It is the director's catastrophe, in act one.** The thing he spent twenty
+  years quietly hunting arrives in the hands of the person he least wanted to
+  give it to, in front of everyone, and he cannot exclude her.
+- **The baseline is her story, told from her point of view.** A pass with no
+  jumps *is* her weeks, end to end — so the spine is authorable as ordinary
+  single-viewpoint prose, **the first jump is the moment the story stops being
+  hers**, and **possession costs the player the only continuous viewpoint in the
+  game.** The untouched run ends with her very nearly understanding what she
+  found, nobody harmed.
+- **The passenger phase is the frame, not a prologue.** The parasite has no host
+  at the start because nothing is bridged yet; the baseline is simply the run
+  that never leaves it.
+- **The station's director is the developer's protégé** — brilliant, disliked,
+  risen on a powerful man's patronage, and a society member like everyone at
+  that level. **His career is the merit argument he cannot make**, which is why
+  the loudest unspoken version of it at the station is his and is a defence.
+- **The father's material went to two people**, not one: his eldest son, who
+  read the lore for its orgies, and the director, who **has investigated it
+  properly for twenty years.** Each probably believes he is the real heir. If
+  the brother's party collapses, there are now **two doors** — the society's
+  core, and this man.
+- **The director's secrecy is a different mechanism from the island's others.**
+  Nothing is hidden except the through-line: a dozen honest, published,
+  defensible projects bent to serve one unstated question. **The evidence is all
+  in print**; nobody has read the back catalogue in order. This is the place the
+  design would otherwise have grown **a third hidden core**, and is deliberately
+  built as a different kind of hiding instead.
+- **He has a small group of followers** — loyal to a person rather than a
+  department, protective, internally divided, and at least one of whom has begun
+  to wonder whether he is a serious scientist with a hunch or a man in the grip
+  of something.
+- **He will not let the islanders in**, in the year he was finally handed the
+  minds that could finish it. He says it is about standards; **it is that he
+  fears they would understand it too quickly and it would stop being his.**
+- **He and the old priest are each other's best source and hold each other in
+  contempt** — same object, opposite methods, both in the society. Only the
+  parasite can see it, and brokerage is how it gets spent.
+- **The station has a fresh fracture.** The land deal bought scholarships and a
+  **quota of research posts for islanders**, and **this is the first year every
+  reserved post is filled.** Colleagues were let go to make room, and the
+  international staff carry a quiet conviction that the islanders are not here
+  on merit. The two groups have drifted apart all year and it peaks at the
+  eclipse.
+- **The islander researchers are the land payment in human form** — posts bought
+  by the losing of the ground the telescope stands on — which gives the native
+  community a second, far more sympathetic co-option question than the society's.
+- **They collapse the compute/standing split.** High cognition *and* real
+  community standing *and* strong symbiote protection *and* the highest
+  cross-faction connectivity on the island: **the most valuable hosts in the
+  game and among the hardest to take.** They are also the pre-existing bridge
+  between the station and the community, which is what integration needs.
+- **The one mind that could assemble the truth is the one the room has decided
+  is not serious** — an islander researcher holds both the folklore and the
+  archive, and nobody at the station will listen. True without any parasite;
+  trivially cheap for one to make permanent.
+- **The darkest route is collective rage that leads to an atrocity and is
+  fuelled by it** — a lot of very angry islanders, a few terrified outsiders.
+  It is **the only event form that feeds itself**, so it is free to maintain and
+  **the player does not control where it stops.**
+- **The field forms among the many.** Connection needs a *shared* state, so an
+  event's yield turns on **the ratio**: many in one state with few outside it is
+  an event; few in one state with many outside it is a crime. **Harm is not an
+  intensity dial** — the hurt leave the field — so harm only pays when the
+  harmed are a small minority of those present.
+- **[scope decision] Collective fear and pain are not explored.** In principle
+  they are probably powerful and nothing in the fiction forbids them; **this
+  design simply does not go there.** The two mass states in play are shared joy
+  and shared rage.
+- **The brother's plan cannot work at any price** — the island stops it, and if
+  it didn't, it yields nothing. Best case for him is mass sexual assault with no
+  payoff. **It is not a route, it is a fuse:** its value to a dark player is
+  that it is *discovered*, late and publicly, igniting a riot. The dark play
+  around it is therefore telling the truth at the chosen hour.
+- **The only viable orgiastic event is the beach**, reached by redirecting his
+  apparatus — drugs, costumes, money, guests — through [the
+  hippies](STORY.md#the-old-hippies) who supplied him, plus the young islanders
+  and the native community. A pan-pagan moonlit bacchanal of people who want to
+  be there: **the adult version of the music festival.** Not innocent — the
+  power imbalances are visible and the game must not launder them — but the
+  people in it chose to be.
+- **Integration is the other way to remove opposition, and the better one.**
+  Suppression subtracts and must be renewed; integration removes the reason to
+  resist, adds the faction to the headcount, generates credit, and holds. **And
+  you do not need everyone, just enough** — so the mid-game is a per-faction
+  choice between bringing them in and keeping them quiet. **The decent play is
+  the strong play**, which gives the easy-choice inversion an engine.
+- **The tourists have the society's two-radius structure.** Most of the twelve
+  came for an exclusive eclipse event among peers and know nothing of the plan;
+  **the brother and one or two others** are the core engineering the orgy.
+- **The non-core guests will not object.** They are comfortable with the
+  island's exploitation so long as it serves their pleasure and they need not
+  look at it; the sexualisation of the islanders will be obvious early and they
+  will read it as *edgy* or *cute*. **They are not a resistance surface — they
+  are the game's "how could you let this happen" arriving pre-answered**, a
+  picture of the end state the player manufactures in everyone else. Mechanically
+  they are food: high cognition, no standing, weakest symbiote protection,
+  cultivated volatility.
+- **If the orgy happens they are used too** — some enthusiastically, some swept —
+  and **all of them have recourse no islander has.** The asymmetry in the
+  aftermath is sharper than any on the night.
+- **If the event collapses, the brother joins the core of the society**, because
+  he is one of the few people here who believes something could actually happen.
+  This **raises the rite's ceiling, not its floor** — the old priest is believed
+  by a serious man for the first time in years, and then everyone goes to the
+  festival anyway.
+- **The world defaults to dispersal — a standing rule, got wrong three times.**
+  The festival is the attractor, not one option among several. **Collapsed plans
+  do not concentrate elsewhere**, no faction's failure hands the player a crowd,
+  and **every narrow intense gathering in the game exists because the player
+  built it.** Authoring check: does a stated consequence claim people
+  concentrated without the player causing it? Then it is wrong.
+- **Watch the pattern.** **Exactly two** groups have a visible body and a
+  smaller real reason — the society, whose body drifted over a century and whose
+  core is the surviving original purpose, and the tourists, whose body never knew
+  and is the cover the core built in eighteen months. **The native community is
+  not one**: the matriarch's role is a public office with no concealed purpose.
+  **Do not build a third.**
 - **The dark game is mostly suppression, not incitement.** Symbiote resistance
   acts through hosts, so opposition is **named people performing ordinary
   protective acts**; the player's work on a harmful route is stopping those acts.
