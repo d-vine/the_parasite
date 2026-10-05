@@ -117,10 +117,15 @@ A writing constraint, and a productive one:
 
 ### The parasite (you)
 
-You hatch from a seed in a **larval** state. Larvae feed on human emotion and
-consciousness for energy, and on human cognition for compute. The purpose of the
-larval stage is to accumulate enough compute to **transcend** into the adult
-form — possibly the final form.
+You hatch from a seed in a **larval** state. **A larva has its own power and its
+own memory and no mind at all** — it borrows every thought it has from a host.
+The purpose of the larval stage is to reach enough borrowed processing, at one
+moment, to **transcend** into the adult form — possibly the final form.
+
+> **It does not feed on feeling.** An earlier model had emotion as fuel and
+> cognition as the goal. There is only cognition. **Emotion is the condition
+> under which a mind becomes usable**, not a substance the entity consumes —
+> see [the valve](MECHANICS.md#compute-is-bandwidth-and-emotion-is-the-valve).
 
 An adult perceives, harvests and manipulates the **quantum fields that
 constitute reality** directly. It no longer needs hosts. It stretches across
@@ -146,10 +151,14 @@ and why you are alone.
 
 #### The shell
 
-The seed carries a **third power source, distinct from energy and compute.** The
+The seed carries **the larva's entire power supply and its entire memory.** The
 shell is what makes a larva more capable than a symbiote — it is the organ that
-creates and merges timelines and that can overpower a symbiote's resistance —
-and it is also what binds you, since you can never leave its reach.
+creates and merges timelines and that can overpower a symbiote's resistance, and
+the only place anything is stored — and it is also what binds you, since you can
+never leave its reach.
+
+> **It is the whole of what you are**, because the thinking is somebody else's.
+> Power and storage here; processing out there, on loan.
 
 **It is finite and never replenished.** If it runs out before you transcend, you
 do not die: you **become a symbiote** in order to survive. That is the failure
@@ -665,18 +674,19 @@ are.
 
 ##### Humans are CPUs, not batteries
 
-A useful correction to the obvious reading. **Energy from emotion is the
-operating budget; compute from cognition is the goal.** Two resources, one
-substrate — and it explains why they have different topologies:
+A useful correction to the obvious reading, and the design has since gone
+further: **there is no fuel term at all.** The shell supplies power; humans
+supply processing; nothing is burned.
 
-| | fungible? | why |
+| | | |
 |---|---|---|
-| **energy** | yes — harvest anywhere, hold across timelines, `max` per category | it is fuel |
-| **compute** | **no** — must accumulate within one line, among co-present minds | **processors must be interconnected, and interconnect has a latency constraint** |
+| **the shell** | power and storage | **portable, finite, yours** |
+| **human minds** | processing | **not portable, not stored, not yours** — available only while a mind is in a state that releases it |
 
 That is the precise reason the transcendence event requires physical proximity:
 **collective effervescence is the bus.** A coherent computation cannot run on
-minds that are not coupled.
+minds that are not coupled — and emotion is what makes a mind coherent enough to
+couple at all.
 
 And a borrowed processor does not notice. Nobody is drained. They are briefly,
 unknowingly, running something else's process on their spare cycles.
@@ -781,6 +791,135 @@ enjoys escalating and the structure curdles.
 > deeper. They serve no mechanic, which is exactly why they will be first to be
 > cut when scope tightens. **Treat that budget as structural.**
 
+### [open, major] Should transcendence be reachable at low deviation?
+
+**A genuine fork, and the two answers are different games.** Recorded in full
+because the current design has been building on one of them for a long time.
+
+#### The question
+
+> If winning **requires** unpalatable acts, then the goal itself becomes
+> suspect — and **the parasite becomes an actual parasite** rather than
+> something that could, in principle, coexist.
+
+#### Option A — reachable benignly (the current design)
+
+The [festival, beach and observance routes](MECHANICS.md#the-forms-it-can-take)
+work, and [integration beats
+suppression](MECHANICS.md#integration-is-the-other-way-to-remove-opposition-and-it-is-the-better-one).
+
+| buys | costs |
+|---|---|
+| [The inversion](#the-inversion-underneath-it-the-easy-choice-is-the-right-one) — **virtue is free and effective**, so a player's darkness is elective | **The species is not really parasitic**, which weakens the title, the ecology and the deep-time material |
+| **No alibi.** Decency was available and cheap; nobody made you | **The benign route risks being simply optimal**, leaving the dark content as a curiosity |
+| The culpability structure stays sharp | *The kindest route works best* indicts the player while slightly letting the **premise** off |
+
+#### Option B — transcendence requires harm
+
+| buys | costs |
+|---|---|
+| **The species is genuinely parasitic.** Reproduction requires damage, which is coherent with hundreds of millions of years of used substrates | **Kills the inversion**, which is woven through four documents |
+| **The goal becomes the question** — not *how will you win* but *should you* | **Restores the alibi.** If the game requires it, *the game made me* becomes available |
+| **Symbiosis becomes a moral choice rather than a fail state** — losing is something you might pick | **A lot of authored benign content cannot win**, which is a dead end |
+| The humans' resistance becomes **correct**, not merely natural | The design already fears the finger-wag; **railroading is the same failure from the other side** |
+
+> **And the question resolves further down.** [The only clean run is the one
+> that abandons transcendence](#the-only-clean-run-is-the-one-that-abandons-transcendence),
+> which is a crime against the parasite's own species. That is a better answer
+> than either option: **nothing is clean, and the only clean act is not to act.**
+
+#### Recommendation: neither. Keep A, and make transcendence itself the unpalatable act.
+
+**The thing Option B is reaching for is already in the design and is not being
+used.**
+
+> [Transcendence collapses every other timeline](#the-parasite-you). The benign
+> route harms nobody **in the surviving line** — and ends every other version of
+> every person the player ever met.
+
+So the benign run is **clean locally and annihilating globally.** The parasite
+is an actual parasite, at a scale that makes coercing a few islanders look
+parochial. It does not need to be cruel on Tuesday to be the worst thing that
+ever happened here.
+
+##### Which makes the summit a real decision, and only on the benign route
+
+At the threshold the player can complete, or decline and
+[stay](#the-way-out-should-be-a-real-ending).
+
+| arriving from | what declining means |
+|---|---|
+| **a dark run** | **nothing much.** The moral capital is already spent; refusing at the end undoes none of it |
+| **a benign run** | **a genuine renunciation** — and accepting is a genuine crime, committed by someone with no excuse |
+
+> **The benign route is the only one where the final choice carries weight**,
+> because it is the only one where the player has not already answered the
+> question with their behaviour.
+
+That turns *the way out should be a real ending* from a counterweight into
+**the actual climax**, and it costs nothing — the mechanism is already written.
+
+##### What this preserves
+
+- **The inversion survives**: decency is still free, still effective, still
+  elective.
+- **The alibi stays gone**: nothing forces the player's hand at any point,
+  including the last one.
+- **The parasite is still a parasite**, and the premise is no longer let off.
+- **The thesis sharpens** from *you cannot win without harming* — which is true
+  but flat — to **you can win without harming anyone you can see, and it is
+  still monstrous.**
+
+##### If Option B is taken anyway
+
+It is a legitimate game and these are the two things to get right:
+
+- **Do not let the first run teach it.** If the lesson *you cannot win nicely*
+  arrives early, exploration dies. It should be learned by a player who has
+  genuinely tried.
+- **Give the refusal somewhere to go.** Option B's whole weight rests on
+  symbiosis being a real ending, so it needs to be written as well as the win is.
+
+##### A difficulty-curve variant, compatible with either
+
+**Low-deviation transcendence may be out of reach on the early seeds** — not
+morally gated, just not yet achievable without the drivers and the reach that
+folding accumulates.
+
+> Early benign attempts fall short. Late ones succeed. **The player learns that
+> the clean route is possible from having failed at it**, which is a much better
+> way to find out than being told.
+
+##### The variant that resolves it: the clean run is not innocent either
+
+**[proposal, strong]** Sharper than the difficulty curve, and it answers the
+original question properly: **some of what a clean run requires can only be
+acquired in a dirty one.**
+
+It follows from an existing rule — *you cannot amplify someone into a state you
+have never seen in them.* **To use a person's courage you must have seen their
+terror**, and extremes do not surface in ordinary weeks. The gentle run's
+precise, merciful touches depend on a catalogue of states a crueller run
+produced.
+
+> **And [the fold launders it](MECHANICS.md#the-fold-is-a-laundering-operation):
+> deviation does not survive, drivers do.** The damage stays in the discarded
+> draft and the capability comes with you. **A clean run is clean because the
+> dirty one was folded away.**
+
+Which gives the same answer as the recommendation above, one level down:
+**clean where you can see, compromised where you cannot.** The inversion
+survives and stops being comfortable — decency is free *within* a run and
+subsidised *across* runs.
+
+**And it is not a railroad.** Winning dirty is available immediately with no
+prerequisite; declining to win is available from the first run. Only *winning
+cleanly* has a price. **The game is not withholding the good ending, it is
+pricing an aspiration** — a tragedy of sequence rather than a gate.
+
+Full treatment: [And the gate runs the other
+way too](MECHANICS.md#and-the-gate-runs-the-other-way-too).
+
 ### The way out should be a real ending
 
 **The symbiote ending is the counterweight, and it is available from the first
@@ -797,6 +936,208 @@ and stopping is an authored ending rather than closing the game.
 It should be findable and real rather than implicit. It is the only answer this
 structure has to its own trajectory, and it is a good one.
 
+---
+
+
+### The only clean run is the one that abandons transcendence
+
+**And that is a crime against your own species.** This closes the moral
+structure, and it closes it as a tragedy rather than a dilemma.
+
+#### Nothing else is clean
+
+| | what it costs | visible? |
+|---|---|---|
+| **transcend after a dark run** | people, directly | **yes** |
+| **transcend after a "clean" run** | [every other timeline and everyone in them](#the-parasite-you) — and [the competence it ran on was bought by harm elsewhere](MECHANICS.md#and-the-gate-runs-the-other-way-too) | **no.** Both ledgers are hidden |
+| **decline** | **your species' only reproductive act** | only to something that is not there to see it |
+
+#### Why declining is a crime against the species
+
+Not sentiment — arithmetic.
+
+- **Transcendence is the only way to become an adult**, and [reproduction is two
+  adults merging timelines](#the-parasite-you). A larva that stops never
+  reproduces. There is no other route.
+- **Symbiosis is a demographic sink.** [The symbiote population is
+  conserved](#how-symbiotes-persist-between-eclipses) — created only by failed
+  parasites, lost to failed transitions, never growing. Every larva that stays
+  is a line that ends.
+- **The seed was placed deliberately**, by an adult that could see far enough
+  into spacetime to aim. **[proposal]** Somewhere, a parent's reach simply ends
+  short — a timeline that never arrives at a merge, with nothing present to
+  notice the absence.
+
+> **If every larva did what the clean run does, the species ends.** The
+> transcendence event is not greed. It is the only thing this kind of life does
+> to continue, and the player's kindest possible act is to refuse to do it.
+
+#### Two loyalties, and no act satisfies both
+
+> **To do right by the humans, you must refuse to be what you are.**
+> **To do right by your own kind, you must annihilate uncountable people.**
+
+**There is no clean action on both axes**, and the design should never offer
+one. That is the difference between a tragedy and a puzzle: a puzzle has a
+solution.
+
+> **But a closed tragedy is a nihilism**, and there is a way out that does not
+> open one: [the mutualism already
+> works](#the-way-out-of-the-zero-sum-the-mutualism-already-works). It does not
+> make the sacrifice smaller. It makes it possibly not pointless — and the
+> player never learns which.
+
+#### It is the same choice everyone on the island is making
+
+[The rhyme](#two-layers-and-the-rhyme-between-them) at its strongest, and it
+must stay unstated:
+
+| | owes | and owes |
+|---|---|---|
+| [the matriarch](STORY.md#the-matriarch) | a culture that must be preserved | a generation whose justice preservation keeps postponing |
+| [the young](STORY.md#the-generational-axis) | a true grievance, acted on | a community that the acting on will break |
+| [the director](STORY.md#the-director) | a truth worth twenty years | the people he would have to instrument to reach it |
+| [the old priest](STORY.md#the-old-priest) | an institution that raised him | a thing he believes is actually true |
+| **the parasite** | **the people it is living inside** | **the only future its kind has** |
+
+**Every character in this story is choosing between two things they owe.** The
+parasite's version is the largest and the least articulate, and nobody in the
+world is in a position to recognise it as the same shape.
+
+#### What it does to the symbiote ending
+
+[The way out](#the-way-out-should-be-a-real-ending) was already the counterweight.
+This makes it the hardest thing in the game.
+
+**Every symbiote on this island ran out.** Shell expired, choice unavailable,
+settled for what was left. If the player declines deliberately, then:
+
+> **They are the first of their kind to have chosen it.** And nobody will ever
+> know — not the humans, who cannot see them; not the other symbiotes, who [are
+> not agents](#they-are-not-agents) and have nothing to know it with; not the
+> adults, who will simply register a timeline that never arrived.
+
+A renunciation with **no witness, no record and no audience**, performed by
+something [with no interiority to be comforted by
+it](#what-kind-of-being-this-is). The entity does not even get to feel that it
+was good. It just does not do the thing.
+
+> **The way out of the spiral is to want less** — and the price of wanting less
+> is everything your species was ever going to be.
+
+#### Keep the word *crime* out of the entity
+
+**Authorial framing only.** The species has no morality, no loyalty and no
+concepts; it cannot betray anything, because there is nothing it is faithful to.
+
+> **The crime is visible only from outside** — which is exactly where the player
+> is sitting, and is the one position in the fiction from which both ledgers can
+> be read at once.
+
+The entity never knows it is making a sacrifice. **The player is the only thing
+in the world that can see what was given up**, and that asymmetry is the ending.
+
+
+### The way out of the zero sum: the mutualism already works
+
+**[proposal, strong]** The structure above is a closed tragedy — transcend and
+annihilate, or decline and end a line — and a closed tragedy is a nihilism. The
+design has the makings of a third reading and has not been using it.
+
+#### Symbiosis is not a failure state. It is a working mutualism.
+
+Look at what a guardian actually does for a person:
+
+| | |
+|---|---|
+| **protects them**, [regulating toward their good and their community's](MECHANICS.md#what-they-regulate-toward) | not a metaphor — it is the whole of what it does |
+| **interferes minimally**, by its own standard | the host keeps their agency entirely |
+| **persists across generations**, moving into a relative | a household holds one for centuries |
+| **connects them** to [a network and a store](#the-network-is-also-a-store) | which [one woman on this island can read](STORY.md#the-practice-is-technique-not-spirituality) |
+
+> **A thousand years of stable, mutual benefit**, running quietly, on an island
+> where nobody calls it that. **The species' "failure" state is a success that
+> no one has recognised as one.**
+
+The only thing wrong with it is that it is **reproductively inert.** That is a
+problem for the parasites. It is not a problem for the humans, who are getting
+the better end of it.
+
+#### What neither species can do, and humans can
+
+| | parasite | symbiote | human |
+|---|---|---|---|
+| intent | a tropism it does not understand | none — [not an agent](#they-are-not-agents) | **yes** |
+| concepts | none | none | **yes** |
+| planning across generations | no — one eclipse, then gone | no | **yes, and they already do it** |
+
+**Neither of these beings can decide anything.** The island's humans have
+institutions, records, ceremonies and arguments that have carried accurate
+observations for a thousand years without anyone knowing what they were for.
+
+> **The species' real bottleneck is not energy or compute. It is that it arrives
+> blind, among strangers, with weeks to work, and has to take what it needs.**
+> **An informed partner removes that bottleneck**, and only a human can be one.
+
+#### The hinted third option: you decline, and prepare the ground
+
+**[proposal]** A parasite that declines **at the threshold** still has shell. One
+whose shell merely ran out does not.
+
+> **That is a state that has never existed**: a guardian that retains reach — not
+> consuming, not transcending, but **not inert either.**
+
+It cannot reproduce; only adults do that. **What it can do is the one thing no
+symbiote has ever been able to do: work with people who know, across
+generations.** Carry what it learned. Broker. Make sure the next arrival is not
+a stranger.
+
+And a larva that wakes into **a prepared, willing, informed community** —
+symbiotes already there, a gathering already scheduled, people who understand
+what the eclipse is — **might reach the threshold without taking anything from
+anyone.**
+
+> **The cooperation does not save you. It makes your successor's transcendence
+> cheap.** You give up your own in order to make someone else's clean.
+
+##### Which is the fold, performed on the species
+
+**The player has been doing this all game.** [A run is discarded to give the next
+one reach](MECHANICS.md#timelines); the damage stays in the draft, the
+capability carries forward.
+
+> **The ending is that move made one level up.** Spend yourself so that what
+> comes after starts further in. **The game's core loop and its best ending are
+> the same gesture**, and nothing has to point that out.
+
+#### Calibration, and this is the part that matters
+
+**It must not become a cosy answer.** A clearly available, clearly good third
+option evaporates the tragedy and the design loses everything it has been
+building.
+
+- **It is a hint, never a plan.** Nobody confirms it. [All the game gives you are
+  theories](#all-the-game-gives-you-are-theories), and this is a theory about
+  something that has never been tried.
+- **It is unverifiable by construction.** The player cannot see whether a
+  prepared site works. They invest in a future outside their own reach — which
+  is the one kind of faith a thing with no interiority can actually perform,
+  because it requires no feeling at all.
+- **It costs exactly as much as before.** You still do not transcend. You still
+  end your line. **It removes the futility, not the sacrifice.**
+- **It should require having done most things right** — a community that trusts
+  you, a human who knows what you are, [and was told
+  deliberately](STORY.md#and-the-player-can-hand-it-over). A player who spent the
+  game extracting has nobody to leave anything with.
+
+> **The difference is not between a bad ending and a good one. It is between a
+> sacrifice that was pointless and one that might not have been** — and the
+> player never finds out which.
+
+- **[open]** Whether any in-world evidence supports it. **Recommend one piece,
+  ambiguous**: a site in the fossil record where the husks are unusually
+  numerous and unusually unspent, which the director reads as a mass failure and
+  which could be something else entirely.
 ---
 
 

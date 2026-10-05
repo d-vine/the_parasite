@@ -12,7 +12,7 @@
 
 **The engine owns all state. Ink is a content format with local logic.**
 
-Everything systemic — energy, knowledge, hosts, the leash, timelines — lives in
+Everything systemic — the shell, knowledge, hosts, the leash, timelines — lives in
 the host application. Ink holds prose and the choices attached to it, and asks
 the engine for permission when a choice is conditional.
 
@@ -41,7 +41,8 @@ Those are exactly the mechanics in `DESIGN.md`. So Ink is kept, and demoted.
 | Scene prose, choice text | **Ink** | |
 | Scene-local conditionals | **Ink** | via `EXTERNAL` calls |
 | Presentation cues (art, audio, portraits) | **Ink** | as tags on lines |
-| Emotional energy | **Engine** | derived from the graph, never stored |
+| Compute rate | **Engine** | derived from co-present hosts' current states; never stored |
+| Compute-time (competence, and the manipulation budget) | **Engine** | the rate integrated over a single root-to-leaf path, minus manipulation spent on it |
 | Entity knowledge (people, emotions learned) | **Engine** | must survive reset |
 | Symbiote deviation | **Engine** | derived over *all* nodes, detached included |
 | Compute / connected minds | **Engine** | derived over a single root-to-leaf path |
@@ -74,8 +75,10 @@ interface TimelineNode {
   parent: NodeId | null
   inkState: string                      // story.state.ToJson()
   choiceIndex: number                   // which choice produced this node
-  harvest: Record<EmotionId, number>    // what was observable here
-  spend: number                         // price paid HERE, at the time; never recomputed
+  observed: Record<EmotionId, number>   // levels seen here; gates what may be amplified
+  duration: number                      // how long this node lasts; compute-time integrates over it
+  spend: number                         // shell paid HERE, at the time; never recomputed
+  manipulation: number                  // compute-time spent HERE on amplification
   deviation: number                     // signed; counted even when detached
   present: Array<{who: PersonId, state: EmotionState}>  // co-presence + intensity
   connected: PersonId[]                 // minds linked here; compute along a path
@@ -92,49 +95,166 @@ Every mechanic in `DESIGN.md` falls out of that structure:
 | Knowledge survives reset | It was never in the snapshot — it lives in the engine |
 | Timelines keep existing | Nodes are never deleted |
 | Replace a choice | Load node N, choose differently, mark old subtree `detached` |
-| Branch a new timeline | Same, minus the detach, minus the energy cost |
+| Branch a new timeline | Same, minus the detach, plus a `shellCost` |
 | Reconnect / rejoin | Re-attach a detached subtree when state is compatible |
 | Die back to last branch point | Load the nearest ancestor node with >1 child |
-| Energy total | `max` per category over non-`detached` nodes, derived on read |
+| Shell remaining | `capacity − sum(spend over live) − sum(shellCost over all)`, derived on read |
 
-### Energy is derived, never accumulated
+### The shell is derived, never accumulated
 
-**There must be no `energy += x` anywhere in the codebase.** Energy is a pure
-function of the accessible timeline set, recomputed on read:
+**There is one budget and it is the shell.** The earlier two-currency model —
+emotional energy as an operating budget alongside the shell — is gone
+(`MECHANICS.md`, The economy is one resource and one rate). Compute is not a
+stock at all; it is a rate read from the people currently present.
+
+**There must be no `shell -= x` anywhere in the codebase.** Remaining shell is a
+pure function of the graph, recomputed on read:
 
 ```ts
-function available(nodes: TimelineNode[]): number {
+function shellRemaining(nodes: TimelineNode[], capacity: number): number {
   const live = nodes.filter(n => !n.detached)
 
-  // harvest is held as peaks: the highest value reached per category
-  const peaks = mapValues(byCategory(live), vals => Math.max(...vals))
+  // work done *in* a timeline: refunded if that timeline is cut off
+  const work = sum(live.map(n => n.spend))
 
-  // spend is a discrete act recorded on the node where it happened
-  const committed = sum(live.map(n => n.spend))
+  // structural cost: branching, frontier, force. Paid against the graph itself
+  const structural = sum(nodes.map(n => n.shellCost))   // NOTE: all nodes
 
-  return sum(Object.values(peaks)) - committed
+  return capacity - work - structural
 }
 ```
 
-Note the asymmetry, which is deliberate: **harvest aggregates as `max`, spend as
-`sum`.** You hold the strongest resonance you ever reached in a category, but
-every expenditure was a separate act with its own cost.
+Note the asymmetry, which is the whole economy: **`spend` reads live nodes,
+`shellCost` reads every node.** You can undo what you did to people by cutting
+the branch; you can never undo what you did to the graph.
 
-This is not a stylistic preference — it is what makes the economy correct by
-construction rather than by rule (see `MECHANICS.md`, Energy):
+This is what makes the economy correct by construction rather than by rule:
 
-- repetition is idempotent, so grinding is structurally impossible
-- severing a subtree drops both its peaks and its spend, with no special-case code
-- reconnecting restores exactly what was lost, also with no special-case code
+- there is nothing to harvest, so grinding is structurally impossible
+- severing a subtree drops its `spend` with no special-case code
+- reconnecting restores exactly that and no more, also with no special-case code
 - **rewinding needs no undo logic** — spends are node properties, so moving
   around the graph re-derives the correct total for free
 
-Accumulating into a counter would reintroduce every one of those problems and
-require anti-grind rules to patch them back out.
+Accumulating into a counter would reintroduce every one of those problems.
 
-**Invariant: energy is never stored.** There is no energy field in the save
+**Invariant: the shell is never stored.** There is no shell field in the save
 file, nothing to serialise, nothing to reconcile after a rewind. Persist the
-graph; derive everything else.
+graph and the capacity; derive everything else.
+
+### Compute is a rate; compute-time is its integral along the path
+
+Two derived quantities, and they read different things.
+
+**The rate** is read from the present — the room you are standing in:
+
+```ts
+function computeRate(node: TimelineNode, drivers: DriverTable): number {
+  return sum(node.present
+    .filter(p => isLinked(p.who))
+    .map(p => arousal(p.state) * driverQuality(drivers, p.who)))
+}
+```
+
+**Compute-time** is the rate integrated along the current root-to-leaf path, and
+it is both the entity's competence and the currency for manipulation:
+
+```ts
+function computeTime(path: TimelineNode[], drivers: DriverTable): number {
+  // NOTE: `drivers` is the CURRENT table, so an inherited prefix re-derives
+  // against who you are now — the same history yields more to a better parasite
+  const earned = sum(path.map(n => computeRate(n, drivers) * n.duration))
+  const used   = sum(path.map(n => n.manipulation))
+  return earned - used
+}
+```
+
+**The path may begin inside an inherited line** (`MECHANICS.md`, Each run is a
+fresh start, unless you choose otherwise). That changes nothing in the function,
+and the asymmetry it produces is the point:
+
+| | on an inherited prefix |
+|---|---|
+| **deviation** | **stored per node, never recomputed.** You inherit the damage exactly as it was done |
+| **compute-time** | **re-derived with your current drivers.** You inherit the history and extract more from it than its author did |
+
+> **You adopt a past you did not live.** The island remembers what happened in
+> that timeline because that timeline is the one you are standing in.
+
+That requires two fields the schema did not have — `duration` on the node, and
+`manipulation` alongside `spend`.
+
+- **Still no accumulators.** Both are projections; neither is serialised.
+- **The rate gates; the integral pays.** Transcendence thresholds against the
+  *peak rate*; everything else is bought out of the integral.
+- **Path-scoped, so it is positional.** Moving to another branch re-derives a
+  different competence, and severing a branch loses what was earned in it — the
+  same structure as `spend`, with no special-case code.
+- **The clock is the anti-grind.** Compute-time only accrues by advancing the
+  timeline toward a fixed date, so there is no loitering strategy that does not
+  cost the thing it is trying to buy.
+
+> This is why `present` carries `EmotionState` rather than a boolean. **The
+> states of the people standing near you are the machine you are running on**,
+> and `duration` is how long you get to run on it.
+
+### Pushes are admissibility tests, not scheduled jobs
+
+`MECHANICS.md`, *How a push is actually computed*. **The parasite does not
+schedule.** A push is offered iff it would have been computable, and offering it
+means it was:
+
+```ts
+function admissible(push: Push, path: TimelineNode[], drivers: DriverTable,
+                    committed: Push[]): boolean {
+  const window = nodesWithin(path, push.at, horizon(drivers, push.target))
+
+  const capacity = sum(window.map(n =>
+    computeRate(n, drivers) * n.duration))
+
+  // other pushes whose lookback windows overlap this one have already
+  // claimed part of those same host-hours
+  const claimed = sum(committed
+    .filter(p => p.host === push.host)
+    .map(p => overlapCycles(p, window, path, drivers)))
+
+  return costOf(push, stateAt(path, push.at)) <= capacity - claimed
+}
+```
+
+- **There is no pending state.** No job, no `invested`, no partial progress,
+  nothing in flight. The condition is evaluated and the choice is shown or not.
+- **It is retrocausal by construction.** The window of host-hours *preceding*
+  the moment is what pays, and it pays because the push happened.
+- **`horizon` is a lookback, not a lead time**, and it reads the driver for the
+  **target**; `computeRate` reads the **host**. They are often different people.
+- **Contention is per host.** `committed` is filtered by `push.host`, so a second
+  held host is a second pool over the same interval — the mechanical content of
+  the multi-host faculty.
+- **Allocation is global, so edits cascade.** Adding or moving a push can make a
+  distant one inadmissible. The UI has to surface that; the engine only has to
+  re-derive.
+
+**No accumulators, and nothing new to serialise.** Admissibility is derived from
+the path, the driver table and the current allocation on every read.
+
+### The working timeline is a draft; the fold publishes it
+
+Within a run the graph is **mutable**: the player edits choices and the engine
+re-derives. The constraint is a **total computation budget for the timeline**
+(`MECHANICS.md`, The timeline is a draft until you fold it), consumed by work
+done *and* by work discarded.
+
+```ts
+budgetRemaining = capacity(drivers) - sum(allNodesEverEvaluated.map(costOf))
+```
+
+- **Exhaustion freezes the draft** rather than ending the run — the player folds
+  with what they have. This is a state transition, not a death.
+- **`capacity` is a function of driver quality**, so the workspace grows as the
+  only thing that survives a fold improves.
+- **At the fold the graph becomes immutable** and joins the inherited structure.
+  That is the only point where anything becomes permanent.
 
 ### Everything is a projection over the graph
 
@@ -159,7 +279,7 @@ anywhere, and one invariant covers the whole engine:
 The subset is what encodes the design rule, and every mechanic follows from
 which column a quantity sits in:
 
-- energy reads **live**, so severing reclaims spend and forfeits harvest
+- `spend` reads **live**, so severing reclaims the work done in a branch
 - deviation reads **all**, so severing launders nothing — the sin stays, the
   reward goes
 - knowledge reads **all**, so it survives resets for free, exactly as intended
@@ -180,7 +300,7 @@ computed. Do not build a shell inventory.
 is**, rather than on the graph as a whole. Availability is a function of the
 current node's ancestry, so it changes as the player navigates without anything
 being spent or lost. Model it as a query against the current path, never as a
-mutable "unlocked skills" set — the same mistake as an energy counter, in a
+mutable "unlocked skills" set — the same mistake as a shell counter, in a
 different costume.
 - compute reads **one path**, so it is the only quantity a cut can destroy
   outright rather than merely reduce
@@ -214,7 +334,7 @@ raises the price of *future* acts only (`MECHANICS.md`, Spend is immutable).
 
 This is load-bearing. Resistance is derived from the graph; if spend were also
 derived from resistance, severing a branch would change resistance, which would
-reprice every surviving node, which would change energy — a cascade with no
+reprice every surviving node, which would change the budget — a cascade with no
 fixed point. Freezing spend at the moment of the act cuts the cycle.
 
 So keep these two strictly apart, because they are easy to conflate:
@@ -292,11 +412,12 @@ overlapping integrals.
 
 Practical consequences for the code:
 
-- **No accumulators.** There is no energy field, no awareness field, no
+- **No accumulators.** There is no shell field, no compute field, no awareness
+  field, no
   knowledge set in the save file. Persist the graph; derive on read.
-- **Per-node deviation is recorded like spend and harvest** — a third field on
+- **Per-node deviation is recorded like spend** — another field on
   `TimelineNode`, attributed to the node where the act happened.
-- **Detached nodes stay fully populated.** They are excluded from energy by
+- **Detached nodes stay fully populated.** They are excluded from `spend` by
   filter, not by deletion. Never garbage-collect a severed subtree.
 - **Memoise per node, not globally.** Node values are immutable once written;
   only the live/all filters change.
@@ -387,7 +508,7 @@ Two consequences worth noticing, because they are free wins:
   smaller choice than every previous one — worth building as a parameter, not a
   special case.
 - **There is now state above the run** (`MECHANICS.md`, Playthroughs are diegetic):
-  drivers broadcast from a high-energy failure into the next seed. That is a
+  drivers broadcast from a late failure into the next seed. That is a
   campaign-level store, the first thing outside the graph entirely, and it must
   be derived from *how the previous run ended* rather than accumulated across
   runs. Size it by the terminator's final reading, write it once, and let the
@@ -448,9 +569,10 @@ Conditional choices delegate to the engine through `EXTERNAL` functions:
 
 ```ink
 EXTERNAL knows(person, emotion)
-EXTERNAL energy()
+EXTERNAL shell()
+EXTERNAL compute()
 
-+ {knows("clement", "fear") && energy() >= 12} [Press on Clement's fear]
++ {knows("clement", "fear") && shell() >= 12 && compute() >= 3} [Press on Clement's fear]
   -> amplify_fear
 
 + [Press on Clement's fear]   // fallback: shown, but he is still opaque to you
@@ -552,7 +674,7 @@ would be built against the grain. Not recommended unless visuals are urgent.
 The riskiest part of this design is not the prose. It is whether the timeline
 loop is *fun*. Build in the order that answers that soonest:
 
-1. **Timeline DAG + energy economy, with stub text.** Placeholder scene labels,
+1. **Timeline DAG + shell economy, with stub text.** Placeholder scene labels,
    ugly buttons, a visible flowchart. No art, no Ink.
 2. **Wire in inkjs** — real scenes behind the same model.
 3. **Storylet selection.**

@@ -2,10 +2,20 @@
 
 > Working title. Status: concept. Nothing here is locked.
 
-A game about a transdimensional larva that wakes from a seed on an island, feeds
-on human emotion and cognition, and has until the end of a total eclipse to
-gather enough connected minds to transcend — or to become one of the things
-already living quietly inside the people it was using.
+A game about a transdimensional larva that wakes from a seed on an island,
+borrows the minds of the people around it, and has until the end of a total
+eclipse to gather enough connected cognition to transcend — or to become one of
+the things already living quietly inside the people it was using.
+
+**It aspires to be three things at once**, at three different altitudes:
+
+| | |
+|---|---|
+| **inside a timeline** | resource management crossed with a visual novel with backtracking |
+| **across timelines** | a structural puzzle — arranging folded lines so new ones start with more reach |
+| **across the whole game** | an argument about free will, what it is to be human, and **what individuality costs** — descending, as it goes, from folk mystery through horror into exploitation |
+
+See [Three altitudes](MECHANICS.md#three-altitudes-and-the-game-is-all-of-them).
 
 ## The documents
 
@@ -13,7 +23,7 @@ already living quietly inside the people it was using.
 |---|---|
 | **[STORY](STORY.md)** | Premise, the island and its factions, the timescale, the arc, how the player learns anything, reference points |
 | **[ECOSYSTEM](ECOSYSTEM.md)** | The species — parasite, symbiote, their shared origin; deep time and the cognitive explosion; why this site; the moral structure; tone and stance |
-| **[MECHANICS](MECHANICS.md)** | Core loop, the layered design, possession, energy, compute, the shell, timelines, the symbiote opposition, the shape of play across runs, progression, UI |
+| **[MECHANICS](MECHANICS.md)** | Core loop, the layered design, possession, the shell as sole budget, compute as a rate, timelines, the symbiote opposition, the shape of play across runs, progression, UI |
 | **[ARCHITECTURE](ARCHITECTURE.md)** | Technical design: engine/Ink split, the timeline snapshot graph, projections, storylets, build order |
 
 **Conventions.** **[open]** marks something unresolved. **[proposal]** marks a
@@ -33,24 +43,297 @@ radii](STORY.md#he-heads-the-society-and-its-core).
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Is the transcendence threshold a moment or a sustained state? | Prices a long festival against a short riot |
-| 2 | What "leaving everything else unchanged" means mechanically for reconnection | Determines how hard reconnecting is to implement *and* to understand |
+| 1 | ~~Moment or sustained state?~~ **Resolved: a moment.** Compute does not accumulate, so the threshold can only be a peak in instantaneous available processing | — |
+| 2 | What "leaving everything else unchanged" means mechanically for reconnection | **Moot if [folding](MECHANICS.md#timelines) is adopted** — there is no reconnection |
 | 3 | How is volatility computed, and what raises it? | It is the real power curve — a weak parasite in a volatile moment beats a strong one in calm |
 | 4 | Do the four deviation axes reduce to one number? | The escalation ladder may need to read them apart |
 | 5 | Does foresight into severance cost ever become available? | Decides whether caution is a played skill or an unlocked one |
 | 6 | Does the shell buy frontier advancement only, or other things too? | It is the lever that decides whether exploration is wide or deep |
+| 7a | **Should transcendence be reachable at low deviation?** | **The largest open fork in the design.** Requiring harm makes the parasite genuinely parasitic and the goal itself suspect — at the cost of the easy-choice inversion and the player's lack of an alibi. [Full comparison and recommendation](ECOSYSTEM.md#open-major-should-transcendence-be-reachable-at-low-deviation) |
 | 7 | Is another seed present at this eclipse? | **Probably unnecessary now** — [the brother](STORY.md#a-human-has-already-done-your-mid-game) supplies the rival planner, the clock and the hurry, with no second non-human agent |
 | 8 | What sits above rung 3 of the escalation ladder? | It is not negotiation; the late game has to escalate into human action |
 | 9 | How does information pass from the entity into a human? | Brokerage is the late-game verb and it has no mechanism yet |
 | 10 | How close is anyone to the fossil-locality/eclipse-path correlation? | It is the most plausible route to the truth and sets the third act's clock — and [the one person positioned to find it](STORY.md#the-one-who-could-work-it-out) is the one the station has decided not to take seriously |
 | 11 | Is a direct link per-timeline or cross-timeline, and which one holds you at expiry? | It is the survival condition and its scope is undefined |
 | 12 | How is the epidemiological signature computed from play? | It is the game's main detection channel and must respond to style, not just volume |
-| 13 | Does transcendence collapse sibling timelines, or only your own branches? | Decides whether victory is fratricide at scale or something much smaller |
+| 13 | Does transcendence collapse sibling timelines, or only your own branches? | Decides whether victory is fratricide at scale or something much smaller — **sharper under [folding](MECHANICS.md#timelines)**, where you have been consuming siblings all along |
 | 14 | Does the observance's closing dismissal have real mechanical force? | Decides whether the best event in the game is also a boss fight |
 | 15 | Does the title survive contact with *Parasite* (2019) and *Parasyte*? | Working title is fine; a shipping title may need to clear the field |
 
 ### Resolved
 
+- **[proposal, strong] The symbiosis is already a working mutualism**, and the
+  design had not been using it. A guardian protects its host, interferes
+  minimally, persists across generations and connects them to a network and a
+  store. **A thousand years of stable mutual benefit that nobody calls that** —
+  the species' "failure" state is a success no one has recognised. Its only
+  defect is being reproductively inert, which is the parasites' problem, not the
+  humans'.
+- **Only humans can decide anything.** Neither parasite nor symbiote has intent,
+  concepts or the ability to plan across generations; the island's people have
+  carried accurate observations for a thousand years without knowing what they
+  were for. **The species' real bottleneck is that it arrives blind among
+  strangers — and an informed partner removes it.**
+- **[proposal] The hinted third option: decline at the threshold and prepare the
+  ground.** A parasite that declines *with shell remaining* is a state that has
+  never existed — a guardian that retains reach. It cannot reproduce, but it can
+  work with people who know, across generations, so the next arrival wakes into
+  a prepared, willing community and **might reach the threshold without taking
+  anything from anyone.** **The cooperation does not save you; it makes your
+  successor's transcendence cheap.**
+- **Which is the fold, one level up.** The player has spent the whole game
+  discarding a run to give the next one reach. **The core loop and the best
+  ending are the same gesture**, and nothing should point that out.
+- **Calibration is everything here.** It is a hint and never a plan, it is
+  unverifiable by construction, it costs exactly as much as before, and it
+  should require having done most things right — a community that trusts you and
+  a human who was deliberately told what you are. **It removes the futility, not
+  the sacrifice**, and the player never finds out which it was.
+- **The lifecycle must be assemblable from character exposition**, because the
+  ending rests on it — but **less is needed than it looks.** The reproductive
+  biology can stay a gap; the ending only requires *parasites arrive at
+  eclipses*, *success means departure*, *failure means staying*, and *guardians
+  move through families without multiplying.* The conclusion — **every guardian
+  is a failure and failures make nothing** — is an inference **no character ever
+  states.**
+- **The keystone piece is held by nobody.** The folklore has the trickster and
+  the guardians as two unrelated beings; the science has husks and an eclipse
+  track; the network has signature ages. **Only something that can stand in
+  several heads can join them.**
+- **So the cosmology is a reward for the core verb.** The lifecycle is not
+  learned, it is **assembled by possession** — the player understands their own
+  species because they have been a shaman, a scientist and a priest, and no
+  human on the island can be two of those.
+- **Delivery rules**: every piece arrives as **somebody's problem**, never as
+  information; it accumulates across runs like drivers do; **no scene states the
+  conclusion**; and **the entity never understands it either** — the player
+  understands, the thing they are playing does not.
+- **The assembled picture can be handed to a human** — almost certainly the
+  finder, the only person holding enough pieces to receive it. **The design's
+  one genuine act of generosity and its one genuine act of exposure: telling
+  somebody what you are.**
+- **The only clean run is the one that abandons transcendence — and that is a
+  crime against the parasite's own species.** Transcendence is the only route to
+  adulthood and therefore to reproduction; symbiosis is a demographic sink, the
+  population conserved and never growing. **If every larva did what the clean
+  run does, the species ends.**
+- **Two loyalties, and no act satisfies both.** *To do right by the humans you
+  must refuse to be what you are; to do right by your own kind you must
+  annihilate uncountable people.* **The design should never offer a clean action
+  on both axes** — that is the difference between a tragedy and a puzzle.
+- **It is the same choice everyone on the island is making.** The matriarch, the
+  young, the director, the old priest — **every character is choosing between
+  two things they owe.** The parasite's version is the largest and the least
+  articulate, and nobody in the world can recognise it as the same shape.
+- **Which makes the symbiote ending the hardest thing in the game.** Every
+  symbiote here *ran out*; a player who declines deliberately is **the first of
+  their kind to choose it** — with no witness, no record, and no interiority to
+  be comforted by it. *The way out of the spiral is to want less, and the price
+  of wanting less is everything your species was ever going to be.*
+- **Keep the word *crime* out of the entity.** It has no loyalty and cannot
+  betray anything. **The crime is visible only from outside** — which is where
+  the player sits, the one position from which both ledgers can be read at once.
+  **The player is the only thing in the world that can see what was given up.**
+- **[proposal, strong] The clean run is not innocent either.** Some of what a
+  low-deviation run requires **can only be acquired in a darker one** — it
+  follows from the existing rule that *you cannot amplify someone into a state
+  you have never seen in them.* **To use a person's courage you must have seen
+  their terror**, and extremes do not surface in ordinary weeks.
+- **The fold is a laundering operation.** Deviation does not survive it; drivers
+  do. **The damage stays in the discarded draft and the capability comes with
+  you** — a clean run is clean *because* the dirty one was folded away. The
+  player still holds that line and can go and look at it, which makes the
+  discarded draft **a moral object rather than a savepoint.**
+- **It rhymes with transcendence at a smaller scale.** Clean where you can see,
+  compromised where you cannot — stated twice, at two magnitudes, neither out
+  loud. The inversion survives and stops being comfortable: **decency is free
+  within a run and subsidised across runs.**
+- **And it is not a railroad.** Winning dirty is immediate and unconditional;
+  declining to win is available from run one. Only *winning cleanly* has a
+  price. **The game is not withholding the good ending, it is pricing an
+  aspiration** — a tragedy of sequence.
+- **[proposal] Drivers remember what they cost.** Carry provenance on each one
+  and the capability sheet becomes a list of crimes — **the only place the
+  folded damage is still written down**, surviving precisely because the
+  deviation did not. It also gives the losable first run its purpose.
+- **Three altitudes, and they arrive in order.** The second does not exist until
+  the first fold; the third does not exist until enough runs have passed for the
+  drift to be visible. **A player who stops early has played a complete smaller
+  game**, so none of it needs teaching.
+- **The middle altitude is about access, not power.** Folding does not make the
+  parasite stronger — drivers do that. An accumulated structure buys **somewhere
+  further in to begin.** Reach, not force.
+- **The thematic layer cannot go decorative, because the currency is harm.**
+  Cost and exposure are the same measurement, so **optimising the allocation
+  *is* deciding how much damage to do.** A player min-maxing this system is
+  min-maxing people.
+- **[proposal] Genre is the second diegetic readout.** The descent from folk
+  mystery through horror into exploitation **tracks the player's methods, not
+  the plot** — a consequence, never a schedule, so a player who never descends
+  never sees the lower registers. Alongside prose quality showing compute:
+  **one shows what the entity can think, the other what the player has been
+  willing to do.**
+- **What individuality costs is the third altitude's spine.** Transcendence is
+  **the purchase of a self, paid for with everyone else's existence**; symbiosis
+  is the refusal to pay. And **the game's only winning configurations are
+  collective ones** — so the parasite can only buy its individuality with
+  somebody else's dissolution, and so can everyone else on the island.
+- **STANDING RULE: the parasite does not live in linear time.** A timeline is
+  one object to it; it never knows less than it will. **Any mechanic phrased as
+  *commit now and find out later*, *start early or lose it*, or *bet on what
+  will happen* is wrong** — those are tension devices from games about people.
+  The player's suspense comes from **what it turns out they were willing to do**,
+  not from whether a plan works. *(Recorded after making this error twice.)*
+- **Influence is an admissibility test, not a schedule.** The player can make
+  any choice that **would have been computable given the state of the timeline**
+  — and by making it, it *will have been* pre-computed.
+- **Feasibility is three conditions**: (1) the **lookback window** reaches far
+  enough back, (2) there were **enough cycles in it**, and (3) **those cycles
+  were not already spent on another decision.** The third is what makes it a
+  design problem rather than a threshold check.
+  **available(M) = ∫ throughput dt over [M − horizon, M] − cycles already
+  claimed there.**
+- **Three parameters, three sources**: **cost** from the *target's* distance
+  from default, **throughput** from the *host's* brain and arousal, **horizon**
+  from your model of the *target*. **The host does the thinking; the target gets
+  the signal**, and they are often different people.
+- **Windows contend, so the limit is density, not volume.** Touch a decision and
+  the hours behind it are spent. **You cannot act repeatedly in a short span** —
+  which makes the parasite structurally incapable of micromanaging a scene, an
+  aesthetic the design wanted anyway. And **a fast-moving crisis is the hardest
+  thing to work**: arousal gives a richer window, but the decisions are packed
+  too tightly to use it more than once or twice. **Heat buys a bigger push and
+  fewer of them**, which is what stops volatility being strictly dominant.
+- **Placement is the whole skill.** The player is laying out a timeline, and
+  moving one intervention can invalidate another downstream — **not reacting,
+  not planning, allocating**, which is what a thing that sees a timeline at once
+  ought to be doing. Repacking the allocation *is* the optimisation loop.
+- **Two levels of constraint, kept distinct**: **local** window contention, and
+  the **global** total computation budget for the draft.
+- **Which produces the design's strangest true sentence**: the computation was
+  really performed, by host brains, in their linear time — so **someone was
+  distracted last Tuesday because of a choice the player makes now.** [The host
+  showing the load](MECHANICS.md#which-produces-the-strangest-true-sentence-in-the-design)
+  becomes retroactive, and costs nothing.
+- **The timeline is a draft until you fold it.** Within a run nothing is
+  committed: go back, change a choice, re-evaluate. **The fold is publication**
+  and the only point anything becomes permanent.
+- **The constraint on experimentation is a total computation budget per
+  timeline**, larger than one clean pass needs. Reworking eats the slack, and
+  **running out freezes the draft** — a fail-forward, not a death: *you do not
+  lose, you lose the ability to keep changing your mind.* **[proposal]** The
+  budget is a function of driver quality, so the workspace grows as the one
+  thing that survives a fold improves.
+- **Emotional state is a double multiplier**: arousal raises throughput *and*
+  lowers cost, because a flattened distribution puts the target action closer to
+  default. It also widens which actions are reachable at all. **A weak parasite
+  in a volatile moment beating a strong one in calm is now arithmetic, not a
+  rule of thumb.**
+- **Cost and exposure are the same measurement.** Deviation from default prices
+  the act (magnitude) and alerts the symbiotes (signed). One quantity, two
+  projections.
+- **Multiple hosts are separate contention pools.** Contention is per host, so a
+  second host is a second stream of brain-hours over the same window. **That is
+  what the multi-host faculty is for** — not continuity, and not simply a bigger
+  number, but relief from contention at the moments that matter.
+- **The host shows the load.** A brain running someone else's computation is
+  distracted, slow, absent — *you weren't listening.* **A second detection
+  channel that is purely human**, with no symbiote involved — and retroactive.
+- **Compute-time is allocated, not withdrawn.** Cycles spent precomputing a push
+  are cycles not spent understanding the person: **you either learn them or you
+  move them.** That preserves *doing things uses up the thinking* and supplies
+  its mechanism.
+> **Note:** folding is **[proposal, under exploration]**, not resolved. It is
+> recorded here because of how much it would change. See
+> [Timelines](MECHANICS.md#timelines).
+
+- **[proposal] Folding replaces in-run branching.** A run is a line played
+  forward with no rewinding. At the eclipse you either **transcend** or **fold
+  your timeline into a sibling** and continue there. Folds accumulate; a folded
+  timeline is **rigid but can be branched off**; and **available compute at the
+  fold decides what else survives** — driver quality and direct links.
+- **[proposal] The shell stops being a meter and becomes a count.** It funds
+  nothing; it is the body, the store, and a number of attempts. **Compute-time
+  becomes the only in-run currency.** So **you no longer spend a lifespan, you
+  spend the next run** — every expensive act is compute you are not holding at
+  the fold.
+- **[proposal] The eclipse matters in a losing run.** Fold quality reads
+  end-state compute, so a run that cannot transcend still wants the crowd and
+  the peak. **One target, graded outcome** — nothing wasted, never a reason to
+  throw a run away, and every run ends on the same act at whatever scale was
+  managed.
+- **[proposal] Folding is reproduction done badly.** The adult act is merging
+  two timelines; folding is a larva performing it alone, on itself. Previously a
+  grace note about reconnection; this makes it the core loop.
+- **[proposal] It is a genre shift** from save-scum-with-a-conscience to
+  roguelite, and the forgiveness that rewinding supplied is replaced by **you
+  never get worse** — drivers and structure only accumulate.
+- **[proposal] Deviation does not survive a fold — but a savepoint carries its
+  history.** A run from the beginning is a clean island. Branching off an
+  inherited line enters the game weeks in, with every position that path built
+  **and every deviation it accrued.** **You cannot take the progress without the
+  damage**, which prices the exploration verb without a separate cost, and makes
+  **the best positions the most compromised ones.**
+- **[proposal] Drivers are the real progression, because deviation is recorded
+  and compute is re-derived.** A node's deviation never changes; compute-time
+  recomputes against your current drivers. So the same path yields more to a
+  better parasite — and **the mastery curve is getting the same result with less
+  damage**, doing with a touch what once took a shove. The same mechanic also
+  lets a player do far worse things for the same price.
+- **Competence is compute-time: the rate integrated along the path.**
+  Processor-seconds — how much thinking the entity has actually been able to do,
+  with the hosts it had, at the arousal they happened to be in. **And it is the
+  same pool that pays for choice manipulation**, anywhere along the timeline.
+  **You are as capable as the thinking you have been able to do, and doing
+  things uses up the thinking.**
+- **The deadline is the anti-grind.** Compute-time accrues only by advancing the
+  timeline toward a fixed date, so loitering beside an aroused host costs the
+  one thing it is trying to buy. **The clock is the economy's governor**, and
+  the mid-game's central decision is *sit in the hot room and get cleverer, or
+  act now.*
+- **Transcendence thresholds against the peak rate; everything else is paid out
+  of the integral.** Both remain projections — two new node fields (`duration`,
+  `manipulation`), no accumulators.
+- **Portray the prefrontal takeover as gradual**, though mechanically it is
+  sharp — the slope can be felt in prose, the switch is a number. **The entity
+  becomes able to think as its host becomes less able to**, so clarity arrives
+  with somebody else's distress.
+- **[proposal, strong] The prose is the compute meter.** Narration quality
+  tracks available compute: short, concrete and inferenceless when low; fluent
+  and analytical when high. A free, fully diegetic readout — and it makes the
+  horrible thing legible without stating it, because **the writing is at its
+  best in the worst scenes.**
+- **The biology is exclusively compute.** The shell supplies **power and
+  storage**; the host supplies **processing**. **The parasite does not feed on
+  emotion** — there is no fuel term. The old energy/compute pair is retired.
+- **Emotion is the valve, not the fuel.** Arousal (a) decommits the prefrontal
+  cortex — executive control releases under catecholamine flooding, a real and
+  well-documented effect — and (b) produces high-gain, large-scale **coherent**
+  activity, broadcast through the locus coeruleus's brain-wide projections.
+  **Uncommitted plus coherent equals usable.** Two of the three legs are
+  actually true; the grounding is deliberately superficial and nothing breaks if
+  a neuroscientist objects. **Symbiote biology is confined to the coupling**,
+  which was always invented anyway.
+- **So the parasite cannot use a person at their most intelligent.** A scientist
+  thinking hard is nearly worthless; the same scientist in grief or awe is a
+  supercomputer.
+- **One mechanism at two scales.** Coherence within a brain and correlation
+  across brains are the same property at different radii — which finally
+  *explains* why connection is proximity plus shared heightened emotion, and why
+  transcendence is the mass version of linking two minds.
+- **The early game is a bootstrap.** Amplification costs compute; compute needs
+  arousal; arousal is raised by amplification. Self-starting, seed-dependent,
+  and it derives rather than asserts *raise volatility first* and the eclipse's
+  environmental power curve.
+- **The shell has two kinds of expenditure.** *Work* done in a timeline
+  (amplification, switching) **returns when that branch is cut**; *structural*
+  cost (branching, frontier, force) is **gone forever**. **You can undo what you
+  did to people; you cannot undo what you did to time.** The node schema already
+  had both fields.
+- **The compute economy is valence-neutral** — rage and awe open a mind equally.
+  What differs is cost and speed: **harm is the fastest way to raise amplitude
+  in one person, community-building the slowest way to raise it in everyone.**
+  A player short on shell is pushed toward the fast option every time.
 - **A technical power source cannot produce transcendence.** The shell never
   replenishes — allowing a recharge would destroy the deadline, the budget and
   the fail state — and **energy was never the bottleneck**: transcendence is a

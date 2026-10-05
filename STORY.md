@@ -2406,6 +2406,92 @@ This is the tightest structural loop in the design. It also gives the third act
 its shape: the scenes where you learn most are the scenes where you are most
 nearly caught.
 
+### The lifecycle must be assemblable, because the ending rests on it
+
+**[The final choice](ECOSYSTEM.md#the-only-clean-run-is-the-one-that-abandons-transcendence)
+only lands if the player understands what declining costs.** That is a lot of
+cosmology for a game whose rules are *nobody in the world is authoritative* and
+*the entity has no concepts.* It is deliverable, and this is how.
+
+#### What actually has to be understood
+
+Less than it first appears. **The reproductive biology can stay a gap.** What
+the ending needs is only:
+
+| | |
+|---|---|
+| 1 | **Parasites arrive at eclipses**, and have many times before |
+| 2 | **One that succeeds leaves** — becomes something else, and is gone |
+| 3 | **One that fails stays**, as a guardian spirit |
+| 4 | **Guardians move through families and do not multiply** |
+| 5 | ⇒ **every guardian here is a failure, and failures make nothing** |
+
+Point 5 is an inference, not a statement, and **no character ever makes it.** It
+is sufficient for the ending: *staying is ending.* The player does not need to
+be told that adults merge timelines to reproduce — only that **nothing that
+stays ever produces anything.**
+
+#### Who holds which piece, and what each one gets wrong
+
+| piece | held by | in the form of | wrong about |
+|---|---|---|---|
+| **1. arrival at eclipses** | [the folklore](#their-myths-are-the-most-accurate-account-on-the-island) | *a trickster who hides the sun* | **causation** — he does not hide it, he comes when it is hidden |
+| | [the director's twenty years](#the-director) | a correlation across a fossil locality and an eclipse track | nothing. He is simply alone with it |
+| **2. success means departure** | the folklore | *and then we send him on his way* | **agency** — they believe the rite expels him |
+| | [the core](#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose) | placation — *we keep the devil satisfied so he goes* | the same error, inherited through a different church |
+| **3. failure means staying** | **nobody.** This is the gap | — | — |
+| **4. guardians move through families** | the folklore | *a spirit that passes down a household* | **nothing at all.** It is exactly correct |
+| | [the matriarch in communion](#the-practice-is-technique-not-spirituality) | signature ages read off the network — **some very old, none new** | she reads it as continuity, not as a population that cannot grow |
+| **the anomaly that joins 2 to 3** | [the young priest](#the-young-priest) | a symbiote that is **new**, foreign, and resolves to nothing here | he has no idea he carries one |
+
+> **Piece 3 is the keystone and nobody has it.** The folklore has the trickster
+> and the guardians as **two unrelated beings**; the science has husks and a
+> track; the network has ages. **Only something that can stand in several heads
+> can put them together.**
+
+#### Which is exactly what the player is
+
+The one capability no human on this island has is **being more than one person.**
+
+> The lifecycle is not learned, it is **assembled** — and it is assembled by
+> possession. The player understands their own species because they have been a
+> shaman, a scientist and a priest, and nobody else can be two of those.
+
+That makes the cosmology a **reward for the core verb** rather than a lore
+delivery, and it keeps every individual account wrong, as the design requires.
+
+#### Delivery rules
+
+- **Every piece arrives as somebody's problem, never as information.** The
+  matriarch's reading is a political instrument. The director's correlation is a
+  career he cannot publish. The young priest's wrongness is a wound. The
+  ceremony is a thing the community is arguing about. **Nobody is explaining
+  anything to the player.**
+- **It accumulates across runs**, like drivers — [entity knowledge survives the
+  reset](ARCHITECTURE.md#what-lives-where) because it was never in the snapshot.
+  A first run cannot carry it; a late run should not have to re-earn it.
+- **No scene states the conclusion.** Point 5 is assembled in the player's head
+  or not at all. If a character says it, the structure collapses into exposition
+  and [two wrong models](#two-wrong-models-no-adjudication) stops being true.
+- **The entity never understands it either.** It has no concepts. The player
+  understands; the thing they are playing does not — which is [the same
+  asymmetry the ending runs
+  on](ECOSYSTEM.md#keep-the-word-crime-out-of-the-entity).
+
+#### And the player can hand it over
+
+[Brokerage](MECHANICS.md#4-information-brokerage--between-humans) means the
+assembled picture can be **delivered into a human** — almost certainly
+[the finder](#the-opening), who is the only person holding enough of the pieces
+to receive it.
+
+> Which produces the design's one genuine act of generosity, and its one genuine
+> act of exposure: **telling somebody what you are.**
+
+- **[open]** Whether a human who understands the lifecycle can act on it — help,
+  refuse, or try to make the player stay. All three are good and they are
+  different endings.
+
 ### What each discipline can discover
 
 The exposition channels are not interchangeable. Each can reach a different part
