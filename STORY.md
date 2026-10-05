@@ -6,8 +6,7 @@ For the species and its ecology see [ECOSYSTEM](ECOSYSTEM.md); for systems see [
 > Working title: **The Parasite**. Status: concept. Nothing here is locked.
 >
 > **Conventions.** **[open]** marks something unresolved. **[proposal]** marks a
-> suggestion that has not been accepted. Everything else records the design as
-> decided so far.
+> suggestion that has not been accepted.
 >
 > **This document is one of four.** [DESIGN](DESIGN.md) is the index and the
 > open-questions register · [STORY](STORY.md) is setting, cast and narrative
@@ -123,10 +122,9 @@ gentlest version and probably the hardest to write honestly. **The parasite is
 simply the newest layer** — and the only one that does not distinguish between
 developer and islander.
 
-> **Watch this:** it would be easy for the parasite to read as *cleaner* than
-> the humans, since it has no ideology and tells itself no story. That is glib
-> and it lets the player off. It is not more honest. It is only incapable of
-> lying, which is not a virtue.
+> **Watch this:** the parasite can read as *cleaner* than the humans, since it
+> has no ideology and tells itself no story. It is not more honest. It is only
+> incapable of lying.
 
 #### Membership is the mechanic
 
@@ -241,8 +239,7 @@ the other end of the game, and the two should not be the same person.
 
 **[proposal]** She is also the [islander who could assemble
 it](#the-one-who-could-work-it-out). Folding the finder and the potential
-discoverer into one person keeps the cast tight and means the game's most
-dangerous mind is introduced in its first scene.
+discoverer into one person keeps the cast tight.
 
 #### The baseline is her story, told from her point of view
 
@@ -259,21 +256,18 @@ novel](MECHANICS.md#the-baseline-is-a-real-novel-and-it-comes-first) and
 fine](MECHANICS.md#the-untouched-timeline-is-the-one-where-the-humans-are-fine).
 **It now has a protagonist.**
 
-##### What that gives the design
+##### Consequences
 
 - **The spine is authorable as one narrative**, from one viewpoint, in one
   voice. Every branch in the game is a departure from a story that already
   works without the player in it.
-- **The parasite's first jump is the game's first real choice** — and it is the
-  moment the story stops being hers. You begin by watching a person and
-  continue by using people. Nothing has to say so.
+- **The first jump is the moment the story stops being hers.**
 - **Possession costs you her.** The camera follows the parasite, so **the price
   of taking anyone is the only continuous viewpoint in the game.** That is a
   mechanical fact with the force of a moral one.
 - **The ending of the untouched run is her getting close to the truth** —
   because she is [the one who could](#the-one-who-could-work-it-out) — while
-  nobody is harmed and nothing is consumed. **That is the story the player
-  spends every other branch destroying**, and they will have read it first.
+  nobody is harmed and nothing is consumed.
 
 ##### Which answers the passenger question
 
@@ -355,7 +349,7 @@ society's](#he-was-in-the-society): not *who sold out to the powerful*, but
 or something that was bait?** Elders disagree. [The matriarch](#the-matriarch)
 negotiated for these posts and is not sure what she bought.
 
-### Mechanically, they collapse the design's central split
+### Mechanically, they collapse the compute/standing split
 
 The [compute/standing split](#the-computestanding-split-still-holds) held that
 cognition and community centrality come apart: the cheapest high-cognition
@@ -399,8 +393,8 @@ scientists and the mystics each holding half of it and unable to see each other.
 > archive and the eclipse track.
 
 So the person most likely to find [the fossil-locality/eclipse-path
-correlation](DESIGN.md#open-questions) — the design's most plausible route to
-the truth and the third act's clock — is an islander postdoc.
+correlation](DESIGN.md#open-questions) — the third act's clock — is an islander
+postdoc.
 
 **And nobody at the station will listen to them**, because the institution has
 spent a year training itself to discount exactly this person.
@@ -470,8 +464,7 @@ and this man. They are very different endings.
 
 #### Twenty years of research hidden in plain sight
 
-This is the part worth getting right, because it is **not** another secret
-cabal.
+It is **not** another secret cabal.
 
 > **Nothing is hidden except the through-line.** He has spent two decades lining
 > up grants and projects that are ostensibly about other things — coastal
@@ -568,8 +561,7 @@ what he has wanted for twenty years he has to go to them, in public, and ask.
 | to the parasite | **expensive** — heavy resistance, network hubs | **cheap** — high emotional amplitude, weak defence |
 
 So a cross-factional generational conflict is **one lever with the same cost
-profile everywhere**, which is unusual: most of the design's levers are
-faction-specific.
+profile everywhere**, unlike most levers here, which are faction-specific.
 
 ### The elders already have a cross-factional institution
 
@@ -592,8 +584,7 @@ the scientists, the cult — and it is the route into the
 
 The festival integrates everyone by having **no agenda**. The riot integrates a
 generation by naming **a common enemy**. They are the two broadest-reach routes
-in the design, for opposite reasons, and the only two that cross factions at
-all.
+here, for opposite reasons, and the only two that cross factions at all.
 
 > The riot is not the crude option. It is structurally the festival's twin —
 > same breadth, inverted valence.
@@ -626,11 +617,10 @@ arriving as desperation rather than appetite.
 
 #### Rioting against the society needs no revelation at all
 
-**Correction to an earlier draft.** It assumed the society was hidden and that
-exposing it was the ignition. It is not hidden. Everyone knows it exists, who is
-in it, and what it does for them, and **the young are already angry about
-exactly that.** No secret is required to riot against a club that decides the
-island's business over dinner.
+The society is not hidden. Everyone knows it exists, who is in it, and what it
+does for them, and **the young are already angry about exactly that.** No secret
+is required to riot against a club that decides the island's business over
+dinner.
 
 So this target is the *easiest*, not the hardest. The grievance is public,
 accurate and decades old.
@@ -663,7 +653,6 @@ The old *are* exploiting the young. The cult *is* the establishment. The station
 > deceived. The thing they are angry about is true.** And the disaster lands on
 > people who did not deserve it.
 
-Worse than inventing a lie, and the design operating at full strength.
 
 ### Versions per faction
 
@@ -688,7 +677,7 @@ Two are already written; the rest sketch themselves.
 ### What they are not
 
 **They are not a trope.** No noble savages, no wise ancients, no people who
-exist in the design to be in tune with something.
+exist to be in tune with something.
 
 They are **people who have lived here for many generations** and who face what
 marginalised communities face everywhere in a post-colonial world: land they do
@@ -705,8 +694,8 @@ one group and they do not agree.
 
 > **Writing rule.** Every scene with them must work as a scene about people with
 > their own lives. If a scene's only function is to deliver cosmology to the
-> player, it is the wrong scene. The myths are load-bearing for the design, and
-> that is precisely why they must never be the reason a character is on screen.
+> player, it is the wrong scene. The myths must never be the reason a character
+> is on screen.
 
 ### Their myths are the most accurate account on the island
 
@@ -724,8 +713,8 @@ anyone else did.
 
 **Two beings, two stories, one species** — and nothing in the tradition connects
 them, because nothing in the observable behaviour connects them either. The
-community holds the design's central fact in two pieces and has no reason to put
-them together. [The scientists have the same problem with the
+community holds the fact in two pieces and has no reason to put them
+together. [The scientists have the same problem with the
 fossils](ECOSYSTEM.md#the-husk-is-in-the-fossil-record).
 
 ### The ceremony is an invitation
@@ -743,9 +732,8 @@ Three things follow, and they are all large.
 
 Proximity, maximum headcount, deliberately engineered collective intensity, and
 an explicit invitation. [The agenda-free
-festival](MECHANICS.md#the-festival-is-the-zero-point) was the design's
-zero-deviation baseline. **This is the festival plus a thousand years of
-tuning** — the same arithmetic, solved better, by people who have solved it
+festival](MECHANICS.md#the-festival-is-the-zero-point) is the zero-deviation
+baseline. **This is the festival plus a thousand years of tuning** — the same arithmetic, solved better, by people who have solved it
 before.
 
 > **The best event available to you on this island already exists, is run by
@@ -791,8 +779,8 @@ It also means the ones who *did* leave — who got enough from the gathering to
 transcend — left no trace, no spirit, no story. **The tradition only remembers
 its failures, and remembers them as blessings.**
 
-This is the design's best single irony and it costs nothing: it is already
-implied by [two ways to end up a symbiote](ECOSYSTEM.md#two-ways-to-end-up-a-symbiote).
+Already implied by [two ways to end up a
+symbiote](ECOSYSTEM.md#two-ways-to-end-up-a-symbiote).
 
 #### The cult is the same rite, badly inherited
 
@@ -843,7 +831,7 @@ What she cannot see is [the core](#the-core-is-not-a-corruption-of-the-society-i
 coming. **The thing she would most want to know is hidden inside the thing she
 has already correctly dismissed as a gentlemen's club.**
 
-##### The social front is the design's generational axis, in one person
+##### The social front is the generational axis, in one person
 
 The culture she is defending is **about** harmonisation, and the ceremony is its
 clearest expression — inclusive, communal, drawing everyone in. [The young's
@@ -890,7 +878,7 @@ altered until she can read what the thing living in her is holding — a share o
 > speaks. She reads sediment — pressure, familiarity, wrongness, the shape of
 > who is connected to whom — and renders it into the only language she has for
 > it, which is the language of the tradition. **The translation is hers. The
-> errors are hers too, and she knows that better than the player does.**
+> errors are hers too, and she knows it.**
 
 It should also be **unpleasant and expensive.** Hours of preparation, real
 physical cost, days to recover, and she schedules it the way you schedule a
@@ -917,7 +905,7 @@ vocabulary — and it points at you with no instrument, no data and no delay.
 
 **So the person who controls access to the best event on the island is also the
 person most able to catch you.** Those are not two characters. That is the whole
-problem in one woman, and the player will want her for both reasons at once.
+problem in one woman.
 
 ##### And she uses it for politics
 
@@ -928,8 +916,7 @@ community is building. It is an intelligence tool and she uses it like one.
 
 > Her detection of you is therefore **incidental.** She goes looking for the
 > shape of a land fight and finds something in the data she cannot place. That
-> is a much better way for the player to be discovered than by someone hunting
-> them, and it keeps her motives entirely her own.
+> It keeps her motives entirely her own.
 
 #### She may already know about the hotel owner
 
@@ -952,7 +939,7 @@ that the matriarch's wariness was never only political.
   much crueller. The version where she suspects and has never dared look is
   available too.
 
-#### Riding her is the game's thesis in one act
+#### Riding her
 
 Inhabit the shaman, sit through the communion, and **you get read access to the
 island's distributed store**: who holds what, which households are connected,
@@ -964,7 +951,7 @@ hard-kept knowledge and her body's tolerance for a plant, to extract the one
 thing her people managed to hold onto.
 
 > **Every other faction on this island took land, labour, image or souls. This
-> is the design's only route to taking the thing they successfully defended.**
+> is the only route to taking the thing they successfully defended.**
 
 And there is a second cost that is not about her at all. **She is the thing
 holding her community's position together**, badly and under pressure from
@@ -1020,8 +1007,7 @@ with their silly explanations. He hates the science community.
 
 #### He rarely says mass because he was eased out, not because he cannot
 
-**Correction to an earlier draft, which had him simply diminished.** He is
-entirely capable. **The diocese pushed him aside** — gently, over years, without
+He is entirely capable. **The diocese pushed him aside** — gently, over years, without
 anything being said plainly — after **complaints about his teaching.** It does
 not align with doctrine, and it is far too robust for modern sensibilities.
 Parishioners complained. The complaints were reasonable.
@@ -1085,15 +1071,13 @@ point.
 
 #### He heads the society, and its core
 
-> **Correction to an earlier draft, which made this far too sinister.** Secret
-> societies, lodges, sects and orders are **ordinary**, especially in rural
-> places. They concentrate power and therefore raise the risk of abuse of the
+> Secret societies, lodges, sects and orders are **ordinary**, especially in
+> rural places. They concentrate power and therefore raise the risk of abuse of the
 > powerless — but so do chambers of commerce, parish councils and golf clubs.
 > **For most people on this island, the local order is not meaningfully
 > different from a country club.** Write it that way.
 
-**"The cult" is two things at two radii**, and most of the design's uses of the
-word have meant only one of them.
+**"The cult" is two things at two radii.**
 
 | | **the society** (outer) | **the core** (inner) |
 |---|---|---|
@@ -1105,8 +1089,7 @@ word have meant only one of them.
 
 ##### The core is not a corruption of the society. It is its original purpose.
 
-This is the part worth keeping. The society was founded for what the core still
-does. The body around it **drifted into being a lodge** — kept the form, the
+The society was founded for what the core still does. The body around it **drifted into being a lodge** — kept the form, the
 calendar and the standing, and quietly let the content go.
 
 > **The sincere ones are the authentic ones.** The ordinary membership is the
@@ -1209,7 +1192,7 @@ He is not wrong that something is whispering. He has only misidentified it — a
 the thing he calls seduction toward the world is a regulator asking him to
 remain viable.
 
-**This gives him a target profile nothing else in the design has.** The symbiote
+**A target profile nothing else has.** The symbiote
 is the bridge, so a starved symbiote is a degraded bridge:
 
 | | |
@@ -1347,8 +1330,8 @@ important one.
 - **[open] Whether the first love is still on the island.** Estrangement by
   politics implies they are. If so, that is a live wire beside a woman who is
   broke, desperate and hosting crypto investors on contested land. Real feeling,
-  unresolved, on both sides — **the design's ideal amplification material,
-  because none of it has to be manufactured.**
+  unresolved, on both sides — **amplification material that needs no
+  manufacturing.**
 
 Either way the connection means **the land fight was personal on both sides.**
 The matriarch's opposition is not only politics, and the father's eventual loss
@@ -1488,11 +1471,9 @@ matriarch is not in that one either.
 > lack of her father's instinct — the self-assessment she already carries — and
 > the truth is that her brother has had a hand on the scale for years.
 
-**This is the best secret in the design for [information
-brokerage](MECHANICS.md#4-information-brokerage--between-humans).** It is true,
-it is devastating, it is held by nobody who will ever tell her, and delivering
-it to her changes what she does. The parasite is the only thing that can carry
-it.
+**A payload for [information
+brokerage](MECHANICS.md#4-information-brokerage--between-humans):** true, held by
+nobody who will ever tell her, and it changes what she does.
 
 ##### He inherited the father's assembled picture
 
@@ -1550,13 +1531,11 @@ trouble any of them in the slightest, because **they hold it as their right.**
 Being rich and powerful simply means that manipulating and using people who are
 neither is available to you, the way a tool is available.
 
-> **This is the human layer's parasite**, stated as plainly as the design will
-> ever state it. He reads people, finds what constrains them, reaches into a
-> distribution he did not create, and takes what he came for. The only
-> differences are that he chose it, he enjoys it, and he has a theory about why
-> he is entitled.
+> He reads people, finds what constrains them, reaches into a distribution he
+> did not create, and takes what he came for. The differences from the parasite:
+> he chose it, he enjoys it, and he has a theory about why he is entitled.
 
-#### What this does to the design
+#### What this changes
 
 ##### A human has already done your mid-game
 
@@ -1564,15 +1543,14 @@ The parasite's [central project](MECHANICS.md#the-mid-to-late-arc-is-engineering
 is engineering a mass emotional event. **He has been working on his for years,
 better resourced, with a venue, a guest list and lead time.**
 
-Which gives the design most of what [a rival
+Which supplies most of what [a rival
 seed](DESIGN.md#open-questions) would have given it — a competing planner, a
 clock, a reason to hurry — at a fraction of the cost, and without a second
 non-human agent.
 
 ##### The plan cannot work
 
-**It is not a dark route. It is a crime with no payoff, and the design should be
-explicit about that.**
+**It is not a dark route. It is a crime with no payoff.**
 
 Two independent reasons, either sufficient:
 
@@ -1587,8 +1565,7 @@ Two independent reasons, either sufficient:
 
 > **So the best case for the brother is an event that amounts to mass sexual
 > assault and achieves nothing whatsoever.** No transcendence, no fabled
-> outcome, nothing. That is worth stating plainly in the design, because it
-> removes the possibility of the darkest content also being the optimal play.
+> outcome, nothing.
 
 ##### What it can cause is the real danger
 
@@ -1607,10 +1584,6 @@ choosing** — and the atrocity that follows is against the outsiders, committed
 by the wronged, architected by the only non-human thing present.
 
 ##### In the baseline, it fails
-
-**Correction to a first reading of this character, which had the event as a
-free atrocity the player merely declines to prevent.** That is wrong, and the
-reason is the design's own baseline.
 
 > [In the untouched timeline most of the island ends up at the low-key music
 > festival](MECHANICS.md#the-baseline-is-the-proof). A plan this harmful to
@@ -1644,10 +1617,6 @@ that actually works**, for the single reason that everybody there chose to come.
 > whether the people in the room were asked.
 
 ##### He is not a cheap host. He is barely a host at all.
-
-> **Correction.** An earlier reading called him the cheapest host in the game,
-> on the grounds that everything the player wants is already near the top of his
-> distribution. **That reasoning ignores the bridge.**
 
 [Symbiotes are the medium](MECHANICS.md#they-are-the-bridge) through which the
 parasite perceives and acts on a human at all. **He has none.** So the ordinary
@@ -1722,10 +1691,10 @@ and she stays in the dark for your convenience.
 
 > **Very narrow, and worth keeping narrow.** As a reliable option it would make
 > him a tool. As a difficult, late, specific achievement it is one of the best
-> things the player can do — and it ends with a [direct link to a
+> achievement — and it ends with a [direct link to a
 > gap](#he-has-no-symbiote), which is the one kind that survives the shell.
 
-##### It is the riot's ignition, and the sharpest one available
+##### It is the riot's ignition
 
 Young islanders procured for rich men's eclipse party is not an abstract
 grievance about historical exploitation. It is **a thing happening this week, to
@@ -1778,9 +1747,7 @@ Three consequences:
   The useful version is a man who could have warned her at any point and chose
   peace.
 
-> **Writing caution, and it is the most serious one in the document.** The
-> event's content is the most dangerous material in the design. It must be
-> written from the position of the people being used and never from the
+> **Writing caution.** The event must be written from the position of the people being used and never from the
 > position of the men using them — see [the
 > register](#for-the-register) and [do not state the
 > critique](ECOSYSTEM.md#do-not-state-the-critique). The coercion should be
@@ -1801,10 +1768,7 @@ outer body with a reason, and a small core with the real one.**
 
 #### They are not conspirators, and they are not innocent
 
-> **Correction to a first reading, which had most of the guest list objecting
-> once they understood. They will not object.**
-
-They are **entirely comfortable with the exploitation of the island and the
+**They will not object.** They are **entirely comfortable with the exploitation of the island and the
 islanders**, on one condition: that it is in the service of their pleasure and
 they do not have to look at it directly. That is not an exception they make for
 this event. It is how they travel.
@@ -1818,35 +1782,15 @@ Nobody will miss it.
 > of the appeal, and asking one further question is the only move unavailable to
 > them.
 
-#### They are the game's question, arriving pre-answered
+#### They are not a resistance surface
 
-**[How could you let this happen](MECHANICS.md#the-moral-question-changes-shape)
-is the design's central moral question.** The player spends the whole game
-engineering that state in other people, one ordinary hesitation at a time.
+Nobody has to suppress them. They will not act, and nothing needs to be spent
+making sure of it.
 
-> **The tourists arrive in it already.** Nobody has to suppress them. Their
-> entire social formation did it years ago, for free.
-
-So they are not a resistance surface. **They are a demonstration of the end
-state** — a picture of what the player is manufacturing everywhere else, in
-people who required no manufacturing at all. The player should recognise their
-own work in a group they never touched.
-
-- **[open]** Whether one guest is written as an exception. **Recommend at most
-  one, and not a hero** — someone who leaves quietly, tells nobody, and is never
-  heard from again. More than one, and the group's actual quality is lost.
-
-#### The complicity is not a discount
-
-They are complicit, in the ambient way — and that is precisely why it buys the
-design nothing.
-
-> **It is the kind of complicity nearly everyone in the story has.** Treating it
-> as a licence for what happens to them would license treating most of the cast
-> that way. [The standing
-> rule](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype)
-> applies to them at full strength, and they are harder to write well than
-> anyone except the brother.
+**Their complicity is the ambient kind** — the kind nearly everyone in the story
+has — so it is not a licence for what happens to them. [The standing
+rule](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype)
+applies at full strength.
 
 #### Mechanically they are food
 
@@ -1914,9 +1858,7 @@ conviction and a free week.
 
 ##### What that does — and what it does not
 
-> **It does not make the rite happen.** An earlier reading had the collapse of
-> the party automatically upgrading the core's rite into a dangerous event. That
-> is the same mistake twice: **[the default is still the
+> **It does not make the rite happen.** **[The default is still the
 > festival](MECHANICS.md#the-world-defaults-to-dispersal)**, for the tourists,
 > the society, the islanders and the station alike.
 
@@ -1989,16 +1931,12 @@ defensible; only the fact that a dozen of them are one project is unstated.
 
 ### The old hippies
 
-> Promoted from a [faction table](#who-lives-here) row, because the only viable
-> orgiastic route in the game runs through them.
-
 Settled here decades ago, on land they did not have a claim to, in pursuit of a
 paradise they then spent forty years defending against everyone who arrived
 after them — including their own children. The faction table has them wanting
 **paradise preserved *on their terms*** and extracting **belonging in a place
 that is not theirs**, which remains exactly right and is the hardest extraction
-in the design to write honestly, because it is the gentlest and the most
-sincerely meant.
+to write honestly, because it is the gentlest and the most sincerely meant.
 
 #### They supplied the brother's drugs
 
@@ -2006,8 +1944,7 @@ sincerely meant.
 from the beach. They are **already materially inside a plan they would be
 appalled by**, and they have no idea what it is for.
 
-Which gives the player a lever that is simply the truth: tell them what their
-supply was for. It costs nothing, it is accurate, and it detonates.
+A lever that is simply the truth: tell them what their supply was for.
 
 #### They are the bridge between the tourists and the island
 
@@ -2062,7 +1999,7 @@ eclipse.
 
 **He is probably the most valuable person on the island.** Maximum connectivity
 across every faction is exactly what [compute](MECHANICS.md#compute) wants, and
-the design holds that central, well-connected people are the hardest targets. He
+central, well-connected people are normally the hardest targets. He
 is the prize.
 
 #### Familiarity and otherness
@@ -2187,15 +2124,7 @@ Both of them are doing the best they can see to do. Neither has a good option.
 
 #### What he failed to do
 
-> **Supersedes two earlier versions.** The first made his dark history sexual
-> misconduct, which put his sexuality on the board as a lever. The second made
-> him a child soldier who took part in an atrocity — which required a grisly
-> deed, forced him to have been very young, and pushed the event decades back.
->
-> **Neither is needed.** His wound is **an omission**, and it is the better
-> version on every axis.
-
-**He knew something terrible was going to happen, and he did not act.** Not as a
+**His wound is an omission.** He knew something terrible was going to happen, and he did not act.** Not as a
 child — as **an adult**, with standing, in a position to be heard. Recently
 enough that it is still the most present fact in his life.
 
@@ -2204,28 +2133,14 @@ could name. He saw it building. He understood exactly what he was looking at.
 **He said nothing, or said it too late, or said it so carefully that it
 achieved nothing.**
 
-##### Why this is better in four ways
-
-| | the old version | this |
-|---|---|---|
-| requires | a child committing atrocity | **a man not making a phone call** |
-| his age then | very young, decades ago | **adult, recent — it can be five years** |
-| the liability | a supernatural reading laid over a named real genocide | **a small, local, unnamed event — no real atrocity is being explained** |
-| the rhyme with play | a previous instance of what the player *does* | **a previous instance of [the player's actual main verb](MECHANICS.md#the-dark-game-is-mostly-suppression-not-incitement)** |
-
-The fourth is the one that matters. The design's real verb turned out to be
-**making good people fail to intervene.** His entire life is organised around
-one instance of that, from the inside.
-
-##### The theory is now exactly the right size
+##### The theory
 
 **It is never established whether a parasite was involved.** The possibility is
-raised and stays a theory — but the theory has changed shape, and improved:
+raised and stays a theory:
 
-> It is no longer *"did something make me commit an atrocity"*, which needed a
-> parasite capable of enormous things. It is **"did something make it hard for
-> me to speak"** — which is the smallest, cheapest, most ordinary thing a
-> parasite can do, and therefore entirely plausible.
+> **"Did something make it hard for me to speak?"** — which is the smallest,
+> cheapest, most ordinary thing a parasite can do, and therefore entirely
+> plausible.
 
 [Suppression is the cheap
 operation](MECHANICS.md#and-it-is-cheap-which-is-the-whole-problem). The theory
@@ -2245,9 +2160,8 @@ cannot find out.**
 > or innocence, and now attached to the most common moral failure there is
 > rather than to a rare and monstrous one.
 
-**And the player is in the same position with more information.** You know these
-things exist and exactly how cheaply they do this one, and *it still does not
-resolve.*
+**The player is in the same position with more information**, and it still does
+not resolve.
 
 ##### It gives the old priest's sermons a referent
 
@@ -2264,15 +2178,14 @@ doctrine, and neither will ever say it.
 New symbiotes come from failed parasites. His is new. **If the event is recent,
 a parasite failed somewhere near him at about that time.**
 
-That is an inference the player can assemble and nobody confirms — and it is
-poised exactly where the design wants its evidence: it makes his theory *more*
-plausible without making it true. A parasite was there. It does not follow that
-it was in him, or that it reached him, or that it mattered.
+An inference the player can assemble and nobody confirms. It makes his theory
+*more* plausible without making it true: a parasite was there, which does not
+mean it was in him, reached him, or mattered.
 
 > He will never have that inference. **The player gets the one piece of evidence
 > he needed and cannot deliver it** — until, perhaps, they can, which is what
 > [brokerage](MECHANICS.md#4-information-brokerage--between-humans) is for, and
-> which would be either the kindest or the cruellest thing in the game.
+> is for.
 
 **Its profile is unchanged:** born in catastrophe with nothing to calibrate on,
 tuned to him alone ever since. **Deep, not wide** — maximum individual
@@ -2281,13 +2194,8 @@ which makes it newer and stranger still.
 
 ##### Scope: the mechanics now supply the limit for free
 
-The earlier version needed an argument to keep the theory small — a larval
-parasite cannot cause a genocide, the leash is tight, the window is weeks. That
-argument was doing real work and it was always slightly strained.
-
-**The omission version needs none of it.** One man, one hesitation, one week.
-That is inside the leash with room to spare, and it keeps the scale honest
-without the design having to insist.
+One man, one hesitation, one week. That is inside the leash with room to spare,
+and keeps the scale honest without having to insist on it.
 
 > The theory was never allowed to be *"an alien caused that town's worst
 > week."* It is now **"was something in the room when I decided to wait"** —
@@ -2296,9 +2204,8 @@ without the design having to insist.
 
 ##### His symbiote is new, and adrift
 
-**Resolved in favour of the event-born reading.** A parasite present at that
-time would have failed and left **a new** symbiote — and the reasoning that
-settles it is mechanical:
+A parasite present at that time would have failed and left **a new** symbiote,
+and the reasoning is mechanical:
 
 > **An old symbiote would have steered him back.** They are calibrated to a
 > community and nudge toward the conditions their models describe, so a
@@ -2319,7 +2226,7 @@ been tuned to him alone ever since. **Deep, not wide** — maximum individual
 resistance, zero network integration, no homing. Years rather than decades, now
 that the event is recent, which makes it newer and stranger still.
 
-##### His perceptiveness is his own, and it indicts him
+##### His perceptiveness is his own
 
 Dropping the ancient lineage removes the driver-library explanation for his
 uncanny read on people. **The replacement needs no mechanism at all — he is
@@ -2386,8 +2293,8 @@ which is exactly where the resistance lives.
 
 ## How the player learns anything
 
-The design wants the entity ignorant and the interface opaque, but the player
-still needs information — most urgently that a direct link is the difference
+The entity is ignorant and the interface is opaque, but the player needs
+information — most urgently that a direct link is the difference
 between symbiosis and extinction. The resolution is to route all of it through
 **unreliable in-world interpreters.**
 
@@ -2402,16 +2309,14 @@ entity acquires self-knowledge only by riding someone studying it.
 > are *is* your information channel. You cannot become informed without becoming
 > hunted.
 
-This is the tightest structural loop in the design. It also gives the third act
-its shape: the scenes where you learn most are the scenes where you are most
-nearly caught.
+This gives the third act its shape: the scenes where you learn most are the
+scenes where you are most nearly caught.
 
 ### The lifecycle must be assemblable, because the ending rests on it
 
-**[The final choice](ECOSYSTEM.md#the-only-clean-run-is-the-one-that-abandons-transcendence)
-only lands if the player understands what declining costs.** That is a lot of
-cosmology for a game whose rules are *nobody in the world is authoritative* and
-*the entity has no concepts.* It is deliverable, and this is how.
+[The final choice](ECOSYSTEM.md#what-abandoning-transcendence-costs-the-species)
+requires the player to understand what declining costs — under rules where
+*nobody in the world is authoritative* and *the entity has no concepts.*
 
 #### What actually has to be understood
 
@@ -2458,7 +2363,7 @@ The one capability no human on this island has is **being more than one person.*
 > shaman, a scientist and a priest, and nobody else can be two of those.
 
 That makes the cosmology a **reward for the core verb** rather than a lore
-delivery, and it keeps every individual account wrong, as the design requires.
+delivery, and keeps every individual account wrong.
 
 #### Delivery rules
 
@@ -2485,8 +2390,8 @@ assembled picture can be **delivered into a human** — almost certainly
 [the finder](#the-opening), who is the only person holding enough of the pieces
 to receive it.
 
-> Which produces the design's one genuine act of generosity, and its one genuine
-> act of exposure: **telling somebody what you are.**
+> **Telling somebody what you are** — simultaneously the only route to a human
+> who can act on it, and maximum exposure.
 
 - **[open]** Whether a human who understands the lifecycle can act on it — help,
   refuse, or try to make the player stay. All three are good and they are
@@ -2551,7 +2456,7 @@ answer.
 **Neither is authoritative and the game never settles it.** Nothing ever
 explains the cosmology; characters explain it incorrectly in two directions and
 the player synthesises. That preserves ignorance as atmosphere while still
-delivering what the player needs, and it means the design can hold facts (the
+delivering what the player needs, and means the documents can hold facts (the
 shell, the species, the three outcomes) that no line of dialogue is ever
 responsible for stating correctly.
 

@@ -102,10 +102,9 @@ Every mechanic in `DESIGN.md` falls out of that structure:
 
 ### The shell is derived, never accumulated
 
-**There is one budget and it is the shell.** The earlier two-currency model —
-emotional energy as an operating budget alongside the shell — is gone
-(`MECHANICS.md`, The economy is one resource and one rate). Compute is not a
-stock at all; it is a rate read from the people currently present.
+**There is one budget and it is the shell** (`MECHANICS.md`, The economy is one
+resource and one rate). Compute is not a stock; it is a rate read from the
+people currently present.
 
 **There must be no `shell -= x` anywhere in the codebase.** Remaining shell is a
 pure function of the graph, recomputed on read:
@@ -276,13 +275,12 @@ anywhere, and one invariant covers the whole engine:
 | **Linked-mind skills** | the **current position** in the graph | which links exist on the path to here |
 | **Symbiote deviation** | **all** nodes | signed integral of per-node deviation |
 
-The subset is what encodes the design rule, and every mechanic follows from
-which column a quantity sits in:
+Which column a quantity sits in determines its behaviour:
 
 - `spend` reads **live**, so severing reclaims the work done in a branch
-- deviation reads **all**, so severing launders nothing — the sin stays, the
-  reward goes
-- knowledge reads **all**, so it survives resets for free, exactly as intended
+- deviation reads **all**, so severing does not erase it — the damage stays, the
+  gain goes
+- knowledge reads **all**, so it survives resets without special handling
 
 **The shell is the root node.** Not an object beside the graph — the graph's own
 origin (`MECHANICS.md`, It is the body). Everything already lines up: projections
@@ -299,9 +297,8 @@ computed. Do not build a shell inventory.
 **Linked-mind skills are the first quantity that depends on where the player
 is**, rather than on the graph as a whole. Availability is a function of the
 current node's ancestry, so it changes as the player navigates without anything
-being spent or lost. Model it as a query against the current path, never as a
-mutable "unlocked skills" set — the same mistake as a shell counter, in a
-different costume.
+being spent or lost. Model it as a query against the current path, never as a mutable "unlocked
+skills" set.
 - compute reads **one path**, so it is the only quantity a cut can destroy
   outright rather than merely reduce
 - shell reads **all**, so severing never refunds lifespan — which is the point
@@ -533,9 +530,8 @@ Two consequences worth noticing, because they are free wins:
 - **The epidemiological signature is a derived view of the intimacy graph**
   (`STORY.md`, What each discipline can discover) — the same contact edges the
   player used, read back as an outbreak. It costs nothing to compute because the
-  data is already there, and it is the design's main detection channel. It must
-  respond to *pattern*, not just volume: a few large pushes and many small ones
-  should look different to a tracer.
+  data is already there. It must respond to *pattern*, not just volume: a few
+  large pushes and many small ones should look different to a tracer.
 - **Human knowledge needs its own state**, and it is the first thing in the
   model that belongs to NPCs rather than to the player. Who has noticed what,
   and crucially **who has spoken to whom** — the third act turns on keeping two

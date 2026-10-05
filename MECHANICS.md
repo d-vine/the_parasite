@@ -6,8 +6,7 @@ For the species see [ECOSYSTEM](ECOSYSTEM.md); for setting and cast see [STORY](
 > Working title: **The Parasite**. Status: concept. Nothing here is locked.
 >
 > **Conventions.** **[open]** marks something unresolved. **[proposal]** marks a
-> suggestion that has not been accepted. Everything else records the design as
-> decided so far.
+> suggestion that has not been accepted.
 >
 > **This document is one of four.** [DESIGN](DESIGN.md) is the index and the
 > open-questions register · [STORY](STORY.md) is setting, cast and narrative
@@ -119,23 +118,6 @@ already standing.
 > places you have already been is the best place to start from, given what
 > starting there [already costs you](#the-price-of-starting-deep).
 
-#### The seam that could break it, and why it does not
-
-**The risk is that a satisfying optimisation puzzle makes the thematic layer
-decorative** — the player solving a scheduling problem and feeling nothing,
-with the meaning bolted on top.
-
-The design is already immune, and the reason is worth naming:
-
-> **The currency is harm.** [Cost and exposure are the same
-> measurement](#cost-and-exposure-are-the-same-measurement) — the thing that
-> makes a push expensive is how far it drags someone from themselves.
-> **Optimising the allocation *is* deciding how much damage to do.**
-
-There is no configuration in which playing well is thematically neutral. A
-player min-maxing this system is min-maxing people, and the better they get at
-it the clearer that becomes.
-
 #### The genre descends, and it should be a readout
 
 **From horror down into exploitation**, deeper as the game goes. The register
@@ -148,7 +130,7 @@ notes and the works that use the same machinery seriously are in
 |---|---|
 | benign, integrative | **folk mystery, quiet speculative fiction.** Something strange on an island, carefully observed |
 | pressing, extractive | **horror.** The thing is real, it is inside people, and it wants |
-| coercive, late, desperate | **exploitation.** The camera stops being kind and the design stops protecting the player from what they are doing |
+| coercive, late, desperate | **exploitation.** The camera stops being kind |
 
 > Which makes genre **the second diegetic readout**, next to [prose quality
 > showing available compute](#proposal-strong-the-prose-is-the-compute-meter).
@@ -159,29 +141,6 @@ notes and the works that use the same machinery seriously are in
 The discipline that keeps this from being tonal drift: **the genre is a
 consequence, never a schedule.** A player who never descends never sees the
 lower registers, and the game does not go looking for them.
-
-#### What individuality costs
-
-The third altitude's sharpest thread, and it is already load-bearing on both
-layers of the design.
-
-| | pays | to get |
-|---|---|---|
-| **the parasite** | [every other timeline and everyone in them](#the-transcendence-event) | a self that needs nobody |
-| **a symbiote** | **the possibility of ever being one thing** | survival, plurality, smallness |
-| **the beach, the festival, the observance** | each person's own agenda, dissolved into a crowd | the only configurations that work |
-| **the brother, the director, the society's core** | other people, instrumentally | to remain exactly who they are |
-
-> **Transcendence is the purchase of a self, paid for with everyone else's
-> existence. Symbiosis is the refusal to pay.** And the humans in this story are
-> arranged along the same axis without anybody noticing, which is [the
-> rhyme](ECOSYSTEM.md#two-layers-and-the-rhyme-between-them) the game must never
-> state.
-
-Note that **the game's only winning configurations are the collective ones** —
-proximity, intensity, headcount, a crowd in one state. The parasite can only buy
-its individuality with somebody else's dissolution, and **so can everyone else
-on the island.**
 
 ### The baseline is a real novel, and it comes first
 
@@ -484,12 +443,6 @@ player.
 
 #### How a push is actually computed
 
-> **Correction, and it is the second time this error has been made.** An earlier
-> version wrote this as a scheduling game — start a computation early, commit
-> before you know the outcome, lose the work if the scene shifts. **That is the
-> player's relationship to time, not the parasite's.** See [the standing rule
-> below](#standing-rule-the-parasite-does-not-live-in-linear-time).
-
 ##### The parasite experiences the whole timeline at once
 
 From awakening to the eclipse, **a timeline is a single object to it.** It does
@@ -522,8 +475,8 @@ A nudge at moment **M** is possible iff **all three** hold:
 > claimed in that interval**
 > **A push is admissible iff cost(M) ≤ available(M).**
 
-The third condition is the one that makes this a design problem rather than a
-threshold check, and it was missing from both earlier versions.
+The third condition is what makes this an allocation problem rather than a
+threshold check.
 
 ##### Three parameters, three different sources
 
@@ -579,10 +532,10 @@ Repacking the allocation *is* the optimisation loop.
 | **local** | **window contention** — can these hours pay for this push, given everything else nearby |
 | **global** | **the timeline's total computation budget** — how much reworking the draft will support before it freezes |
 
-##### Which produces the strangest true sentence in the design
+##### The computation really happened, in the host's time
 
-The host's brain really did spend those hours computing. In their lived,
-linear time, it happened.
+The host's brain spent those hours computing. In their lived, linear time, it
+happened.
 
 > **Someone was distracted last Tuesday because of a choice the player makes
 > now.**
@@ -753,25 +706,6 @@ Someone else will. I don't want to make a scene. I could be wrong.*
 > inverts the usual expectation that evil costs more, and is the single most
 > uncomfortable thing the economy says.
 
-##### The moral question changes shape
-
-The design has been asking **"how could you do this?"** The real question, most
-of the time, is **"how could you let this happen?"**
-
-> That is a harder question, it is the one that applies to vastly more people,
-> and it is the one the player will actually have earned.
-
-##### The DAG makes the omission visible
-
-This is the mechanic that gives the question teeth. **The player has the branch
-where she made the call.** They were in it. They saw the daughter stay home.
-
-> Every other game that asks *how could you let this happen* has to rely on the
-> player's imagination of the counterfactual. **Here the counterfactual is a
-> node on screen, and the player visited it.**
-
-Nothing needs to be stated. The timeline is the indictment.
-
 ##### The baseline is the proof
 
 In [the untouched timeline](#the-untouched-timeline-is-the-one-where-the-humans-are-fine),
@@ -820,8 +754,7 @@ So the real mid-game question is not *how do I win over this island* but:
 > **Which factions do I actually need — and for each one, is it cheaper to bring
 > them in or to keep them quiet?**
 
-That is a legible, replayable strategic layer with a different answer every run,
-and it does not require the player to be told any of it.
+A different answer every run, and nothing states it.
 
 | faction | integrating them costs | suppressing them costs |
 |---|---|---|
@@ -831,22 +764,6 @@ and it does not require the player to be told any of it.
 | **the tourists** | **nothing. They will come to anything** | nothing. They will not object to anything either |
 | **the station** | a reason to be outdoors, which they already have | easy, and loses you the best cognition on the island |
 | **the devout** | probably impossible without losing someone else | low, and they were never coming |
-
-##### Why this is the design's spine, not a nicety
-
-It means the benign route is **mechanically superior**, not merely permitted:
-integration adds headcount, generates credit, and holds without maintenance,
-while suppression subtracts, accrues deviation, and must be renewed.
-
-> **The decent play is the strong play.** The dark routes remain real because
-> they are *faster*, available when integration has already failed, and reachable
-> by a player who never found the other door — but they are not the optimum, and
-> a player who works the problem properly will find that out.
-
-Which is [the easy-choice inversion](ECOSYSTEM.md#the-inversion-underneath-it-the-easy-choice-is-the-right-one)
-given an engine. The player is not being rewarded for kindness. **They are being
-rewarded for understanding a system in which exclusion is the expensive
-operation.**
 
 #### The world defaults to dispersal
 
@@ -869,11 +786,11 @@ The failure mode is an inference of this shape:
 **They do not flow anywhere.** Collapsed plans do not concentrate elsewhere;
 they disperse, like everything else, toward the path of least social cost.
 
-| what collapsed | what an earlier draft claimed | what actually happens |
-|---|---|---|
-| the brother's party | the core's rite becomes dangerous | he joins the core, a dozen people attend, nothing comes |
-| a faction's internal fracture | the energy goes into the riot | it goes into grumbling, and then into the festival |
-| anything at all | the remaining dark route grows | **it does not** |
+| what collapsed | what happens |
+|---|---|
+| the brother's party | he joins the core, a dozen people attend, nothing comes |
+| a faction's internal fracture | grumbling, and then the festival |
+| anything at all | **the remaining dark route does not grow** |
 
 ##### Why this matters mechanically
 
@@ -897,9 +814,7 @@ correct version is almost always *they went to the festival.*
 
 ### The economy is one resource and one rate
 
-> **Revision. The design previously ran two currencies — emotional *energy* as
-> an operating budget, and *compute* as the win condition. There is now only
-> compute.** The parasite does not feed on feeling. It has its own power supply.
+**The parasite does not feed on feeling. It has its own power supply.**
 
 | | what it is | where it comes from | how it behaves |
 |---|---|---|---|
@@ -917,9 +832,8 @@ batteries](ECOSYSTEM.md#humans-are-cpus-not-batteries), and now exclusively so.
 
 #### The shell is the budget, and it has two kinds of spending
 
-The old energy economy's structure survives, retargeted onto the shell — but
-**the shell was always subject to a rule energy was not**, and that rule is now
-the most important thing in the economy.
+The shell is the only budget, and it has two kinds of expenditure that behave
+differently.
 
 > available = **capacity** − ( **work** on held nodes ) − ( **structural cost**
 > on *all* nodes, held or not )
@@ -961,9 +875,6 @@ host supplies both only under one condition.
 > **The parasite cannot use a person at their most intelligent.** A brilliant
 > scientist thinking hard is nearly worthless to it. The same scientist in
 > grief, in love, or looking up at totality is a supercomputer.
-
-Which is the game's thesis stated as biology, and it was not designed to be —
-it falls out of the mechanism.
 
 ##### The superficial grounding, which is deliberately not load-bearing
 
@@ -1096,14 +1007,10 @@ The entity's access should ramp smoothly with the host's arousal rather than
 switching on, because the smooth version is the one that can be felt in prose
 and the sharp version is a number.
 
-> **The subjective experience, which is the best thing this mechanic has: the
-> parasite becomes able to think as its host becomes less able to.** Clarity
-> arrives with somebody else's distress. **You are at your sharpest when they
-> are least themselves**, and you will come to associate other people's worst
-> moments with your own lucidity.
+> **The parasite becomes able to think as its host becomes less able to.**
+> Clarity arrives with somebody else's distress.
 
-Nothing in the game should ever say this. It only has to be true often enough
-that the player notices.
+Nothing in the game states this.
 
 ### Compute
 
@@ -1155,9 +1062,8 @@ Consequences:
   graph where you have linked minds. Where you stand determines what you can do,
   which makes free navigation a *tool* rather than a mercy — and makes the graph
   terrain rather than history.
-- **There is no harvesting verb any more.** The old model had *feeding* on
-  emotion and *connecting* minds as two actions; there is now one. **Emotion is
-  not eaten, it is the condition under which a mind can be used at all.**
+- **There is no harvesting verb.** Emotion is not consumed; it is the condition
+  under which a mind can be used at all.
 - **The best compute targets are the best defended.** Central, well-connected
   people carry old symbiotes with community-wide vision.
 - **Severing costs you the links.** A cut inside your chosen line destroys the
@@ -1322,16 +1228,14 @@ So the only two mass states the game actually works with are **shared joy** and
   atrocity and is fuelled by
   it](#the-darkest-route-collective-rage-fuelled-by-what-it-does). A lot of very
   angry islanders; a few terrified outsiders.
-- **The design's worst risk is still closed.** The monstrous-but-small options —
-  the coerced orgy, a quiet massacre, anything done *to* a crowd — are worthless.
-  Only the monstrous-and-collective one works, and it requires a genuine mass
-  grievance the player cannot manufacture.
+- **The monstrous-but-small options are worthless** — the coerced orgy, a quiet
+  massacre, anything done *to* a crowd. Only the monstrous-and-collective one
+  works, and it requires a genuine mass grievance that cannot be manufactured.
 
 ##### The darkest route: collective rage, fuelled by what it does
 
-**This is the dark ending of the design, named precisely.** Not a massacre, not
-a coerced rite — **a lot of very angry islanders and a few terrified
-outsiders.**
+Not a massacre, not a coerced rite — **a lot of very angry islanders and a few
+terrified outsiders.**
 
 The brother's plan yields nothing. **What it can ignite does.**
 
@@ -1383,10 +1287,8 @@ every word of it is accurate.
 
 - The player may even **help** the opposition, selectively, to ensure the plan
   survives long enough to be damning and is exposed at the hour of their choosing.
-- **The resulting atrocity is against the outsiders**, which the design should
-  sit with rather than resolve: the victims are the tourists and the brother's
-  circle, the perpetrators are the wronged, and the only architect of any of it
-  is not human.
+- **The resulting atrocity is against the outsiders**: the victims are the
+  tourists and the brother's circle, the perpetrators are the wronged.
 
 ##### The other viable high-intensity event is the beach
 
@@ -1429,9 +1331,7 @@ more act of extraction**, and [the matriarch](STORY.md#the-matriarch) will see
 both possibilities before anyone else does.
 
 - **[open]** Whether she can be brought to yes honestly, or only by the player
-  arranging her consent. The first is the best ending the design has. The second
-  is the game's thesis wearing the first one's clothes, and the player may not be
-  able to tell which they did.
+  arranging her consent. The two are hard to tell apart from inside.
 
 ##### The scientists' route is consent, not a venue
 
@@ -1446,7 +1346,7 @@ two independent reasons, and both are load-bearing.**
 
 | | |
 |---|---|
-| **The shell never replenishes.** It is a closed organ, [calibrated to expire at the end of totality](#the-eclipse) | Allowing a recharge destroys **the deadline, the budget and the fail state** in one move — three of the design's structural supports. Nothing is worth that |
+| **The shell never replenishes.** It is a closed organ, [calibrated to expire at the end of totality](#the-eclipse) | A recharge would remove the deadline, the budget and the fail state |
 | **Energy was never the bottleneck.** [Humans are CPUs, not batteries](ECOSYSTEM.md#humans-are-cpus-not-batteries) | Transcendence is a **compute** threshold: interconnected minds in a shared state. A generator supplies watts and no cognition. **You cannot transcend on a power supply any more than you can run software on a battery** |
 
 **But the attempt belongs in the game**, because it is exactly what these people
@@ -1483,9 +1383,9 @@ the many in one state](#the-field-forms-among-the-many-and-that-decides-everythi
 people experience the same thing on the same second. Instruments, the eclipse
 track to the second, a countdown, linked sites, a public address.
 
-> **The design's bottleneck is correlation, and science is the discipline of
-> making measurements correlate.** They would be solving the parasite's problem
-> with their own professional competence, for their own reasons — good data, a
+> **The bottleneck is correlation, and science is the discipline of making
+> measurements correlate.** They would be solving the parasite's problem with
+> their own professional competence, for their own reasons — good data, a
 > once-in-a-lifetime event, public engagement.
 
 That is the scientist flavour of the event: not a party, **an engineered
@@ -1514,8 +1414,7 @@ What it buys:
   influence beyond minimal interference, and a free choice is not influence. But
   [only the top of the station consents](#the-colonial-angle-which-is-the-point);
   the crowd is recruited to something else. **Whether that reads as zero
-  deviation or as the quietest large deviation in the game is [open] and
-  probably the most interesting unresolved number in the design.**
+  deviation or as the quietest large deviation in the game is [open].**
 - **Shell conservation.** The shell is spent overpowering resistance; consent
   removes the need. Cooperation is the cheapest route to the event that exists.
 
@@ -1528,9 +1427,6 @@ What it risks, and these must be real:
   anybody.
 
 ###### The colonial angle, which is the point
-
-**Correction to the framing above, which made this sound like the clean route.
-It is not.**
 
 They feel they have **a right to the truth** — to the discovery, to the
 description, to the publication. They have spent a century here acquiring
@@ -1560,8 +1456,7 @@ ridiculous, and would wreck the measurement.
 > telling them. **It is the land deal, the society's elders and the entity
 > itself, in a third vocabulary.**
 
-The route stays available and stays attractive. **It is simply not clean, and
-the design should never let it look clean.**
+The route stays available. **It is not clean, and should never look clean.**
 
 ###### They cannot do it alone, and that is the whole act
 
@@ -1653,7 +1548,7 @@ participating.
 
 > **The highest-value, lowest-cost event in the game is also the only one with
 > a scheduled attempt on your life at the end of it.** Taking it is a timing
-> problem, not a power problem — the first thing in the design that is.
+> problem, not a power problem.
 
 > **So the optimal benign play is: help the town throw a really good eclipse
 > party.** Nothing coerced, nobody harmed, everyone has the night of their
@@ -1697,8 +1592,8 @@ the baseline is for.
 > also the cheapest thing they can buy.
 
 It also supplies a rival planner, a clock and a reason to hurry — most of what
-[a second seed](DESIGN.md#open-questions) would have given the design, without a
-second non-human agent.
+[a second seed](DESIGN.md#open-questions) would have supplied, without a second
+non-human agent.
 
 ##### Breaking it relocates him; it does not hand you an event
 
@@ -1798,10 +1693,9 @@ The two quantities are shaped very differently, and should read that way:
 | **compute** | a rate — rises and falls with the room | you cannot act or think; not fatal |
 | **shell** | monotone, never refilled, 100% until dry | end of run — terminal |
 
-> **Only one of them is spent.** The old model had a rebuildable energy pool
-> alongside the shell; there is no such pool. **Every act is paid for out of a
-> lifespan**, and the only thing the host supplies is the ability to have the
-> thought in the first place.
+> **Only one of them is spent.** There is no rebuildable pool. **Every act is
+> paid for out of a lifespan**, and the only thing the host supplies is the
+> ability to have the thought.
 
 
 > **The spent husk, the fossil record, deep time and the cognitive explosion**
@@ -2114,7 +2008,7 @@ it is simply the body, the store, and a number of attempts.
 | | before | after |
 |---|---|---|
 | **shell** | a continuous budget spent on branching, force and frontier | **seeds.** How many siblings you have left to fold into |
-| **in-run currency** | shell, plus the old energy pool | **compute-time, and nothing else** |
+| **in-run currency** | a continuous shell budget | **compute-time, and nothing else** |
 | **the cost of an expensive act** | lifespan | **your inheritance** |
 
 > **You no longer spend a lifespan. You spend the next run.** Everything
@@ -2200,25 +2094,6 @@ only grows.
   interesting one**, because it is where the mastery curve is actually
   experienced — and it would need the prose to make a known path feel different
   rather than repeated.
-
-#### The model this would replace
-
-Recorded so the comparison survives the decision.
-
-> **Early.** You can only move forward from the beginning; on death you restart
-> from awakening. **Later.** You move through the timelines more freely — on
-> death you return to the last branch point rather than the origin.
->
-> **Replace** (early) overwrote a choice and cut off the rest of that timeline,
-> recoverable by **reconnecting** with later choices that left everything else
-> unchanged. **Branch** (learned later) split a new timeline at a cost in shell,
-> leaving the original intact, reduced or waived when rejoining an existing one.
->
-> The texture it was reaching for: timelines as an asset you accumulate and
-> manage, not a save-scum convenience, where cutting one off should hurt.
-
-**Folding keeps that intent and moves it up a level** — the asset is now the
-inherited structure, and what hurts is arriving at the fold with nothing in hand.
 
 ---
 
@@ -2347,16 +2222,13 @@ protecting:
 | **Energy** | live nodes only | `max` — **peaks** |
 | **Deviation** | all nodes, forever | integral — **peaks** |
 
-The act that opens a mind widest is the act that exposes you most. And because
-the two read different subsets of the graph, **severing keeps the sin and loses
-the gain**: abandon a branch where you pushed a host too hard, and every mind
-you linked there goes with it while the damage stays on the books. The shell
-comes back; the relationships and the deviation do not. Your most dangerous
-experiments are permanently expensive if you walk away from them.
+The act that opens a mind widest is the act that exposes you most. Because the
+two read different subsets of the graph, **severing loses the gain and keeps the
+damage**: abandon a branch where you pushed a host too hard, and every mind you
+linked there goes with it while the deviation stays on the books. The shell
+comes back; the relationships and the deviation do not.
 
-The play this pushes toward — many small sustained pushes over few large ones —
-is exactly the instinct → pattern → contact arc. The entity learns finesse
-because the arithmetic demands it.
+The arithmetic pushes toward many small sustained pushes over few large ones.
 
 #### What they do about it
 
@@ -2455,7 +2327,7 @@ structure.
 
 #### 3. Positioning across events
 
-> Replaces an earlier version of this that required years. At a days-to-weeks
+> At a days-to-weeks
 > scale (see [Setting and scale](STORY.md#setting-and-scale)) nobody ages, so cultivating
 > a young host into a powerful one is unavailable.
 
@@ -2471,9 +2343,6 @@ Darker than the version it replaces, and it uses the compact window rather than
 fighting it.
 
 #### 4. Information brokerage — between humans
-
-> Reframed. An earlier version had you trading knowledge *with symbiotes*, which
-> is a category error now that they are not agents (see *They are not agents*).
 
 You are the only thing in this world that can carry knowledge **out of a
 timeline**. Humans cannot; symbiotes cannot. So what you know from a branch that
@@ -2618,8 +2487,7 @@ route — they are following the only one.
 > **Caution:** the entity's ignorance is most of the game's atmosphere. The
 > symbiotes should be *felt* long before they are understood — an unexplained
 > resistance, a human who looks at you wrongly — and probably never named by the
-> interface. Explaining them early would trade the best thing the premise has
-> for a plot point.
+> interface.
 
 ---
 
@@ -2708,7 +2576,7 @@ carry forward** — which of these people you want to know in the next world.
 > And it stays honest, because **it is the driver, not the person.** You are not
 > saving anyone. You are keeping the ability to operate them. The player will
 > feel it as attachment while it is precisely instrumentation — [the
-> thesis](#the-benign-routes-thesis) compressed into one button.
+> route](#the-credit-route-is-not-exempt) compressed into one button.
 
 ##### Declining to win
 
@@ -2717,9 +2585,8 @@ whenever you are able, and winning ends everything; declining is how you see
 more.
 
 > It is also the first moment **the player's will diverges from the entity's
-> nature.** Transcendence is a tropism — biology, not ambition. All game the
-> thing has pulled and the player has steered. At the end the player can refuse
-> the one act it exists to perform.
+> nature.** Transcendence is a tropism — biology, not ambition — and declining
+> is refusing the one act the larval stage exists to perform.
 
 - **The clutch is finite.** Otherwise nobody takes option A until they are
   bored. N seeds, and **the last one has no sibling to project into** — it
@@ -2804,12 +2671,12 @@ well.** What differs is cost and speed.
 > harder. **The game charges for its own content in human suffering.**
 
 That is the player-facing twin of [the benign route's
-thesis](#the-benign-routes-thesis). One says the people you treated best were
+route](#the-credit-route-is-not-exempt). One says the people you treated best were
 your most valuable assets; this one says wanting to *see* more is what makes you
 worse. Neither needs the game to editorialise; both are arithmetic.
 
-**The richest experience and the cleanest conscience are structurally opposed.**
-A player cannot have both, and that is a real choice rather than a stated theme.
+**Depth and low deviation are structurally opposed**: more exploration means
+more branching, more intervention and more accumulated damage.
 
 ### The dark routes are gated by competence
 
@@ -2821,7 +2688,7 @@ exactly hard enough. That knowledge is **drivers**, and drivers arrive by
 projection from a previous seed. A first-run player cannot execute the brutal
 routes because they would fumble them.
 
-**The ordering is enforced by the economy, not by the game's opinion.** Benign
+**The ordering is enforced by the economy.** Benign
 is cheapest, so a first run slides toward it; dark requires an understanding of
 people that only a second seed possesses.
 
@@ -2837,21 +2704,15 @@ require precision.
 
 > **You choose who to save, and they become who you exploit.**
 
-The game never says this. It surfaces a run later, when the player realises the
-person they carried forward out of affection is the only one they understand
-well enough to destroy.
+The game never states this.
 
-#### Which gives the drivers a second job
-
-They began as a technical answer to whether a reset makes the entity stupider.
-They are now the moral engine:
+#### Drivers do double duty
 
 > **Intimacy is what enables harm. You cannot exploit someone you do not know.**
 
 The same accumulated understanding that lets you help a person precisely is what
-lets you ruin them precisely. One quantity — and the structure makes the player
-spend an entire run acquiring it before it will let them misuse it. Competence
-precedes abuse.
+lets you ruin them precisely. One quantity, and it has to be acquired over a run
+before it can be used either way.
 
 #### And the gate runs the other way too
 
@@ -2890,49 +2751,19 @@ This is where the structure does the work, and it does it without being told to:
 > **The damage stays in the discarded draft. The capability comes with you.**
 > A clean run is clean *because* the dirty one was folded away.
 
-The player is not hiding anything from the game — the game does the hiding. And
-[they still hold the discarded line](#the-timeline-is-a-draft-until-you-fold-it)
-and can go and look at it, which makes the folded draft **a moral object rather
-than a savepoint.**
+[The discarded line is still held](#the-timeline-is-a-draft-until-you-fold-it)
+and can be revisited.
 
-##### It rhymes with the transcendence problem exactly
-
-Two scales, one shape:
-
-| | clean where you can see | compromised where you cannot |
-|---|---|---|
-| **transcendence** | nobody in the surviving line is harmed | [every other timeline ends](ECOSYSTEM.md#the-parasite-you) |
-| **competence** | this run harms nobody | **the understanding it runs on was bought by harm elsewhere** |
-
-> **The visible ledger is clean and the invisible one is not.** That is the
-> game's whole structure, stated twice at different magnitudes, and neither
-> statement has to be made out loud.
-
-##### What it does to the inversion
-
-[The easy choice is the right one](ECOSYSTEM.md#the-inversion-underneath-it-the-easy-choice-is-the-right-one)
-**survives, and stops being comfortable.**
-
-Decency is still free, still effective, still elective — **within a run.**
-Across runs it is subsidised. The inversion holds locally and dissolves
-globally, which is the same move as everything else here.
-
-##### It is not a railroad, and the distinction matters
+##### What is and is not gated
 
 | | |
 |---|---|
-| **winning dirty** | available immediately, cheaply, with no prerequisite and **no excuse** |
-| **winning clean** | **requires having been dirty first** |
-| **declining to win** | [available from the first run](ECOSYSTEM.md#the-way-out-should-be-a-real-ending), and is a real ending |
+| **winning dirty** | available immediately, with no prerequisite |
+| **winning clean** | requires having been dirty first |
+| **declining to win** | [available from the first run](ECOSYSTEM.md#the-symbiote-ending) |
 
-**Nobody is forced into anything.** The game is not withholding the good ending;
-it is **pricing an aspiration.** A player who wants to win kindly is choosing to
-pay for it, and a player who never pays simply plays a different, shorter,
-cleaner game that ends without transcendence.
-
-> **That is a tragedy of sequence rather than a railroad**, and it is a far
-> better answer to *should transcendence be reachable at low deviation* than
-> either forcing harm or pretending the clean route was ever free.
+Only the clean win has a prerequisite. A run that never pays simply ends without
+transcendence.
 
 ##### Drivers should remember what they cost
 
@@ -2942,9 +2773,9 @@ to learn it.
 > *You know how to move her because of what you did to her in a timeline that
 > no longer exists.*
 
-Carry the provenance on the driver and the player's capability sheet becomes a
-list of crimes — **the only place the folded damage is still written down**,
-surviving precisely because the deviation did not.
+Carry provenance on the driver and the capability list becomes **the only place
+the folded damage is still recorded**, surviving because the deviation did
+not.
 
 It also gives [the first run, which is meant to be
 lost](#the-first-run-is-meant-to-be-lost), its actual purpose: **it is where you
@@ -2995,7 +2826,7 @@ hidden.** The deeper a run goes into any deviation — *including the benign one
 — the more the narrative should follow what that manipulation did to the
 specific people involved.
 
-#### The benign route's thesis
+#### The credit route is not exempt
 
 The credit route's logic is: **invest in someone's wellbeing in order to use
 them more.** So:
@@ -3006,12 +2837,9 @@ The festival everyone remembers as the best night of their lives was a harvest.
 Someone's courage, their reconciliation, their love — real to them, instrumented
 by you.
 
-And *you can only amplify what you observed* makes this **worse, not better.**
-You did not manufacture the feeling. You found something small and true in a
-person and made it the centre of their life, for your own reasons. Nothing about
-it is fake, which is exactly the problem.
-
-That is what stops the credit route from being the good ending.
+And *you can only amplify what you observed* applies: the feeling was not
+manufactured. Something small and true in a person was made the centre of their
+life, for reasons that were not theirs.
 
 #### Aftermath is a content category
 
