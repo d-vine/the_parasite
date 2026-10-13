@@ -93,7 +93,7 @@ The table above layers the game by **mechanical access**. This layers it by
 
 | | **inside a timeline** | **across timelines** | **across the whole game** |
 |---|---|---|---|
-| the genre | **resource management crossed with a visual novel with backtracking** | **structural puzzle** — arranging folded lines so new ones start with more reach | **a thematic argument** |
+| the genre | **a narrative game of choosing outcomes against a [narrowing option space](#the-option-space)** | **structural puzzle** — arranging folded lines so new ones start with more reach | **a thematic argument** |
 | the verb | read people, allocate computation, revise | position, inherit, depart | notice |
 | the tempo | minute to minute | run to run | cumulative |
 | the unit | a scene | a timeline | a playthrough-of-playthroughs |
@@ -540,8 +540,7 @@ happened.
 > **Someone was distracted last Tuesday because of a choice the player makes
 > now.**
 
-So [the host showing the
-load](#the-host-shows-the-load) survives and becomes retroactive: commit to a
+So **the host showing the load** survives and becomes retroactive: commit to a
 large push and the preceding hours *fill in* with someone staring at nothing,
 missing what was said, losing a conversation. **Mechanically free, and the
 single most unpleasant thing in the mechanic.**
@@ -812,9 +811,164 @@ Before writing any consequence of a collapse, ask: **does this claim that people
 concentrated without the player causing it?** If yes, it is wrong, and the
 correct version is almost always *they went to the festival.*
 
+### The option space
+
+> **[proposal, strong] This replaces within-run backtracking entirely.** The
+> player does not revisit and retry inside a timeline. They choose outcomes, and
+> each choice narrows what remains reachable.
+
+#### The player chooses outcomes, not actions
+
+At each branching point the game offers **outcomes that are still reachable**
+given everything fixed so far. The player picks one, and the game narrates the
+backfill — the hours before it filling in with whatever had to have been true.
+
+This is [post-selection](ECOSYSTEM.md#across-timelines), and it is the interface
+the [admissibility model](#feasibility-is-three-conditions-not-one) always
+implied: *the player makes any choice that would have been feasible, and by
+making it, it will have been pre-computed.*
+
+#### Narrowing is monotone, and that is what makes the economy work
+
+Every choice deletes branches from the live pool. Nothing is restored, and
+nothing is revisited.
+
+> **Narrowing is not measuring.** Conditioning a state onto a subspace leaves it
+> coherent — which is why the run remains [an unmeasured
+> draft](#playing-is-preparation-not-measurement) all the way to the fold.
+
+Monotonicity is not a taste preference. The price of an outcome depends on the
+share of *live* branches containing it, so a pool that could expand and contract
+would make prices thrash. Forward-only constraint is what makes the cost
+function stable.
+
+#### The price is 1/√p
+
+With *p* the share of still-live branches containing the outcome, the cost of
+forcing it is **O(1/√p)** — Grover, not analogy.
+
+| *p* | cost | what a classical process would pay |
+|---|---|---|
+| 0.5 | 1.4 | 2 |
+| 0.1 | 3.2 | 10 |
+| 0.01 | 10 | 100 |
+| 0.001 | 32 | 1,000 |
+| 10⁻⁶ | 1,000 | 1,000,000 |
+
+A thousandfold rarer outcome costs about 31× more, not 1,000× more. **The square
+root is what makes the game playable at all**, and it is the same thing that
+makes the entity supernatural.
+
+##### Constraints work because p is conditional
+
+*p* = P(outcome | everything already fixed). Choices elsewhere do not raise the
+numerator — they **delete branches from the denominator.**
+
+> **You never make an outcome more likely. You make the alternatives
+> impossible.**
+
+- **Broad moves are cheap and multiply.** Ruling out a wide swathe has a *p* near
+  1, so it costs little and lifts the target's *p* a great deal. Cheap wide
+  strokes setting up one expensive precise one.
+- **Over-constraining is a real failure mode.** Pruning is permanent, so a player
+  can reach a space where the target is affordable and nothing else is reachable.
+  **Opening a new line is what restores option space.**
+
+##### The soufflé problem
+
+Grover's success probability goes as **sin²((2k+1)θ)** with sin θ = √p. It
+**oscillates.** There is an optimal number of iterations and past it the
+probability falls again — Brassard's name for this is the soufflé problem.
+
+> **Over-forcing does not merely cost more. It undoes itself.**
+
+So the cost curve is not monotonic. There is a right amount of pressure on an
+outcome, more is actively worse, and judging when to stop pushing is a skill.
+
+**[proposal]** A run forced past the optimum is a **dirty input**. The forcing
+that gets the outcome is what ruins the run as a distillation candidate, so a
+player cannot force their way to a good batch.
+
+#### The authorial account of the cost
+
+The classical foil is **rejection sampling**: draw, discard every draw that fails
+the condition, pay 1/p. The entity does not try and discard — it reweights, which
+is why it pays the square root.
+
+And the cost is **passes, not draws.** Each iteration is one evaluation of the
+whole space at once, and about π/4 · 1/√p of them are needed:
+
+```
+cost(outcome)  =  (π/4)·(1/√p)      ×   cost of one evaluation
+                  rarity                 how much world must be modelled
+                                         — the horizon parameter
+```
+
+Every pass is paid in host brain-hours, so this never leaves [one resource and
+one rate](#the-economy-is-one-resource-and-one-rate).
+
+> **It does not search. It evaluates everything at once and has to do that about
+> 1/√p times before the answer is reliably there — and each of those passes is
+> paid for in somebody's afternoon.**
+
+##### The two scales use different sampling regimes
+
+| | regime | cost |
+|---|---|---|
+| **within a run** | **amplification.** Nothing is discarded; the space is reweighted | 1/√p |
+| **at the fold** | **rejection.** Failed batches are genuinely thrown away | classical |
+
+Which is why folding hurts in a way in-run action does not. The cheap faculty is
+reweighting; the only place anything is actually thrown away is the fold.
+
+#### What the interface is for
+
+The entity does not experience time. The player does. So the UI supplies, at each
+moment, what the entity holds atemporally: which outcomes remain reachable, a
+direction toward a transcendence (**never which one** — it perceives [structure,
+not episodes](ECOSYSTEM.md#interference-is-not-communication)), and whether a
+choice is compatible with the other live lines.
+
+> **The prose supplies the host's interior. The UI supplies the entity's faculty.
+> The player supplies the entity's interior.**
+
+These are not hints. They are an atemporal perception rendered for a linear
+reader.
+
+> **[open] Legibility of *p*.** A numeric percentage would be the sort of meter
+> the design refuses elsewhere. One direction: **the option text is the price
+> tag** — a cheap outcome stated plainly, an expensive one phrased as something
+> that would require a great deal to already be true. Amplitude *estimation* also
+> has its own cost (O(1/ε) against O(1/ε²) classically), so exact prices could be
+> a purchase rather than free information.
+
+#### Lines constrain each other; they do not merge
+
+Parallel lines are advanced together. A choice in one deletes branches in the
+others, which is how an outcome becomes affordable somewhere it was not.
+
+> **Timelines do not merge. They constrain.** An outcome is selectable iff a
+> consistent history exists given everything already fixed — which is
+> **satisfiability**, not merging, and preserves
+> [unitarity](ECOSYSTEM.md#interference-is-not-communication).
+
+The compatibility readout is a solver query over the same constraint set, so it
+costs nothing extra to display.
+
+> **[open] What carries between lines.** Either shell-state only (a driver deep
+> enough to afford an outcome), or a **shared trunk** — lines diverging from a
+> common ancestor, everything before the split shared. The second gives richer
+> interlock and makes *when did these two separate* a strategic question.
+
+> **[open] Outcome-space explosion.** *All reachable outcomes* is not
+> presentable. The set shown has to be authored — storylet preconditions, which
+> the [QBN substrate](ARCHITECTURE.md) already is — filtered by satisfiability.
+
 ### The economy is one resource and one rate
 
-**The parasite does not feed on feeling. It has its own power supply.**
+**The parasite does not feed on feeling.** Emotion is not fuel — [the host's
+metabolism pays for everything](ECOSYSTEM.md#the-ledger-which-runs-through-the-host),
+and what feeling changes is access.
 
 | | what it is | where it comes from | how it behaves |
 |---|---|---|---|
@@ -1699,7 +1853,7 @@ The two quantities are shaped very differently, and should read that way:
 
 
 > **The spent husk, the fossil record, deep time and the cognitive explosion**
-> are in [ECOSYSTEM](ECOSYSTEM.md#the-husk-is-in-the-fossil-record).
+> are in [ECOSYSTEM](ECOSYSTEM.md#the-shells-are-in-the-fossil-record).
 
 #### It is the body
 
@@ -1713,8 +1867,10 @@ body** — one object that exists as a single thing across every timeline at onc
 
 **[proposal]** Matter and energy as information transfer, with the shell as the
 store and the host as the processor. The distinction that matters is between
-**capacity to hold** and **capacity to operate**: the shell remembers and
-powers, the host computes, and neither can do the other's job.
+**capacity to hold** and **capacity to operate**: the shell remembers, the host
+computes *and powers*, and neither can do the other's job. See [The
+mechanism](ECOSYSTEM.md#the-mechanism) for how that division is actually
+arranged.
 
 > **Keep this strictly authorial.** The entity has no concepts, let alone
 > physics. This is something the designer knows and the game never says.
@@ -1727,7 +1883,7 @@ are three answers:
 
 | outcome | condition | what you become |
 |---|---|---|
-| **Transcendence** | enough compute in one timeline | the adult. Unbounded, nobody home |
+| **Transcendence** | a [purified state is available to spend](#a-run-is-a-batch), and this run can spend it | the adult. Unbounded, nobody home |
 | **Symbiosis** | shell expires, **at least one direct link** | bound to that host. Far less access to everything |
 | **Extinction** | shell expires, **no direct link** | nothing. The run ends |
 
@@ -1814,7 +1970,8 @@ different UI and different scenes than the first.
 
 > **On the trope.** The cocoon was in the premise from the beginning. What is
 > notable is that the shell mechanic — invented later and separately as a leash,
-> a power source, a deadline and a store — turned out to be the same object.
+> a store, a deadline and the root of the tree — turned out to be the same
+> object.
 > That convergence is the argument for never narrating it. The silhouette is
 > familiar; a depleting chrysalis at the root of a timeline DAG that holds your
 > device drivers is not. Let the mechanics carry it.
@@ -1827,20 +1984,20 @@ look like a grab bag:
 
 | the shell is | because |
 |---|---|
-| the power source | it is the only organ that is actually yours |
+| the thing that spans timelines | it is the only part of you isolated enough to [stay coherent](ECOSYSTEM.md#across-timelines) |
 | the store of the drivers | it is the only thing that persists across resets |
 | the leash | you cannot be far from the only part of you that is real |
 | the deadline | and it runs down |
 
 It also makes the failure state exact rather than atmospheric: **lose the shell
 and nothing of your own remains**, only what a single host lends you. That is
-why an expired larva is near enough a person.
+why a tethered limb is near enough a person.
 
 | | compute | shell | the drivers |
 |---|---|---|---|
 | source | valuation over held timelines | the seed — fixed at awakening | — it is the goal |
 | replenished? | yes, by holding more | **never** | — |
-| spent on | amplification, host-switching — the soft verbs | advancing time, creating and merging timelines, overpowering resistance | — |
+| spent on | amplification, host-switching — the soft verbs | advancing time, opening branches, forcing outcomes, overpowering resistance | — |
 
 #### It buys forward motion, not lateral motion
 
@@ -1944,8 +2101,8 @@ you are inside it.
 
 | | |
 |---|---|
-| **transcend** | the win. One timeline survives; it is over |
-| **fold** | you merge your timeline into **one of your siblings** and continue there |
+| **fold** | the run joins a batch. All but one of the batch is burned as checks; the survivor carries forward as a purified input. **Nothing merges** |
+| **convert** | only when a purified state is finally spent — which [a single run cannot reach](#a-run-is-a-batch) |
 
 And the rules of folding as proposed:
 
@@ -1957,6 +2114,164 @@ And the rules of folding as proposed:
   moment of folding](#competence-is-compute-time-integrated-along-the-path)
   determines whether **driver quality** and **direct links** carry across — and
   both of those feed back into access and compute in the run that follows.
+
+#### What a fold actually consumes
+
+**[proposal]** The fold is [magic state
+distillation](ECOSYSTEM.md#distillation-which-is-what-the-fold-is), which fixes
+its rules rather than leaving them to taste.
+
+**A single eclipse does not transcend.** It yields an *input* — a resource whose
+quality is set by how that run went. Transcendence is what enough purified
+inputs eventually permit. Which makes *the first run is meant to be lost*
+literally true: early runs are inputs, and inputs are for spending.
+
+| | |
+|---|---|
+| **batch size** *b* | 3–5. Smaller batches purify more weakly, so they need more rounds |
+| **what a batch yields** | **one, or none.** Never the batch. All but one are measured, and measuring them is what verifies the survivor |
+| **what is consumed** | every other member, plus the whole batch on a failed check |
+| **what the player chooses** | **which timelines to burn, not which to keep** |
+| **what the player learns** | whether the checks passed. Never anything about the survivor |
+
+##### A run is a batch
+
+The *b* parallel lines the player advances **are** the batch. They describe one
+option space, constrain each other, and therefore succeed or fail together. One
+run, one fold, one purified output — or none.
+
+So the pyramid is counted in runs:
+
+```
+b runs  →  b outputs  →  one round-2 batch  →  1 state  →  spent in the finale
+```
+
+| | 2 rounds | 3 rounds |
+|---|---|---|
+| **b = 3** | **4 runs** (3 + the finale) | 10 |
+| **b = 5** | **6 runs** (5 + the finale) | 26 |
+
+At b = 3 that is four runs of three lines — twelve timelines of content — and
+**b is the run-count dial.**
+
+> **Run quality decides the number of rounds, and rounds are an exponent.** A
+> dirty run does not cost a run; it costs an entire extra round, multiplying the
+> campaign by *b*. The [convergence
+> table](ECOSYSTEM.md#distillation-which-is-what-the-fold-is) is what sets how
+> many rounds the inputs on hand require.
+
+Three rules follow, and each is a real failure mode:
+
+- **The candidate cannot be inspected.** Confidence comes entirely from the
+  timelines destroyed. The survivor is the one nobody looked at.
+- **The checks can fail.** A dirty syndrome discards the whole batch — every run
+  in it consumed, nothing produced.
+- **A clean result is not a guarantee.** The error rate fell by a square or a
+  cube; residual risk survives every successful fold.
+
+> **The floor bites per input, not on average.** One run below the fidelity
+> threshold poisons the batch. A run allowed to go badly is not merely a weak
+> contribution — it can cost the others.
+
+##### The resource buys the finale; it is not the finale
+
+The purified state is **not a timeline.** Distillation does not hand back one of
+its inputs — it decodes a logical state held across the whole batch, so no run is
+ever "the survivor."
+
+What the resource is, is **purchasing power**:
+
+```
+runs 1…b      played, folded, their lines burned as checks — and they happened
+the resource  distilled across all of them. No history of its own
+the finale    played fresh, with the resource in hand, and it resolves
+```
+
+> **You spend b timeline-batches to be able to afford the last one.**
+
+Transcendence sits at a *p* so low that [its price](#the-price-is-1p) exceeds
+anything host compute could cover in a single run. The resource is what makes
+that one price payable — so **the player does play the run that happens**, choice
+by choice, with purchasing power the whole campaign went into accumulating.
+
+##### The resource is not fungible, and that is physics
+
+It cannot be spent on ordinary pushes. A purified state buys a **non-Clifford
+operation**; every ordinary push is Clifford and never needed one. There is no
+discipline to enforce and no way to misspend it.
+
+> **Compute-time buys ordinary pushes. The resource buys the one outcome nothing
+> else could pay for.**
+
+**What holding it changes is visibility, not capability.** In runs 1…*b* the
+transcendence outcome is **not in the option list at all** — not greyed out, not
+priced out of reach, absent, because nothing in the live space reaches it. In the
+finale it is there.
+
+> **[open] What a failed finale costs.** A magic state is destroyed by
+> *injection*, which splits the failure modes:
+>
+> | | the resource |
+> |---|---|
+> | **never reached the price** — misspent compute, or the symbiote pruned against you. The state was never injected | **survives.** The run folds like any other |
+> | **paid and it failed anyway** — injected, consumed, and the operation came out wrong | **gone** |
+>
+> The second is [residual risk](#what-a-fold-actually-consumes) cashing in: the
+> output error rate after distillation **is** the probability the finale fails.
+> Inputs at *p* = 0.15 folded once give ~12%; inputs at *p* = 0.10 folded twice
+> give 0.15%. Undecided whether to keep that jeopardy or remove it.
+
+##### Playing is preparation, not measurement
+
+The mapping matters, because if playing a run measured it, the run would have
+decohered and been **disqualified as an input.** It does not:
+
+| the act | the physics |
+|---|---|
+| **playing a run** | **preparation.** Building a state, not reading one |
+| **narrowing inside it** | conditioning an unmeasured state onto a subspace — legal precisely because nothing is committed yet |
+| **the fold** | **the measurement**, and only of the siblings that are burned |
+
+So *a run is a draft; nothing is committed while you are inside it* is not a
+convenience. It is the statement that the branch is still coherent.
+
+##### Two different things come out of a fold
+
+Measurement is what makes something have happened — a decohered branch leaves
+redundant records in its environment, and that is what classical fact consists
+of. A branch held coherent leaves none, and there is no matter of fact about what
+occurred in it.
+
+| | measured? | what it becomes |
+|---|---|---|
+| **the siblings burned as checks** | yes | **rigid canon.** Determinate history, fixed, branchable from |
+| **the unmeasured survivor** | not while it is a resource | **purified input.** No determinate history for as long as it is carried |
+
+> **The timelines destroyed are the ones that are real. The one preserved has not
+> yet resolved into having occurred.**
+
+And it will not, for as long as it is useful. The survivor is not waiting to be
+revealed at leisure — it is **consumed**, spent to enable the next round or the
+final operation, and [it becomes definite only as it is
+spent](#the-resource-buys-the-finale-it-is-not-the-finale).
+
+> **The timeline kept is not a story. It is a capability, until the moment it
+> stops being one.**
+
+**The play instruction that follows:** the survivor is not reopened. It is not
+inspected, not revisited, not branched from. Everything known about it was
+inferred from the siblings destroyed to check it.
+
+###### Which is what the fold rules were already describing
+
+The rules above turn out to be statements about the *measured* siblings, and they
+stop being stipulations:
+
+- **rigid** — a branch with a determinate history cannot be changed. That is what
+  measurement means, not a game rule
+- **branchable** — a definite record is something a new run can depart from
+- **accumulating** — every burned sibling joins the fixed record, so the
+  structure only grows
 
 #### Each run is a fresh start, unless you choose otherwise
 
@@ -2007,7 +2322,7 @@ it is simply the body, the store, and a number of attempts.
 
 | | before | after |
 |---|---|---|
-| **shell** | a continuous budget spent on branching, force and frontier | **seeds.** How many siblings you have left to fold into |
+| **shell** | a continuous budget spent on branching, force and frontier | **seeds.** How many runs remain against what [the batch arithmetic requires](#a-run-is-a-batch) |
 | **in-run currency** | a continuous shell budget | **compute-time, and nothing else** |
 | **the cost of an expensive act** | lifespan | **your inheritance** |
 
@@ -2044,6 +2359,19 @@ influenced combined into one, the other side of the overlap discarded. See
 > **Folding is that act, done small, done badly, done alone.** A larva
 > practising the species' one trick on itself because it has nobody to do it
 > with.
+
+> **[open] This conflicts with the physics as recorded.** Unitary evolution
+> forbids two distinct lines converging on one state, which is why [a fold does
+> not merge anything](#what-a-fold-actually-consumes) — it measures most of a
+> batch and discards. If reproduction is literally a merge, the adult does
+> something the rest of the model says is impossible.
+>
+> The available repair, which costs nothing and closes a loop: **reproduction is
+> two adults entangling, and the seed carries that correlation.** Seeds from one
+> clutch would then share entanglement, which is exactly what [acting in lockstep
+> without a channel](ECOSYSTEM.md#what-entanglement-can-do-instead) requires.
+> Folding would no longer be a small version of the same act, so the thematic
+> line above would need replacing rather than rescuing.
 
 The old design noted this as a grace note about reconnection. Under this
 proposal it is **the core loop**, which is a substantial thematic upgrade: every
@@ -2138,11 +2466,193 @@ Everything else follows:
 The one late exception is [eviction](#5-eviction--the-hard-power-route), which
 replaces the bridge rather than removing it.
 
+### Same technique, different goal
+
+**A symbiote samples timelines and selects one.** The faculty is the one you
+have: read the branch set, score each across a window, steer toward whichever
+scores best. There is no second mechanism anywhere in this world.
+
+**What differs is what they are scoring for.**
+
+| | you | a symbiote, and the shell behind it |
+|---|---|---|
+| **scores for** | reaching the eclipse | the durability of the group |
+| **horizon** | ends at a fixed date | runs indefinitely |
+| **cost to everyone else** | not in the function | *is* the function |
+
+The capability gap is real and secondary: a symbiote cannot author or merge a
+branch, and cannot hold several open, because the reserve that paid for that is
+spent. It samples what exists and commits to one line. **That is a difference in
+what it can afford, not in what it is doing.**
+
+[Minimal interference](ECOSYSTEM.md#minimal-interference) sits comfortably with
+this without needing to be deduced from it: a function scoring durability over an
+open-ended horizon has no reason to perturb anything, because perturbation is
+risk and risk compounds over a long span.
+
+#### It is a generational conflict, and it is the ordinary kind
+
+This is the entire relationship between the two species, and it needs no
+science-fictional reading at all:
+
+> **The young want a quick rise to personal fulfilment, whatever it costs
+> everyone else. The old want durability and legacy.**
+
+Not a metaphor laid over the mechanic — the two objectives are the two ends of
+one parameter, so it *is* the mechanic. And the old were the young: every
+symbiote on this island ran your function and lost.
+
+**The deadline is what makes you young.** Nothing about the parasite is impatient
+by temperament; it has no temperament. It has until the end of totality, so its
+objective is bounded at a date and everything past that date is worth exactly
+nothing to it. Remove the deadline and the same machine produces a symbiote.
+
+**The longest horizon belongs to the thing that already has a body.** The shell
+is not patient either — it is simply not trying to acquire anything. It has the
+durable thing the parasite is spending a human community to get.
+
+> **Writing discipline.** This is a frame for the designer, not a reading for
+> anyone in the game to voice. The [two layers](ECOSYSTEM.md#two-layers) rule
+> holds: the islanders argue about their elders out loud, and the species layer
+> only acts.
+
+#### The objective is biomarkers, integrated over a horizon
+
+It scores each sampled branch on **its host's physiological state across the
+sampled span** — not their emotions, not their choices, not their welfare in any
+sense a human would recognise.
+
+> **It selects the branch that maximises ∫ host biomarkers dt over its horizon.**
+
+That is [regulating toward viability](#what-they-regulate-toward) stated as
+arithmetic, and three things fall out of it:
+
+- **"Good" was never positive emotion**, and now it cannot be. Joy that wrecks a
+  cortisol curve scores below a dull week.
+- **An old symbiote holding several hosts sums them**, which is the point at
+  which its hosts' interests begin to trade against each other.
+- **Nothing has to detect you.** A branch you are steering toward simply scores
+  low, and gets selected away from, by a process with no concept of you in it.
+
+> **[open] How this relates to the signed deviation integral.** Deviation as
+> currently modelled is a running sum over every node ever made, detached
+> included; branch scoring is an instantaneous comparison over a forward window.
+> They are plainly related and may be the same quantity read two ways, but the
+> reconciliation is not done.
+
+#### The horizon is the parameter that matters
+
+**[open] How far ahead a symbiote can see, and how far a shell can, is
+unresolved** — and it is the most load-bearing unknown in the model, because the
+horizon sets how much of the world the regulator can price.
+
+**[proposal] It is bounded the way yours is: by compute.** A symbiote has no
+reserve, so all its processing comes from the host it rides, in that host's
+linear time, through the same valve. Its look-ahead is therefore short, and it
+**varies with the host** — a calm, dull host buys little; an aroused one buys
+more.
+
+Note the direction. Your constraint is a **lookback** window behind the moment
+you act. Theirs is a **look-ahead** window in front of where they are. Same
+resource, opposite orientation.
+
+##### Reach is everything, because options expire
+
+A symbiote cannot author its way out of anything. All it can do is select — so
+its power to counter you is entirely a function of **how many branches are still
+available when the push first enters its window.**
+
+> **A long lead is not invisible. It is unactionable by the time it is visible.**
+> Set the work far enough back and the symbiote sees the decision coming only
+> once the branch set around it has already narrowed to lines that all contain
+> your push.
+
+Which is what makes old symbiotes hard opposition: not strength, **reach**. One
+that prices a wide span sees your setup while there are still branches to choose
+between, and quietly takes one of them.
+
+### The shell coordinates its limbs
+
+A shell anchoring several limbs is **one body with hands in several people**, and
+it selects across all of them at once. Its objective is the sum, which is where
+an individual symbiote's regulation and its shell's part company.
+
+**[proposal] Its horizon is longer, because it has more compute to buy it
+with.** The shell stores and powers; every limb's host contributes the
+processing. A shell with eight tethered limbs runs on eight brains and prices a
+far wider span of the world than any one of them could.
+
+> **Community regulation is not a second goal. It is the host objective at a
+> long enough horizon.** Push the span out far enough and a host's biomarkers
+> stop being separable from whether their community is still standing. Short
+> horizon looks like care for a person; long horizon looks like care for a
+> village. One function.
+
+So [one mechanism, many scopes](#one-mechanism-many-scopes) is more precisely
+**one mechanism at many horizons** — and [engineered scope
+conflict](#2-engineered-scope-conflict) gets a real mechanism: build a situation
+where the short-horizon optimum for one host diverges from the long-horizon
+optimum for the group, and a symbiote and its shell pull against each other.
+
+#### Shell to shell, over the same wire
+
+Anything spanning more people than one shell's limbs cover needs shells to reach
+each other. **[proposal, strong] They do it through people**, over the [contact
+graph](ECOSYSTEM.md#community-scope-is-a-network-not-a-faculty) that already
+carries everything else in this world: shell → its limbs' hosts → skin contact →
+other hosts → their limbs → their shells.
+
+No new physics, and the consequences all earn their place:
+
+- **It is slow.** Two shells exchange at the speed of human social contact —
+  weeks and seasons, not seconds. Nothing here coordinates faster than people
+  actually touch each other.
+- **It routes through the same people you do.** The wire you read the island
+  with is the wire the island organises on.
+- **A community that stops touching goes dark**, which is the mechanism
+  [already killing symbiotes in
+  modernity](ECOSYSTEM.md#the-regulator-is-social-not-geographic), arriving a
+  second time at a larger scale.
+
+> **[proposal] Shells in physical contact may exchange directly**, which nothing
+> on this island had arranged until the developer put a cabinet's worth of them
+> in one room. See [what collecting shells actually
+> does](ECOSYSTEM.md#what-collecting-shells-actually-does).
+
+### Placement is deliberate, and it is a readout
+
+If the objective is a viable group, and a group's viability runs through the
+people who decide things, then **the strongest limbs belong in the people who
+matter most.** Placement is the shell's main lever, and it gets one opportunity
+to pull it: [relocation on host
+death](ECOSYSTEM.md#they-relocate-on-host-death-they-do-not-multiply).
+
+| | |
+|---|---|
+| **what makes a limb strong** | old and calibrated, in a high-throughput, much-touched host |
+| **what makes a host important** | their decisions move the group, and their contact degree is high |
+| **why those are one thing** | a central host is also a [better-connected node](ECOSYSTEM.md#community-scope-is-a-network-not-a-faculty) — more signal reaches it, so it prices more of the world |
+
+Which means the distribution of symbiotes across the island **is a map of where
+the shells think the power is**, and the matriarch, who can read the network, can
+simply look at it.
+
+> **[proposal] And it lags, so it can be wrong.** Placement moves only when hosts
+> die, and calibration runs in centuries, so the strongest limbs sit where
+> authority was a generation or three ago. On an island where the chief's lineage
+> no longer runs anything and the hotel and the station do, the shells' model of
+> who matters is visibly out of date — and one of them has already corrected,
+> which is how a symbiote out of the matriarch's household ended up in [the hotel
+> owner](STORY.md#the-hotel-owner).
+
 ### What they regulate toward
 
 The symbiote keeps its humans viable **because it cannot exist otherwise**. Not
 morality, not even self-interest in any deliberated sense — a thermostat does
-not want the room warm. That is why it tolerates disturbance: the standard is
+not want the room warm. It is a thermostat with a model of the
+next few weeks (see [They run the same machine you
+do](#same-technique-different-goal)), which changes what it can price and
+nothing about whether it wants anything. That is why it tolerates disturbance: the standard is
 not purity, it is **viability**, and anything inside tolerance costs nothing to
 correct.
 
@@ -2189,6 +2699,53 @@ stops being a stylistic choice and becomes the honest display.
 > ladder will read as arbitrary punishment. Finding the representation that is
 > neither a morality bar nor nothing at all is unresolved, and probably wants
 > prototyping rather than deciding on paper.
+
+#### The opposition is the same verb, opposed
+
+**[proposal]** Under [the option space](#the-option-space) the contest has one
+shape:
+
+> **You narrow the space toward outcomes you want. The symbiote narrows it away
+> from them.**
+
+Which restates the capability gap in the new vocabulary, and more sharply than
+before:
+
+> **You can open and close. It can only close.**
+
+The shell opens timelines; a symbiote can only sample and select. Four things
+follow:
+
+- **Resistance is price pressure, with a mechanism.** A symbiote deleting
+  branches that contain your target lowers *p*, and [1/√p](#the-price-is-1p)
+  rises. *Interactions with that human become costlier* stops needing its own
+  rule.
+- **Horizon becomes the decisive stat.** A long-horizon symbiote prunes while
+  there is still space to prune; a short-horizon one acts after the space has
+  collapsed toward you. [Reach is everything, because options
+  expire](#reach-is-everything-because-options-expire) becomes the central
+  contest rather than an observation.
+- **Parallel lines cut both ways.** A symbiote's guard does not reset when you
+  do, so its pruning spans your live lines and a provocation in one raises prices
+  in another.
+- **Over-constraining is mutual.** Both parties shrink the same pool, and a pool
+  pruned hard enough contains nothing either of them wanted.
+
+> **[proposal] This may settle [open question
+> 17](DESIGN.md#open-questions).** A single quantity covers both readings of
+> symbiote pressure:
+>
+> **Deviation = how much you lowered the best score still available to the
+> symbiote.** Not what you did — **what you made impossible.** Computable from
+> the live pool, needs no accumulator, and unifies the forward-looking score with
+> the running record. Wants testing against the four axes below before adoption.
+
+> **[open] What replaces severing.** Without in-run branching the player cannot
+> detach a branch, so *severing loses the gain and keeps the damage* has no
+> mechanism. The nearest replacement is that **constraints are irreversible** — a
+> narrowing cannot be taken back, and is visible in what is no longer reachable.
+> [The two systems oppose each other](#the-two-systems-oppose-each-other) turns
+> on detached nodes and needs rebuilding or dropping.
 
 #### What counts as bad deviation
 
@@ -2910,28 +3467,25 @@ register of a visual novel but with more depth than one.
 it needs no interface at all.**
 
 [Every thought the entity has is borrowed](#compute-is-bandwidth-and-emotion-is-the-valve),
-so **the quality of the narration should track the compute available at that
+so **the resolution of the narration tracks the compute available at that
 moment.**
+
+**It varies perceptual acuity, not emotional articulacy** — [the entity has no
+interior to be articulate about](ECOSYSTEM.md#the-player-supplies-the-interior).
+What changes is how finely other people can be read.
 
 | compute | how the narration reads |
 |---|---|
-| **low** — a calm, composed, self-possessed host | short. Concrete. Sensory. Present-tense. Little inference, no names for things, no theories. **The prose of something that cannot currently think** |
-| **high** — a host in grief, terror, awe or ecstasy | fluent, analytical, able to hold several people's motives at once, able to plan. **Articulate** |
+| **low** — a calm, composed, self-possessed host | the host's sensorium, flat and unparsed. Short, concrete, present-tense. No inference about anyone, no names for what is happening |
+| **high** — a host in grief, terror, awe or ecstasy | fine discrimination of other people's states, inference about motive, the structure of a room visible: who is aligned with whom, what is about to happen |
 
-Consequences:
-
-- **The player feels the resource instead of reading it**, which is exactly the
-  stated commitment and costs nothing to build.
-- **It makes the horrible thing legible without stating it.** The entity becomes
-  eloquent as the person carrying it falls apart. A player will notice that the
-  writing is at its best in the worst scenes, and will work out why.
+- **The resource is felt rather than read**, which satisfies the stated
+  commitment and costs nothing to build.
 - **It gives the early game a voice.** The opening is a passenger with almost no
-  access at all, which is a strong and unusual register to write in — and the
-  [baseline novel](#the-baseline-is-a-real-novel-and-it-comes-first) is told
-  from a host's perspective rather than the entity's, so the two registers do
-  not collide.
+  access, and the [baseline](#the-baseline-is-a-real-novel-and-it-comes-first) is
+  told from a host's perspective, so the registers do not collide.
 - **[open]** Whether this applies to the choice text as well as the narration.
   If the available *options* get simpler at low compute, the resource becomes a
-  mechanic rather than a texture — which is better, and more work.
+  mechanic rather than a texture.
 
 ---

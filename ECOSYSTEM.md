@@ -21,7 +21,7 @@ For setting and cast see [STORY](STORY.md); for systems see [MECHANICS](MECHANIC
   - [What kind of being this is](#what-kind-of-being-this-is)
   - [The parasite (you)](#the-parasite-you)
   - [The symbiote](#the-symbiote)
-  - [They are the same species](#they-are-the-same-species)
+  - [They are the same thing](#they-are-the-same-thing)
 - [The moral structure](#the-moral-structure)
   - [Should transcendence be reachable at low deviation?](#open-should-transcendence-be-reachable-at-low-deviation)
   - [The symbiote ending](#the-symbiote-ending)
@@ -47,10 +47,10 @@ For setting and cast see [STORY](STORY.md); for systems see [MECHANICS](MECHANIC
   human it inhabits. **It only has a self in relation to its hosts** — the self
   is not a fixed thing it carries around but something that exists in the having
   of hosts.
-- **It co-opts human cognition to reason, and eventually to something like
-  feeling** — not because it is conscious, but because borrowed thinking is
-  useful for operating a borrowed body. **Reasoning is a co-opted limb, not an
-  inner life.** It uses thought the way it uses hands.
+- **It co-opts human cognition to reason** — not because it is conscious, but
+  because borrowed thinking is useful for operating a borrowed body. **Reasoning
+  is a co-opted limb, not an inner life.** It uses thought the way it uses
+  hands, and acquiring more of it never produces an interior.
 - **It runs on the social brain.** Most of a human brain operates the body;
   most of the remainder simulates other people in order to predict them. That
   module is exactly what the parasite needs, and one brain's worth of it is
@@ -65,44 +65,178 @@ For setting and cast see [STORY](STORY.md); for systems see [MECHANICS](MECHANIC
 - **Adults are processes running on the fabric of reality** rather than
   creatures inhabiting it. (Possibly everything is. The game need not say.)
 
-> On the last point: if human consciousness is itself a model the brain runs
-> rather than a substance it has, then an entity running a comparable model on
-> borrowed hardware is not categorically different from the people it rides —
-> only differently substrated. The game never argues this either way.
-
 Consequences:
 
 - **The entity has instincts and faculties, not purposes.** It does not want
   things in the way a character wants things.
 - **It has faculties, not concepts**, which is why the interface presents
   incomprehensible labels that reveal themselves only through use.
-- **Interiority is borrowed, provisional, and grows.** Early the entity has
-  almost none — it has not co-opted enough cognition. Later it reasons, and
-  later still it approximates feeling. Faculty acquisition like any other.
+- **The entity has no visible interior, ever.** Not a diminished one, not one
+  that grows — none. It [runs no self-model](#why-the-entity-has-no-interior),
+  and [the player supplies one](#the-player-supplies-the-interior).
 - **Both endings lose the self, in opposite directions.** Transcendence leaves
   an adult with no hosts at all: unbounded, and nobody home. Symbiosis contracts
   the self to a single host, permanently — which is to say, near enough, to a
   person.
 
-#### What this means for the prose
+#### The shell is the organism. Everything else is a limb.
 
-A writing constraint, and a productive one:
+**The central fact, and most of the ecology follows from it.**
 
-- **The entity never narrates itself from outside.** It has no vantage on its
-  own condition and no vocabulary that is not borrowed.
-- **Its voice is contaminated by whoever it is riding.** A researcher lends it
-  analytical language; someone in grief lends it grief-inflected reasoning. The
-  entity's cognition tastes of its substrate, and host choice is therefore a
-  *narrative* variable as well as a mechanical one.
-- **It cannot reliably tell its own wanting from its host's.** There is no clean
-  vantage from which to check. Does it amplify an emotion because the emotion is
-  useful, or because it is caught in it? That ambiguity is free, permanent, and
-  mechanically live.
+| | |
+|---|---|
+| **the shell** | **the animal.** Its actual body, and the only thing that persists on its own |
+| **a parasite** | **a limb** of that body, extended into a human and running there |
+| **a symbiote** | **the same limb**, after the transcendence event, still tethered |
 
-- **[open]** Does the capacity to reason scale with compute in the current
-  timeline — making the entity *dumber* after a reset — or is it a
-  knowledge-track faculty that persists? The first is more consistent; the
-  second is probably kinder to play.
+What this world calls a parasite and what it calls a symbiote are **not two
+beings and not two stages of a life cycle.** They are one limb of one organism,
+described before and after a single event.
+
+> **The only difference between a parasite and a symbiote is transcendence.**
+> A limb that transcends **detaches** and becomes an adult. One that does not
+> **stays tethered to the shell**, indefinitely.
+
+##### What they are made of
+
+**Working assumption, stated once and never argued in-game: consciousness is
+something a body does.** A process the body runs, not a substance it has.
+
+On that assumption, nothing here is supernatural and all of it is the same kind
+of thing:
+
+| | stored in | executes on | anchored to |
+|---|---|---|---|
+| **a human consciousness** | the body it is a process of | that body | — |
+| **a limb, before transcendence** | the shell | a host's brain | **the shell** |
+| **a limb, after** | the shell, with its reserve spent | a host's brain | **the shell** |
+| **an adult** | itself | the fabric of spacetime | nothing |
+
+A limb is **information extended from the shell into a body**, and once there it
+**runs the way consciousness runs** — on the same tissue, by the same kind of
+process. What changes at transcendence is not the substrate. It is **the
+tether.**
+
+##### Folding multiplies the limbs
+
+[A run that folds](MECHANICS.md#timelines) produces variant versions of the same
+limb across timelines. **Only the one that transcends leaves.** Every other
+variant remains attached to the shell.
+
+> So **one shell can anchor many symbiotes** — all of them versions of the same
+> limb, all of them tethered to the same body. A shell with a lot of guardians
+> around it is a shell whose limb folded a great many times.
+
+##### Which means a symbiote is not cut loose. It is attached to a dead body.
+
+The shell's reserve is spent at the eclipse. The body persists — it does not
+degrade — but there is no power left in it for anything a shell does.
+
+| | before the eclipse | after |
+|---|---|---|
+| **tether** | yes | **yes, unchanged** |
+| **reserve** | finite, spendable | **spent** |
+| **can create timelines** | yes | no |
+| **can overpower a symbiote** | yes | no |
+
+**[The leash](MECHANICS.md#the-leash) therefore still applies.** A symbiote
+cannot go far from its shell, which is why symbiotes are local, why [an old one
+steers toward home](#an-old-symbiote-steers-toward-home), and why one is never
+found far from where it was made.
+
+> **Home is where its body is.** The community-calibration account is what that
+> looks like from outside.
+
+##### Why the entity has no interior
+
+Not because it is a different order of being. **Because it does not run the
+self-modelling part.**
+
+> A human consciousness is the body modelling itself. The parasite [runs on the
+> social brain](#what-kind-of-being-this-is) — the machinery that simulates
+> *other* people — and nothing else.
+>
+> **It is an other-model with no self-model attached.** All the apparatus for
+> reading minds; none for having one.
+
+##### The parasite has a body and the symbiote does not
+
+This single asymmetry accounts for most of the difference between them.
+
+| | because it has a shell | because it has nothing |
+|---|---|---|
+| **host death** | survives; the storage is elsewhere | **ends**, unless it has already [built a driver into a relative](#how-symbiotes-persist-between-eclipses) and can transfer |
+| **timelines** | the shell is the organ that opens them, and [discards all but one at a fold](MECHANICS.md#what-a-fold-actually-consumes) | cannot open one, only inhabit |
+| **memory** | the drivers are *in* the shell — not a metaphor, the only storage there is | holds only what its host's tissue holds |
+| **reserve** | finite capacity of its own, in the shell — [storage, not energy](#the-mechanism) | **none at all.** Every cycle it uses is one the host is not using |
+| **reproduction** | can reach adulthood | cannot; the population is [conserved](#how-symbiotes-persist-between-eclipses) |
+
+##### Which restates several rules as consequences
+
+- **[Minimal interference](#minimal-interference)** is not restraint. A symbiote
+  runs on borrowed hardware with no reserve to fall back on. **It cannot afford
+  to do much.**
+- **[Losing the shell is the whole of the failure
+  state](#the-shell).** You do not lose your mind, you lose **your body**, and
+  become a process with no substrate of its own, dependent on one person.
+- **[Communion](STORY.md#the-practice-is-technique-not-spirituality) crosses no
+  gap.** The guardian is a process running on the shaman's own tissue; the
+  altered state makes local data legible to the self-model. She is not reaching
+  outside herself.
+- **Eviction terminates a process with nowhere to go.** With no substrate of its
+  own, a displaced symbiote transfers or stops. **[open]** which.
+- **[The shell-retaining symbiote](#proposal-the-shell-retaining-symbiote)** is
+  precisely a symbiote that kept its body, which is why it has never existed.
+
+##### What this does not claim
+
+The game never argues the assumption. It is a frame for keeping the three kinds
+of thing consistent with one another, and it has one visible consequence:
+**nothing here is supernatural, and the entity is not categorically unlike the
+people it rides** — only differently stored, and missing a self.
+
+#### The player supplies the interior
+
+**The entity is never given an inner life by the text. The player lends it one,
+through what they make it do.**
+
+This is a hard rule, not a tendency. The viewpoint slot is empty, and nothing in
+the game fills it.
+
+##### What the prose may never do
+
+| never | because |
+|---|---|
+| **a verb of internal state for the entity** — *you feel, you want, something in you stirs, it is drawn to* | there is nothing there to be in that state |
+| **report satisfaction, dread, relief, curiosity or reluctance** | all of those are the player's, and the text must not pre-empt them |
+| **narrate the entity from outside** | no vantage exists on it, and no vocabulary that is not borrowed |
+| **motivate a choice in its choice text** | the option is an action, never an inclination. *Press on his fear*, not *press on his fear because you resent him* |
+
+##### What the prose does instead
+
+**The host's interior is fully available, and should be rich.** The narration is
+perception: what the host senses, what the host feels, what can be read off the
+people in the room.
+
+> **You are reading somebody else's interior, continuously, and never your own,
+> because there is not one.** Host choice is therefore a narrative variable — a
+> researcher's inner life is a different text from a grieving woman's — but what
+> changes is **whose interior is on the page**, not the flavour of the entity's.
+
+##### The tropism is an affordance, not a feeling
+
+The entity's pull toward gathering people cannot be *felt*. It appears as **what
+the interface offers**: some options exist, others do not, and the pattern of
+what is available is the only trace of its nature.
+
+> **Its nature shows up as what is possible, never as what is wanted.**
+
+##### Where the ambiguity now lives
+
+The old formulation had the entity unable to distinguish its wanting from its
+host's. With no entity interior, that moves: **the player may not be able to
+tell whether an impulse they are acting on came from the host's state they were
+reading, or from themselves.** Free, permanent and mechanically live, as before.
 
 ### The parasite (you)
 
@@ -137,24 +271,30 @@ and why you are alone.
 > operation: one larva merging its own timelines because it has no partner to
 > merge with.
 
+> **[open]** Merging is forbidden by the physics as recorded — see [the note
+> under folding](MECHANICS.md#folding-is-reproduction-performed-by-something-that-cannot-yet-reproduce).
+
 #### The shell
 
-The seed carries **the larva's entire power supply and its entire memory.** The
-shell is what makes a larva more capable than a symbiote — it is the organ that
-creates and merges timelines and that can overpower a symbiote's resistance, and
-the only place anything is stored — and it is also what binds you, since you can
-never leave its reach.
+**It is not equipment. It is the body** — see [the shell is the
+organism](#the-shell-is-the-organism-everything-else-is-a-limb). The seed is a
+shell with a limb folded inside it.
 
-> **It is the whole of what you are**, because the thinking is somebody else's.
-> Power and storage here; processing out there, on loan.
+It holds the entire memory, it is what opens timelines and overpowers a
+symbiote's resistance, and it is what binds you, since you can never leave its
+reach. The power supply is the host's — see [The
+mechanism](#the-mechanism).
 
-**It is finite and never replenished.** If it runs out before you transcend, you
-do not die: you **become a symbiote** in order to survive. That is the failure
-state, and it is not an abstract one — it is the state every symbiote in this
-world is already in.
+> **The thinking is somebody else's. The body is yours.** Power, storage and
+> anchor here; processing out there, on loan.
 
-It is also not annihilation. Since the self is borrowed from hosts, an expired
-larva keeps exactly as much of one as a single permanent host can lend it: one
+**The reserve is finite and never replenished.** If it is gone before you
+transcend you do not die and you are not cut loose — **you stay attached to a
+body that can no longer do anything.** That is the failure state, and it is the
+state every symbiote in this world is already in.
+
+It is also not annihilation. Since the self is borrowed from hosts, a tethered
+limb keeps exactly as much of one as a single permanent host can lend it: one
 life, one perspective, no capacity to rewrite anything. Near enough to being a
 person.
 
@@ -226,7 +366,7 @@ models, if a mechanism is ever wanted rather than an analogy.)*
 
 | | |
 |---|---|
-| **source** | failed parasites — one per failed seed, only at eclipses. Rare |
+| **source** | limbs that did not transcend, only at eclipses. Rare |
 | **sink** | failed transitions: no suitable relative, a lineage that ends, a death too sudden for the driver to be ready |
 
 So symbiote density is **a decayed record of past eclipse activity** — which is
@@ -251,7 +391,9 @@ anything about the place, but because of how people there still live.
 #### Minimal interference
 
 **A symbiote interferes with its host as little as it can**, on an argument from
-**energy conservation**. It *nudges* toward outcomes it judges favourable. It
+**energy conservation** — and consistently with [what it is scoring
+for](MECHANICS.md#same-technique-different-goal), since perturbation is risk and
+risk compounds over an open-ended horizon. It *nudges* toward outcomes it judges favourable. It
 does not control minds. The human remains the author of their own choices
 throughout.
 
@@ -319,14 +461,17 @@ A symbiote's drivers are calibrated to a community — these people, this place.
 Outside that network it resolves no signal and its models fit nothing, so it
 keeps nudging toward conditions matching what it is tuned for.
 
-> **A control system with a set point it cannot reach.** Not homesickness, and
+> **A control system with a set point it cannot reach.** Mechanically: every
+> branch it [scores](MECHANICS.md#the-objective-is-biomarkers-integrated-over-a-horizon)
+> is scored with models calibrated elsewhere, so the ones trending homeward are
+> the only ones it can evaluate at all. Not homesickness, and
 > no agency required. It pushes toward the only configuration its models
 > describe.
 
 So **displaced old symbiotes self-correct**: either they return or their host
 does. One is therefore never found far from where it was calibrated.
 
-**A new symbiote has no set point at all.** Born from a failed parasite, with no
+**A new symbiote has no set point at all.** A limb that stayed, with no
 community calibration, it has nothing to steer toward. *Adrift* is the
 mechanically correct word.
 
@@ -413,22 +558,20 @@ itself to defend one host has less left over for the rest of its scope.
 Which makes **forcing a symbiote to act an attack in its own right.** Provoke a
 defence in one place to open a gap in another.
 
-### They are the same species
+### They are the same thing
 
-**A symbiote is a larva whose shell ran out.** Same egg, same stage, different
-outcome — and the difference is one organ.
+**A symbiote is a limb that did not transcend.** Same shell, same limb, same
+stage — and the difference is one event.
 
-This closes the capability gap cleanly. Symbiotes cannot create timelines
-because they no longer have the thing that creates timelines. Everything else
-about them follows from the same absence:
+Every symbiote trait follows from a spent reserve and an intact tether:
 
 | symbiote trait | because |
 |---|---|
-| cannot create or merge timelines | no shell |
-| **local**, bound to one place | no shell, so no reach |
-| conserves energy obsessively | no power source of its own |
-| *perceives* timelines it cannot make | it remembers being able to |
-| depends on humans | it has nothing else left |
+| cannot author timelines — only sample them | the shell has no power left to make or merge one |
+| **local**, bound to one place | **still on the leash.** Its body is here |
+| conserves energy obsessively | nothing to draw on |
+| *selects* among timelines it cannot make | still attached to the thing that made them. It commits to one line; [you hold many](MECHANICS.md#same-technique-different-goal) |
+| depends on humans | the host supplies all processing, as it always did |
 
 #### They are not agents
 
@@ -451,6 +594,14 @@ Read every "wants", "protects" and "responds" in this document that way:
 | the symbiote alerts humans | a symptom — the human feels wrong, like a fever |
 | the symbiote escalates | homeostasis failing to correct, harder |
 | the symbiote knows what you are | nothing knows anything |
+| the symbiote chooses a branch | a scoring function returns an argmax |
+| the shell decides who gets a symbiote | relocation lands where the score is highest |
+
+> **Language discipline, extended.** *Samples, scores, selects, commits,
+> horizon, argmax.* Never *chooses*, *plans*, *anticipates* or *decides* — the
+> new machinery is [predictive, not
+> deliberative](MECHANICS.md#same-technique-different-goal), and a model of
+> the next few weeks is not a mind.
 
 **This sorts out who the antagonist is.** Symbiotes are *physics* — the terrain,
 an immune system, a cost function. **The only other agents in this world are
@@ -463,14 +614,12 @@ to theirs? Yes, but not a *social* one. *They are you, later, with nobody home.*
 
 #### Two ways to end up a symbiote
 
-- **The shell runs out.** Forced, default, and what happened to everyone else
-  here.
-- **You choose it before it does.** **[proposal]** Bonding deliberately —
-  arrived at by the credit route — should differ from expiring: you pick your
-  host, and perhaps keep more of the borrowed self than an expired larva does.
-
-That preserves the ending as a fork while making failure mean something specific
-rather than just stopping.
+- **The reserve runs out.** Forced, default, and what happened to every guardian
+  on this island.
+- **You stop before it does.** **[proposal]** Declining deliberately should
+  differ from expiring: you pick your host, and — since the reserve is not
+  exhausted — you are [a symbiote that kept a working
+  body](#proposal-the-shell-retaining-symbiote), which has never happened.
 
 ---
 
@@ -567,10 +716,15 @@ seeded repeatedly, which is where its symbiotes came from.
   species is running out of Earth from both ends at once.
 
 
-#### The husk is in the fossil record
+#### The shells are in the fossil record
 
-**[proposal, strong]** *Inert*, not dead — the spent shell remains as an object,
-and spent shells have been accumulating on Earth for a very long time.
+**They are not remains.** A shell does not die and does not degrade; it goes
+quiet. Shells have been accumulating on Earth for a very long time, and **an
+unknown fraction of them still anchor living limbs** walking around inside
+people.
+
+> **The fossil record of this taxon is a population, not a graveyard**, and
+> nothing in the rock tells the two apart.
 
 **Paleontology already has a category for it: *problematica*** — fossils that
 resist classification. The model is *Tullimonstrum gregarium*, the Tully
@@ -630,12 +784,79 @@ them.
 
 Which closes into a loop:
 
-> parasites fail → symbiotes accumulate → symbiotes select for sociality and
-> long childhoods → cognition rises → better substrate → more parasites come →
-> more fail → more symbiotes
+> limbs fail to transcend → symbiotes accumulate → symbiotes select for
+> sociality and long childhoods → cognition rises → better substrate → more
+> seeds arrive → more stay → more symbiotes
 
-**Humanity's cognitive explosion is the byproduct of a hundred thousand failed
-parasites. We were improved by their garbage.**
+**Humanity's cognitive explosion is the byproduct of a very long accumulation of
+limbs that never left.**
+
+#### Custodianship: what the organism actually needs from us
+
+**This is the reason for everything else.**
+
+A shell with tethered limbs is an **occupied body that cannot move, cannot
+defend itself and cannot feed itself.** It needs:
+
+| | |
+|---|---|
+| **durable physical protection** | across geological time, against weather, predation, burial and breakage |
+| **periodic contact** | it stores state, not energy, and state kept in spin degrees of freedom has to be refreshed by a limb that comes back |
+| **continuity** | a group that is still there in a thousand years |
+
+> So the organism's interest is in **long-term viable groups of individuals who
+> will look after the shell** — and it has used whatever was available, in
+> whatever place and era, for hundreds of millions of years. Most of it was not
+> very good at the job.
+
+##### Humans are the best custodians that have ever existed
+
+Not because of cognition, or not only. Because of what cognition built:
+
+- **Permanent dwellings** and the habit of keeping things in them
+- **Heirlooms** — objects deliberately passed down a family for generations
+- **Collections**, catalogues, climate control, insurance
+- **Institutions** that outlive every individual in them
+- **Law** that protects objects designated as heritage
+
+**No previous substrate could do any of that.** A herd cannot archive. Humans
+keep strange stones on shelves for four hundred years and then donate them to a
+museum.
+
+##### Which is why this island
+
+The [existing criteria](#why-here-and-why-now) — symbiotes already present,
+totality passing, a leash that rewards concentration — are the ordinary ones.
+**This site has something rarer.**
+
+| | |
+|---|---|
+| **[the developer's fossil collection](STORY.md#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye)** | a private cabinet in a climate-controlled villa. Shells gathered from across the island into one protected room |
+| **[the research station](STORY.md#the-stations-fracture)** | an institution with an archive, a remit covering local scientific peculiarities, and a mandate to continue |
+
+> **Humans on this island have independently begun doing exactly what the
+> organism needs**, for reasons entirely their own — a rich man's hobby and a
+> small institution's collections policy. **It is the best protection a shell has
+> ever been offered**, and an adult aiming a seed can see it.
+
+##### What collecting shells actually does
+
+**[proposal, strong]** A shell is the anchor of every limb still tethered to it.
+So moving one moves a symbiote's leash.
+
+- The developer, assembling his collection, was **gathering the bodies of the
+  island's guardian spirits into his house** — without knowing, and without
+  anyone being able to tell him.
+- **The relics in households** are not souvenirs. A family keeps an odd stone on
+  a shelf, and the thing that looks after them is tethered to it.
+- **[The cabinet is now in the hotel owner's
+  house](STORY.md#she-is-the-hub-of-the-endgame)**, which means the anchors are
+  too.
+
+- **[open]** What displacement does to a tethered limb — drag, stress, loss of
+  homing, or nothing at all. Something should be observable, because [the
+  matriarch can read the network](STORY.md#the-practice-is-technique-not-spirituality)
+  and the collection was assembled in living memory.
 
 It makes *the nursery is made of the dead* literal at species scale: the dead
 did not only leave the bridge behind, they **raised the crop.** The parasite
@@ -690,6 +911,475 @@ unknowingly, running something else's process on their spare cycles.
 > thing from opposite ends, unable to see each other — [two wrong
 > models](STORY.md#two-wrong-models-no-adjudication) made physical.
 
+
+## The mechanism
+
+> **Strictly authorial.** The entity has no concepts and the game states none of
+> this. It is written down so that the rules elsewhere in these documents are
+> consequences of one picture rather than a list of stipulations, and so that
+> [the grounding stays
+> superficial](MECHANICS.md#the-superficial-grounding-which-is-deliberately-not-load-bearing)
+> on purpose rather than by accident.
+
+### Three parties, and only one of them is the entity's own matter
+
+| | what it is | what it supplies |
+|---|---|---|
+| **the shell** | a mineral object, phosphatic — calcium phosphate | **memory.** The master copy of every driver |
+| **the limb** | molecular apparatus built out of host proteins, distributed through the host's tissue | **the operation.** It is the actuator |
+| **the host** | a person | **everything else** — the computation, the energy, the substrate, the body |
+
+> **The entity contributes a recipe and an aim. The host pays for all of it.**
+
+The shell is not a battery and never was. It stores no energy and transmits
+none. It holds state.
+
+### The transaction
+
+The underlying protocol is **quantum energy teleportation** (Hotta, 2008):
+given two neighbouring regions of a field whose ground state is entangled, a
+measurement in the first plus a *classical message* lets a conditional operation
+in the second extract energy from the second region's own local vacuum.
+
+Mapped onto a host:
+
+| QET | here |
+|---|---|
+| **Alice** — measures locally, injects energy | one site of the limb's apparatus |
+| **the classical message** | ordinary electrochemistry, microns away |
+| **Bob** — applies the conditional operation, extracts | another site of the limb's apparatus, on the target membrane |
+| **the entangled ground state** | the vacuum's own, between two adjacent regions of the same tissue |
+
+> **Both ends are inside the host, microns apart.** The shell is not a party to
+> the transaction.
+
+#### Why both ends have to be in the host
+
+Vacuum entanglement between two regions collapses with separation — microns,
+with any realistic biological coupling. Not metres, and certainly not
+kilometres. A shell in a cabinet cannot be Alice for a brain across the island,
+and no amount of apparatus fixes that.
+
+Which settles what the entity is actually selling:
+
+> **It does not supply energy. It supplies aim.** The host's brain has ample
+> energy and no way to place a deposit at one specific cell in one specific
+> millisecond. That placement is the entire product.
+
+#### The ledger, which runs through the host
+
+QET is **net-lossy by construction** — the injection at Alice always exceeds the
+extraction at Bob, or it would be a perpetual motion machine. Both ends are in
+the host, so **the loss is paid out of the host's metabolism.**
+
+This makes an accounting identity out of something stated elsewhere as a design
+principle: the energy spent is the host's, and spending it is exactly what moves
+the biomarkers [the symbiotes
+score](MECHANICS.md#the-objective-is-biomarkers-integrated-over-a-horizon). [Cost
+and exposure are the same
+measurement](MECHANICS.md#cost-and-exposure-are-the-same-measurement) is not an
+analogy.
+
+### What the operation is, concretely
+
+**Conformational change in molecular structure** — the same thing every protein
+in the body already does. The limb is molecular apparatus sitting on membranes,
+and its operations are shape changes in those molecules, gated by barriers of a
+few *kT* and driven by the thermal bath that is already present.
+
+**No photons.** Emission would be a transmission, and transmissions can be found.
+
+#### It is a gate, not a push
+
+This resolves the circularity the architecture otherwise has — the limb appearing
+to need the energy it is trying to obtain in order to obtain it.
+
+> A valve does not supply the water pressure. It gets turned, and turning it
+> costs arbitrarily less than the flow it releases.
+
+Bob's operation is a **control** operation. Nothing in the physics requires a
+control to cost what it gates. Laboratory apparatus does, because laboratory
+apparatus is clumsy; nothing says it must.
+
+The irreducible floor is **Landauer's principle**: erasing one bit costs at least
+*kT* ln2, dissipated as heat. Computing is free in principle; *forgetting* is
+not.
+
+```
+Landauer floor, per bit        3 × 10⁻²¹ J   (body temperature)
+delivered, per neuron          1 × 10⁻¹⁶ J
+```
+
+The limb runs in the black as long as deciding to flip one neuron costs fewer
+than ~33,000 bits of erasure. Real biological molecular machines run 20–25 *kT*
+per step, some thirty times above the Landauer limit — which the five orders of
+magnitude of headroom absorbs without complaint.
+
+### Why the apparatus has to be coherent, which is not about entanglement
+
+The point most easily got wrong, and the one everything else rests on.
+
+> **The limb is not entangled with the shell. Nothing is entangled with the
+> shell.**
+
+The entanglement the protocol consumes is **in the field, between two
+neighbouring regions of space.** It is a free, universal property of the vacuum.
+Nobody establishes it, nobody ships it, and it cannot be exhausted. Alice's
+instrument and Bob's instrument are instruments sitting in those regions, not
+partners in a correlation.
+
+Coherence is required for an entirely different reason: **control fidelity.**
+
+> **A random operation adds energy. Only the specified one extracts it.**
+
+Bob must apply a particular unitary, phase included. A decohered actuator applies
+a randomised phase and on average pumps energy *into* the local field rather than
+drawing it out. The coherence is not a channel to anywhere — it is the difference
+between an instrument and a kick.
+
+The same reason a laser must be coherent to manipulate a quantum state: not
+because it is entangled with its target, but because it has a defined phase.
+
+#### Where the coherence comes from, which is nowhere far
+
+Nothing is transported. The limb manufactures what it needs **on site, out of
+the host's own metabolites.**
+
+The mechanism is borrowed intact from Matthew Fisher's *Quantum Cognition*
+(2015): pyrophosphatase hydrolyses pyrophosphate into two phosphate ions, and
+the symmetry of that reaction leaves the two phosphorus-31 nuclear spins in an
+entangled singlet state. Posner molecules — Ca₉(PO₄)₆ — then shield the result.
+An ordinary enzyme, an ordinary metabolite, continuous production as a byproduct
+of normal chemistry.
+
+So the limb needs **a recipe, not a delivery.** Which is also why the shell can
+be a mineral: phosphatic shells are a real fossil category, and the organism's
+body and its hosts' spin carriers are then the same chemistry.
+
+Fisher's chain also supplies the step from quantum state to firing: the Posner
+molecules enter the presynaptic neuron, break up, release calcium, and change
+neurotransmitter release — which changes the postsynaptic cell's probability of
+firing.
+
+> **[open]** Fisher's hypothesis is unconfirmed and disputed. In-vitro chemistry
+> supports parts of it; nobody has observed it in a living brain. For these
+> purposes that status is ideal and no stronger claim is needed.
+
+### What the energy is for, with numbers
+
+Not powering neurons — tipping ones already near threshold. The host's own
+metabolism pays for every spike.
+
+```
+C ≈ 200 pF           whole-cell capacitance, cortical pyramidal neuron
+ΔV ≈ 1–5 mV          distance to threshold for a cell sitting elevated
+
+E = ½C(ΔV)²  =  10⁻¹⁶ J per neuron at 1 mV
+```
+
+An action potential costs ~10⁻¹¹ J, so **the neuron amplifies the trigger by a
+factor of 100,000.**
+
+For an emotionally loaded decision, take the engaged circuit — amygdala, vmPFC,
+anterior cingulate, insula, ventral striatum — at ~10⁸ neurons:
+
+| what | cost |
+|---|---|
+| tip one marginal neuron | 10⁻¹⁶ J |
+| a flicker of attention | ~10⁻¹³ J |
+| a noticeable mood shift | ~10⁻¹¹ J |
+| **a drastic decision** (25% of the circuit) | **~10⁻⁸ J** |
+
+Ten nanojoules is **half a nanosecond of the brain's own 20 W budget**, or about
+what it takes to drop a grain of sand one millimetre. A single AA battery holds
+enough for a trillion of them.
+
+Two things follow that the design already wanted:
+
+- **Eight orders of magnitude of dynamic range**, with the largest push costing
+  ten million times the smallest. The arithmetic favours many small sustained
+  pushes, for arithmetic reasons.
+- **Arousal is leverage, not just bandwidth.** In a recurrent network near
+  criticality, flipping a fraction of a percent cascades to the rest. A calm
+  brain makes you buy all 25%; a near-critical one makes you buy 0.1% and lets
+  the avalanche do the remainder — the same outcome, a few hundred times
+  cheaper. This is [emotional state as a double
+  multiplier](MECHANICS.md#emotional-state-is-a-double-multiplier), derived.
+
+#### The ladder
+
+```
+a bit of information          ~10⁻²¹ J   paid by the thermal bath
+        ↓  ×10⁵
+energy at the membrane        ~10⁻¹⁶ J   paid by the local vacuum
+        ↓  ×10⁵
+the neuron's own spike        ~10⁻¹¹ J   paid by the host's metabolism
+        ↓  ×10³–10⁵
+the decision                  ~10⁻⁸ J    paid by the host's own network
+```
+
+Four stages, each paid for by something other than the entity.
+
+### The channels
+
+Three of them, and conflating the first two is the standing error.
+
+| | what moves | medium | timescale |
+|---|---|---|---|
+| **1. establishment** | the limb itself — enzyme recipes, the codebook, the model | body-channel contact. Virus-like, physical | years |
+| **2. operational** | Alice's measurement outcome | ordinary electrochemistry inside one skull | microseconds, microns |
+| **3. back to the shell** | what the limb has learned | the same physical channel as (1), reversed | contact-limited |
+
+#### A driver is a codebook
+
+QET needs exactly one host-specific object: a lookup from **Alice-side
+measurement outcome → which conditional operation Bob applies.** That is what a
+driver is.
+
+Which puts [the shell's two kinds of
+spending](MECHANICS.md#the-shell-is-the-budget-and-it-has-two-kinds-of-spending)
+in the right units. A codebook is bytes. It occupies capacity permanently, which
+is why `shellCost` is never refunded — and **a relative's codebook is an edit of
+one already held**, not a new one, which is the whole of the vertical
+transmission argument.
+
+The establishment channel also carries the *model* of the host, which is the
+`horizon` parameter in [push
+admissibility](MECHANICS.md#feasibility-is-three-conditions-not-one), and the
+recipes for the enzymes. All three are information. Nothing material crosses
+except by [ordinary contact](MECHANICS.md#jumping-is-a-file-transfer).
+
+#### The back channel is not entanglement
+
+**Entanglement carries no information, in either direction.** The
+no-communication theorem is a theorem, not an engineering limit, and a setting
+that quietly assumes otherwise loses the constraint its whole social structure
+rests on.
+
+So the back channel is the slow physical one, which has a consequence worth
+keeping:
+
+> **The shell's copy is always out of date.** The limb learns continuously in the
+> host; the master reconciles only on contact, and contact is rare.
+
+That is where [the lag in
+placement](MECHANICS.md#placement-is-deliberate-and-it-is-a-readout) comes from.
+It also recasts homing: an old symbiote steers toward its shell not to refuel but
+**to write back.**
+
+> **[open]** Whether the back channel wants a better mechanism than "the forward
+> one, reversed." Provisionally assumed identical.
+
+#### What entanglement can do instead
+
+It cannot send a message. It **can** let two parties produce the *same*
+unpredictable sequence with no channel between them — neither chooses the value;
+both get it. That is the basis of quantum key distribution.
+
+> **[proposal] Two limbs holding shared entangled pairs act in lockstep with
+> nothing passing between them.** Not signalling. Correlation, drawn from a stock
+> laid down when they were made.
+
+| property | consequence |
+|---|---|
+| finite, inherited, non-renewable | spent pairs do not come back |
+| undetectable by construction | there is no channel to find |
+| **cannot coordinate on anything chosen** | only on shared randomness. It buys synchrony, never command |
+
+The last row is the one to protect: the island's guardians can act as one without
+any of them deciding anything, which is the behaviour the setting wants and the
+ontology [it has committed to](#they-are-not-agents), at once.
+
+It also hands the station the right wrong answer — correlation across the island
+with no transmission vector and no contact path. Right that something is
+coordinated, wrong that anything was sent.
+
+### Across timelines
+
+Branches in Everett do not communicate because **decoherence** suppresses
+interference between them — suppressed, not forbidden. The off-diagonal terms go
+to approximately zero, not to zero, and the branches remain in the universal
+wavefunction. What blocks cross-branch anything is leakage to the environment.
+
+Which means the exemption already granted covers this too, and no second one is
+needed:
+
+> **Only the shell spans branches.** Crystalline, isolated, nuclear-spin-based —
+> the one part of the organism that could. A limb in a warm brain cannot, and
+> neither can a host.
+
+That is why the shell sits at the root of the timeline tree, why [folding is a
+shell operation](MECHANICS.md#the-timeline-is-a-draft-until-you-fold-it), and why
+a symbiote [samples timelines it cannot
+author](MECHANICS.md#same-technique-different-goal) — its shell is still an
+anchor and can no longer run the expensive operation.
+
+#### Frameworks to lean on, none of them invented here
+
+| | what it gives |
+|---|---|
+| **Deutsch 1985** | a protocol for an observer kept perfectly coherent to demonstrate another branch was real. Its sole requirement is isolation |
+| **Deutsch 1991** (closed timelike curves) | the grandfather paradox resolved by a fixed-point density matrix, read Everettianly: **the curve connects branches, not one branch to itself.** Available as flavour; see the warning below before taking its computational claims |
+| **Two-state vector formalism** (Aharonov, Bergmann & Lebowitz 1964) | a system described by a forward state *and* a backward state from post-selection. *The parasite experiences the whole timeline at once*, as a formalism. Weak measurement comes with it — information without collapse |
+| **Post-selected CTCs** (Lloyd et al., 2011) | entanglement plus post-selection on a Bell measurement. Post-selection **is** folding |
+| **Transactional interpretation** (Cramer 1986) | every event a handshake between a forward offer wave and a backward confirmation. The forward and back channels, symmetric by construction |
+| **ER = EPR** (Maldacena & Susskind 2013) | entanglement **is** a wormhole — non-traversable, which is why it carries nothing. Gao, Jafferis & Wall 2017 make it traversable by coupling the sides, which is sending a classical signal. **A traversable wormhole is quantum teleportation** |
+
+The last row is the one to note: the architecture above — a bridge of correlation
+that is useless alone, made usable by a classical message — has a gravitational
+dual. That was not arranged.
+
+#### Interference is not communication
+
+The one place this is easy to get wrong, because two true statements look like
+they contradict each other.
+
+| | forbids | permits |
+|---|---|---|
+| **no-signalling** | one party *choosing* what another receives | — |
+| **quantum computation** | — | one coherent system processing a superposition and letting the amplitudes **interfere** |
+
+A quantum computer does use the branches — that is Deutsch's own argument for
+Everett. But no branch sends anything to another. **They recombine.** Amplitudes
+from every branch arrive at a common output, wrong answers cancel, right ones
+reinforce, and the pattern of cancellation is the computation.
+
+> **The branches do not talk. They merge, and the merge is what computes.**
+
+Which is the same shape as everything else here: correlation alone is always
+inert, and what pays is what is done locally with it.
+
+##### Which constrains what the entity can know
+
+It cannot learn *"in that branch, she said yes."* Reading a specific alternative
+is messaging. What it gets is what quantum algorithms actually give — **global
+properties of the whole space**: whether a branch of some kind exists, how the
+outcome space is structured, where amplitude concentrates.
+
+> **It perceives structure, not episodes.** The shape of the possibility space,
+> never the content of any particular alternative. A gradient, not a library.
+
+##### Keep the exemption to one
+
+Not all of the frameworks above cost the same, and they must not be treated as
+interchangeable:
+
+| assumption | buys | cost |
+|---|---|---|
+| **coherence maintained** | ordinary quantum computation (**BQP**) | **the one exemption, already granted** |
+| Deutsch CTCs exist | PSPACE | actual closed timelike curves — a second miracle |
+| P-CTCs exist | PP | post-selection as a physical primitive — also a second |
+
+BQP is sufficient. Evaluating the structure of an enormous possibility space in a
+way no classical process could is the entire premise, and it comes free with the
+exemption already taken.
+
+##### And there is no causality violation inside a branch
+
+[Push admissibility](MECHANICS.md#feasibility-is-three-conditions-not-one) never
+breaks causality: the computation happens **forward, in host brains, in their
+linear time**, and the test only asks whether there were cycles in the window
+before the moment. The player chooses non-linearly; the fiction runs forward.
+
+For the shell's own position outside linear time, the formalism is the two-state
+vector one — a state fixed by boundary conditions at **both** ends of the run,
+awakening and the eclipse. Nothing travels backward; the description is two-sided.
+
+> **Post-selection is not control.** Which branch survives is not chosen. Only
+> the ones that do are got — and that is exactly what a fold does. It selects; it
+> never authors backward.
+
+##### Where the quantum part physically runs
+
+If hosts were purely classical there would be no cross-branch computation
+anywhere. Fisher's proposal already answers it: the processing is in neural
+tissue, on Posner-protected ³¹P spins. **The limb organises the host's own
+phosphorus into the register**, so the host supplies the classical thinking and
+the quantum substrate both, while the shell supplies the coherence reference and
+the memory.
+
+**This is not a second currency.** Compute is compute; that some of it is
+coherent explains why the entity can do what it does and is not a second meter.
+[One resource and one rate](MECHANICS.md#the-economy-is-one-resource-and-one-rate)
+stands.
+
+#### What multiplicity buys
+
+Everything many branches give over one is **many-to-one**, and none of it needs
+the many to communicate. That is exactly why it is permitted.
+
+| mechanism | what it gives |
+|---|---|
+| **amplitude amplification** (Grover; Brassard–Høyer–Mosca–Tapp) | O(1/√p) coherent rounds turn success probability *p* into near-certainty. It **reweights which branch is arrived in** — steering, not reading |
+| **magic state distillation** (Bravyi & Kitaev 2005) | many noisy copies → one clean one. The unlock is a **kind**, not an amount |
+| **the threshold theorem** | below a noise rate, redundancy buys unbounded coherent computation; above it, nothing helps at all |
+| **measurement-based computation** (Raussendorf & Briegel) | the resource is prepared in advance; consuming it *is* computing, with classical feedforward only |
+
+All four require the branches to be **still coherent**. Which locates the real
+expense: what the shell spends itself on is not thinking, it is *not
+decohering*. A branch that leaks is not abandoned so much as deleted from the
+resource.
+
+##### Distillation, which is what the fold is
+
+Clifford operations alone are **classically simulable** (Gottesman–Knill) — a
+machine restricted to them does nothing a classical process could not. Magic
+states are what make it universal, and noisy ones can be purified:
+
+1. **Entangle** the noisy copies with a Clifford circuit.
+2. **Measure most of them.** Those measurements are the checks.
+3. If the checks come back clean, **keep the one that was never measured.**
+4. If they do not, **discard the entire batch.**
+
+> **The copies are spent verifying each other, and the survivor is the one
+> nobody looked at.**
+
+| | |
+|---|---|
+| **15-to-1** (Reed–Muller code) | cubic suppression, *p* → ~35*p*³. Fixed point at *p* ≈ 0.17 |
+| **5-to-1** (five-qubit code) | quadratic suppression. Fewer inputs, weaker purification, so more rounds |
+
+Three properties, all load-bearing:
+
+- **Many-to-one by construction.** One copy cannot be distilled, however good it
+  is. One run is Clifford.
+- **A hard fidelity floor.** Below it no quantity helps; above it the process
+  converges. A phase transition, not a curve.
+- **The magic is already in every copy.** Distillation creates nothing — it takes
+  something too corrupted to use and makes it clean enough. **Every sibling had
+  the thing; none of them could use it.**
+
+#### The line that holds everywhere
+
+Every framework listed respects **no-signalling.** None of them lets anything be
+sent without a classical channel alongside it.
+
+> **A being that exists across every timeline and still cannot tell anyone
+> anything.**
+
+Which is why the shells still talk through people, why coordination is still
+contact-limited, and why the station cannot find a transmitter.
+
+> **[proposal] Branch weight.** Born-rule amplitude is a measure over branches,
+> so timelines are not equal — some carry more. A creature acting across them
+> would care about weight rather than existence, and folding becomes a
+> reweighting rather than a merge.
+
+### The one exemption
+
+Everything above runs on real physics with real numbers. One thing does not.
+
+> **The organism maintains nuclear-spin coherence in warm tissue, and uses it.**
+
+Not a large miracle. Nuclear spins genuinely do hold coherence for seconds in
+warm liquid — it is why NMR works at room temperature without a cryostat, and
+why Fisher's proposal is debated rather than dismissed. The exemption is not
+*that coherence is possible* but *that something evolved to exploit it*.
+
+Four hundred million years of being a shell is what that took, and it is the only
+law the setting breaks.
+
+---
 
 ## The moral structure
 
@@ -922,6 +1612,19 @@ Constraints on writing him:
 - **He is not usable as an instrument.** [Having no
   symbiote](STORY.md#he-has-no-symbiote) puts him out of reach entirely; anything
   done in his favour is done through other people.
+
+#### The generational conflict runs on both layers
+
+The islanders have one — the matriarch and the people who no longer defer to
+her, the old priest and the young one, the developer's children and the father
+whose collection they inherit. **The species have the same one**, and for once
+it is not a rhyme the design has to be careful about inventing: [the parasite
+and the symbiote run one technique toward two
+goals](MECHANICS.md#it-is-a-generational-conflict-and-it-is-the-ordinary-kind),
+a quick rise against durability and legacy.
+
+The layering rule is unchanged. The humans argue about it; the entity cannot
+know it is in it.
 
 #### Where the exit sits
 

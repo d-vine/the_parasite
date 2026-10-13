@@ -715,7 +715,7 @@ anyone else did.
 them, because nothing in the observable behaviour connects them either. The
 community holds the fact in two pieces and has no reason to put them
 together. [The scientists have the same problem with the
-fossils](ECOSYSTEM.md#the-husk-is-in-the-fossil-record).
+fossils](ECOSYSTEM.md#the-shells-are-in-the-fossil-record).
 
 ### The ceremony is an invitation
 
@@ -762,7 +762,7 @@ going to buck.
 
 #### [proposal, strong] The dismissal has never once worked
 
-Every symbiote on this island is a parasite whose shell ran dry. If the rite
+Every symbiote on this island is a limb that did not transcend. If the rite
 drives a visitor out, where did they all come from?
 
 > **The ones the ceremony "sent on their way" are the guardian spirits.** They
@@ -1260,13 +1260,23 @@ Three consequences:
 
 ##### He collected fossils, hunted, and kept an amateur naturalist's eye
 
-**The husks are already an unclassifiable taxon in the scientific record. A
+**The shells are already an unclassifiable taxon in the scientific record. A
 fossil collector working this island would have them.**
 
 > **There is a cabinet in that villa, and the hotel owner owns it.** The
 > problematic fossil the station's biologist could identify, and the devil the
-> cult has placated for generations, are **the same objects** — in a private
+> core has placated for generations, are **the same objects** — in a private
 > house belonging to a woman who does not know what either of them is.
+
+And they are not inert specimens. [A shell is the body of the
+organism](ECOSYSTEM.md#the-shell-is-the-organism-everything-else-is-a-limb) and
+the anchor of every limb still tethered to it, so **an unknown number of the
+island's guardian spirits are tethered to objects in her house** — gathered
+there, from across the island, by her father.
+
+> **He assembled the collection within living memory**, which means somebody's
+> household guardian was moved out of their home and into his, and nobody could
+> have told them.
 
 The two exposition channels meet in one dead man's collection.
 
@@ -1348,6 +1358,12 @@ someone in that house died during those summers.
 > important lineage lost one permanently, at a timescale where it cannot be
 > replaced. One more thing her family took and never knew about — including her.
 
+**[proposal]** And its **shell may be in her father's cabinet**, taken from the
+same household in the same years. A guardian and its body both removed from one
+family and installed in another, by two unrelated acquisitions nobody connected.
+See [what collecting shells actually
+does](ECOSYSTEM.md#what-collecting-shells-actually-does).
+
 ##### The family may have an account of it
 
 **[proposal]** The [old priest](#the-old-priest) has partial awareness of his
@@ -1398,6 +1414,7 @@ inherited the wreckage:
 | **the indigenous family** | tenuous ties, genuine love, genuine loss |
 | **the cult** | her father's membership, however loosely it transfers |
 | **the symbiote network** | hers came from the matriarch's household and is fully resolved |
+| **the shells themselves** | [the anchors are in her cabinet](#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye) — possibly including her own symbiote's |
 | **[her brother](#the-brothers)** | he manufactured the failure, supplied the guests, and is using her venue |
 
 A lot of load for one character, but coherent rather than contrived: she is the
@@ -2175,7 +2192,7 @@ doctrine, and neither will ever say it.
 
 ##### [proposal] His symbiote dates from it
 
-New symbiotes come from failed parasites. His is new. **If the event is recent,
+New symbiotes are limbs that failed to transcend. His is new. **If the event is recent,
 a parasite failed somewhere near him at about that time.**
 
 An inference the player can assemble and nobody confirms. It makes his theory
@@ -2381,7 +2398,7 @@ delivery, and keeps every individual account wrong.
 - **The entity never understands it either.** It has no concepts. The player
   understands; the thing they are playing does not — which is [the same
   asymmetry the ending runs
-  on](ECOSYSTEM.md#keep-the-word-crime-out-of-the-entity).
+  on](ECOSYSTEM.md#do-not-state-the-critique).
 
 #### And the player can hand it over
 
@@ -2432,7 +2449,7 @@ of the truth, and **none of them can reach all of it.**
 
 Eclipse paths correlated against the localities of an unclassifiable fossil
 taxon (see [The husk is in the fossil
-record](ECOSYSTEM.md#the-husk-is-in-the-fossil-record)). Deep history, not the present.
+record](ECOSYSTEM.md#the-shells-are-in-the-fossil-record)). Deep history, not the present.
 
 #### The counter-play: prevent a conversation
 
@@ -2489,6 +2506,40 @@ it is the island's best transcendence event, and it was built to host one.
 
 
 ## Reference points
+
+### Blindsight, Peter Watts (2006)
+
+**The closest ancestor of the premise, on two counts at once.**
+
+| | Watts | here |
+|---|---|---|
+| **intelligence without consciousness** | the scramblers — hugely capable, modelling and acting with no inner experience; consciousness treated as a separable and possibly maladaptive accident | the parasite has [no interior at all](ECOSYSTEM.md#the-player-supplies-the-interior), faculties rather than concepts, and borrows every thought it has |
+| **a folk myth given an evolutionary account** | vampires as a real extinct human predator, the aversion to crosses explained as a seizure response to right angles | **possession, guardian spirits and tricksters** as [garbled observation of a real species](#their-myths-are-the-most-accurate-account-on-the-island) |
+
+The design's note that human consciousness may itself be *a model the brain runs
+rather than a substance it has* sits on the same ground Watts builds on.
+
+#### Where this has to differ
+
+- **Watts puts the non-conscious intelligence outside and looks at it. This puts
+  the player inside one** — and then [refuses to furnish
+  it](ECOSYSTEM.md#the-player-supplies-the-interior). Blindsight narrates a human
+  with impaired empathy and observes the scramblers; here the viewpoint slot is
+  empty and the player fills it.
+- **Watts is arguing a thesis** — that consciousness is a costly evolutionary
+  accident. **This design argues nothing.** The entity simply lacks one, and
+  [the game never takes a position on
+  it](ECOSYSTEM.md#what-kind-of-being-this-is). Keeping it a property rather
+  than a claim is the difference between a reference and a derivative.
+- **Interiority is not a property of the entity at all.** Watts's scramblers lack
+  it as a biological fact he argues for; here the entity simply has none and the
+  text never supplies one. What the player reads is always **a host's** inner
+  life.
+- **The myth treatment differs in direction.** Watts explains a myth away. Here
+  the folklore is **accurate and badly transmitted** — the interest is in what
+  survives a thousand years of retelling, not in debunking.
+
+---
 
 - **Zero Escape: Virtue's Last Reward** — a navigable DAG of timelines as the
   primary UI. The closest existing precedent for the timeline mechanic.

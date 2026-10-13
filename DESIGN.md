@@ -11,7 +11,7 @@ Three altitudes:
 
 | | |
 |---|---|
-| **inside a timeline** | resource management crossed with a visual novel with backtracking |
+| **inside a timeline** | a narrative game of choosing outcomes against a narrowing option space |
 | **across timelines** | a structural puzzle — arranging folded lines so new ones start with more reach |
 | **across the whole game** | free will, what it is to be human, what individuality costs — descending from folk mystery through horror into exploitation |
 
@@ -50,13 +50,21 @@ eclipse, read **core**; where it means power, membership or exclusion, read
 | 6 | How close is anyone to the fossil-locality/eclipse-path correlation? | Sets the third act's clock. [The one person positioned to find it](STORY.md#the-one-who-could-work-it-out) is the one the station discounts |
 | 7 | Is a direct link per-timeline or cross-timeline, and which holds you at expiry? | The survival condition, and its scope is undefined |
 | 8 | How is the epidemiological signature computed from play? | The main detection channel; must respond to style, not just volume |
-| 9 | Does transcendence collapse sibling timelines, or only your own branches? | The scale of what winning destroys |
+| 9 | Does transcendence collapse sibling timelines, or only your own branches? | Largely answered: siblings are consumed as checks along the way, not collapsed at the end. [Note](MECHANICS.md#what-a-fold-actually-consumes) |
 | 10 | Does the observance's closing dismissal have real mechanical force? | Whether the rite can end a parasite's tenure |
 | 11 | How is a sibling chosen at the fold, and do siblings differ? | Whether folding carries a strategic decision |
-| 12 | How many seeds? | The run count, difficulty curve and fail timer in one number |
+| 12 | How many seeds? | Now fixed by **b^r** — 9 runs at b=3, 25 at b=5, both at two rounds. What remains is choosing *b*. [Arithmetic](MECHANICS.md#a-run-is-a-batch) |
 | 13 | Is an inherited prefix played or skipped? | Where the mastery curve is experienced |
 | 14 | What is the time unit for the computation window? | A coarse scale for positioning and a fine one for moments |
 | 15 | Does the title survive contact with *Parasite* (2019) and *Parasyte*? | A shipping title may need to clear the field |
+| 16 | How far is the look-ahead horizon for a symbiote, and for a shell? | Sets how much of the world the regulator can price, and the width of the window you can act inside. [Model](MECHANICS.md#the-horizon-is-the-parameter-that-matters) |
+| 17 | Does branch scoring reconcile with the signed deviation integral? | Candidate: **deviation = how much you lowered the best score still available**. [Note](MECHANICS.md#the-opposition-is-the-same-verb-opposed) |
+| 18 | Does the back channel want a better mechanism than the forward one reversed? | Provisionally assumed identical. [Note](ECOSYSTEM.md#the-back-channel-is-not-entanglement) |
+| 19 | Is reproduction a merge, which the physics forbids, or two adults entangling? | The adult's defining act currently contradicts unitarity. [Note](MECHANICS.md#folding-is-reproduction-performed-by-something-that-cannot-yet-reproduce) |
+| 20 | Does a failed finale consume the resource? | Injection destroys a magic state, so paying and losing costs it while never reaching the price does not. Jeopardy against retry pressure. [Note](MECHANICS.md#the-resource-is-not-fungible-and-that-is-physics) |
+| 21 | What carries between parallel lines — shell state only, or a shared trunk? | Decides how rich the cross-line interlock is. [Note](MECHANICS.md#lines-constrain-each-other-they-do-not-merge) |
+| 22 | How is *p* made legible without a meter? | The option text may be the price tag. [Note](MECHANICS.md#what-the-interface-is-for) |
+| 23 | What replaces severing, now that branches cannot be detached? | *The two systems oppose each other* turns on detached nodes. [Note](MECHANICS.md#the-opposition-is-the-same-verb-opposed) |
 
 ---
 
@@ -67,27 +75,128 @@ belongs.
 
 ### The species
 
-- Parasite and symbiote are **the same species at the same stage**. A symbiote is
-  a larva whose shell ran out; the capability gap is one missing organ.
-- **Neither is conscious in the human sense.** Intent without interiority. The
-  self exists only in relation to hosts.
+- **The shell is the organism.** Not an organ it carries — its actual body, and
+  the only thing that persists on its own. What this world calls a parasite and
+  what it calls a symbiote are **one limb of that body**, described before and
+  after a single event.
+- **The only difference between them is transcendence.** A limb that transcends
+  detaches and becomes an adult; one that does not **stays tethered to the
+  shell** indefinitely. A symbiote is not cut loose — it is attached to a body
+  with nothing left in it, and **still on the leash**, which is why symbiotes are
+  local and never found far from where they were made.
+- **Folding multiplies the limbs**, so one shell can anchor many symbiotes — all
+  variants of the same limb.
+- **The physics is written down once, in [The
+  mechanism](ECOSYSTEM.md#the-mechanism), and is strictly authorial.** The shell
+  holds memory, not energy; the limb is molecular apparatus built from host
+  proteins; the host supplies the computation *and* the power. Energy is placed
+  by quantum energy teleportation with both ends inside the host, which makes
+  the product **aim, not power**. Nothing is entangled with the shell — the
+  apparatus needs coherence for control fidelity, not for a channel. Three
+  channels: establishment (virus-like, years), operational (microns, microseconds),
+  and the back channel, which is the first one reversed and therefore slow.
+  Entanglement never carries information; it can only supply shared randomness.
+  **One exemption: the organism maintains nuclear-spin coherence in warm tissue
+  and uses it** — and that same isolation is what lets the shell span branches.
+- **All three kinds of mind here are processes a body runs.** Working assumption,
+  never argued in-game: consciousness is something a body does. A parasite or
+  symbiote is information brought in from outside and executed on host tissue
+  the same way. **The difference is storage** — the parasite has the shell, an
+  organ of its own; the symbiote has nothing and exists only while a host runs
+  it.
+- **The entity has no interior because it runs no self-model.** It uses the
+  social brain, which models *other* people. An other-model with no self-model
+  attached.
+- **The entity has no visible interior at all, and the player supplies one.**
+  The text never gives it a feeling, a want or a reaction; the narration carries
+  **the host's** inner life, and the entity's nature shows only as what the
+  interface makes possible.
 - **Symbiotes are not agents** — closer to mitochondria than to antagonists. They
   regulate; they do not scheme, negotiate or remember. The only agents in the
   world are humans.
 - **Minimal interference**: symbiotes nudge rather than control, on an
   energy-conservation argument. Humans retain agency throughout.
+- **Parasite and symbiote run one technique toward two goals.** Both sample
+  timelines, score the branches and steer. The parasite scores for reaching the
+  eclipse; the symbiote and its shell score for the durability of the group.
+  (A symbiote additionally cannot author or merge a branch, the reserve for that
+  being spent — a difference in what it can afford, not in what it is doing.)
+- **Multiplicity buys a kind, not an amount.** A fold is [magic state
+  distillation](ECOSYSTEM.md#distillation-which-is-what-the-fold-is): a single
+  eclipse yields an *input*, not a transcendence. A batch (5 defensible, 15
+  faster) is entangled, all but one measured as checks, and the unmeasured
+  survivor kept — **the player chooses which timelines to burn, not which to
+  keep**, and learns only whether the checks passed. One input below the
+  fidelity floor poisons the batch; a dirty check discards all of it. One run
+  cannot transcend however good it was, because one copy cannot be distilled.
+- **The player chooses outcomes, not actions**, and each choice narrows the live
+  option space permanently. This **replaces within-run backtracking**. Price is
+  **1/√p** over the share of live branches containing the outcome; constraints
+  work by deleting alternatives, not by raising likelihood; and forcing past the
+  optimum **undoes itself** (Grover oscillates). Lines constrain each other and
+  never merge — availability is satisfiability.
+- **A run is a batch.** The *b* parallel lines are one option space and stand or
+  fall together, so one run yields one purified output. **b runs plus a finale**
+  — four at b=3, six at b=5 — with dirty runs costing a whole extra round.
+- **The resource buys the finale; it is not the finale.** Distillation returns a
+  logical state held across the batch, not one of its inputs, so **the player
+  does play the run that happens**. The resource is non-fungible by physics (it
+  buys a non-Clifford operation; ordinary pushes are Clifford) and what it
+  changes while held is **visibility, not capability** — transcendence is absent
+  from the option list until it can be afforded.
+- **The opposition is the same verb, opposed.** You narrow toward, the symbiote
+  narrows away. **You can open and close; it can only close.**
+- **Playing a run is preparation, not measurement** — which is why a played run
+  is still usable as an input. The fold is the measurement, and only of the
+  siblings burned. **The measured siblings become rigid canon; the unmeasured
+  survivor becomes purified resource**, and the survivor never acquires a
+  determinate history: it is consumed, so what becomes definite is the result,
+  not what happened in it. The survivor is never reopened.
+- **The relationship between the species is a generational conflict**, of the
+  ordinary relatable kind: the young want a quick rise to personal fulfilment
+  whatever it costs everyone else, the old want durability and legacy. **The
+  deadline is what makes the parasite young** — remove it and the same machine
+  produces a symbiote. A designer's frame, never voiced in the game.
+- **What it selects for is its host's biomarkers**, integrated over a look-ahead
+  horizon. Physiology, not emotion or welfare. Nothing in it has a concept of the
+  parasite.
+- **The horizon is bounded by compute**, so it is short and varies with the host.
+  Reach — not strength — is what makes an old symbiote hard to work around, since
+  a regulator that sees a push early still has branches to select between.
+- **A shell coordinates its own limbs** and sums their hosts, on a longer horizon
+  bought with their pooled compute. **Community regulation is the host objective
+  at a long horizon**, not a separate goal.
+- **Shells reach each other through people**, over the same contact graph
+  everything else runs on — so inter-shell coordination moves at the speed of
+  human social contact, in weeks and seasons.
+- **Placement is the shell's main lever.** The strongest limbs go to the most
+  central hosts, pulled only at relocation, so the distribution of symbiotes is a
+  lagging map of where the shells think the power is.
 - **One symbiote per person**, with older ones sometimes spanning several.
 - **Symbiotes relocate on host death** into a relative they have built a driver
-  for. The population is conserved — created only by failed parasites, lost to
-  failed transitions — so most humans have never had one. Humans without
+  for. The population is conserved — created only by limbs that did not
+  transcend, lost to failed transitions — so most humans have never had one. Humans without
   symbiotes read as gaps and cannot be reached at all.
-- **Every symbiote on this island is a previous eclipse's failed parasite**,
+- **Every symbiote on this island is a previous eclipse's limb that stayed**,
   which is where the folklore, the societies and the superstitions come from.
-- **Spent shells persist as objects** and are known to science as an
-  unclassifiable fossil taxon; recent ones survive as local relics.
+- **Shells persist as objects** and are known to science as an unclassifiable
+  fossil taxon. **The record is a population, not a graveyard** — an unknown
+  fraction still anchor living limbs, and nothing in the rock tells them apart.
+- **The organism needs custodians.** An occupied shell cannot move, defend or
+  feed itself, so it needs durable protection and continuity across geological
+  time. It has used whatever was available for hundreds of millions of years.
+  **Humans are the best custodians that have ever existed** — dwellings,
+  heirlooms, collections, climate control, institutions, heritage law.
 - **The seed was placed deliberately.** Adults see far enough into spacetime to
-  aim. The site qualifies because symbiotes already exist there, because the
-  leash rewards concentration, and because totality passes.
+  aim. The ordinary criteria: symbiotes already present, a leash that rewards
+  concentration, totality passing. **This site has something rarer** — [the
+  developer's fossil collection and the research
+  station](ECOSYSTEM.md#which-is-why-this-island), where humans have
+  independently begun gathering, cataloguing and protecting shells for reasons
+  entirely their own.
+- **Collecting shells moves symbiotes' anchors.** The developer was gathering the
+  bodies of the island's guardian spirits into his house, and the cabinet is now
+  in his daughter's.
 
 ### The economy
 
