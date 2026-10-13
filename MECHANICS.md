@@ -1253,6 +1253,87 @@ It also unifies the scales: **mid-game mind-linking and the endgame are the same
 mechanic at different magnitudes.** Two people in shared intensity is a link.
 Fifty is a chrysalis opening.
 
+##### The one place bandwidth matters
+
+[The shell never reads anything](ECOSYSTEM.md#the-parasite-has-no-back-channel) and needs
+no channel to operate. **The event is the exception**, and the two are not in
+tension because they are different operations:
+
+| | needs bandwidth? |
+|---|---|
+| **ordinary operation** | **no.** A specification is planted and the batches where it worked are kept |
+| **the eclipse** | **enormously.** Many brains must behave as *one* machine |
+
+> **The shell never needs bandwidth. The computation does — and the computation
+> is not the shell, it is the crowd.**
+
+Which turns the win condition from a stipulation into an engineering constraint,
+with each clause earning itself separately. A cluster is not a supercomputer
+unless the fabric between its nodes is fast enough; *N* brains loosely coupled are
+*N* small computers.
+
+| requirement | why |
+|---|---|
+| **close physical proximity** | body-channel conduction is short-range. The fabric *is* skin contact and near field |
+| **large numbers** | node count |
+| **heightened shared state** | two jobs at once — arousal [opens the valve](#compute-is-bandwidth-and-emotion-is-the-valve), and **synchrony is the clock.** Distributed computation needs one, and a crowd in a shared state is phase-locked |
+
+*(Konvalinka et al., PNAS 2011, measured heart-rate synchrony in a Spanish
+fire-walking ritual — between performers and **related** spectators, not
+unrelated ones. Collective ritual produces physiological synchrony, and the
+synchrony tracks social relatedness.)*
+
+And it explains why it must be a **crowd** rather than a population: totality
+lasts minutes, the computation must finish before it decoheres, so the whole
+thing needs maximum interconnect in one place at one moment.
+
+> **A community that stops touching cannot assemble the machine at all.** Not
+> merely that [modernity breaks symbiote
+> transmission](ECOSYSTEM.md#the-regulator-is-social-not-geographic) — an
+> atomised population has no fabric, so no event is possible there however many
+> people are present.
+
+##### The shell has to be there
+
+The final operation is applied *to* the shell, and operations are local. **So the
+shell must physically be where the crowd is.**
+
+It cannot take itself. It is an inert object with no hands, so **every route
+needs a carrier** — a person who brings it, for their own reasons, not knowing
+what it is.
+
+> **The parasite's win condition contains a logistics problem it cannot solve
+> directly.** It must arrange a human reason for a human to carry a fossil to a
+> gathering.
+
+Which gives each route a different carrier and a different pretext:
+
+| route | what the shell is, to the person carrying it |
+|---|---|
+| **the station's viewing party** | a **specimen.** It goes where specimens go |
+| **the observance** | a **relic.** The rite calls for one |
+| **the festival** | a curiosity, a charm, a thing in a pocket |
+
+**[proposal]** The carrier should be a named character each time, and a different
+one per arc — which makes the shell's journey to the event a story rather than a
+precondition, and means the person who brings the body does not know whose it is.
+
+Failure modes worth having: the shell is left behind and the gathering is
+perfect and useless; it goes to the wrong gathering; or somebody else's shell is
+present and yours is not.
+
+> **[open] What this does to [the leash](#the-leash).** If presence is required
+> only at the event, continuous proximity may not be required at all — a
+> stronger and more specific constraint than "you cannot go far." Symbiote
+> locality survives either way, since it rests on [calibration and
+> relocation](ECOSYSTEM.md#an-old-symbiote-steers-toward-home) rather than on the
+> leash.
+
+> **[open]** What the [collected shells](ECOSYSTEM.md#what-collecting-shells-actually-does)
+> mean under this rule. A dozen guardians' bodies now sit in one house, so an
+> event near it has them all present at once — which has never happened before on
+> this island.
+
 #### The eclipse
 
 **The event is a total solar eclipse, and everything converges on it.**
@@ -2594,30 +2675,46 @@ conflict](#2-engineered-scope-conflict) gets a real mechanism: build a situation
 where the short-horizon optimum for one host diverges from the long-horizon
 optimum for the group, and a symbiote and its shell pull against each other.
 
-#### Shell to shell, over the same wire
+#### Shells do not coordinate, and do not need to
 
-Anything spanning more people than one shell's limbs cover needs shells to reach
-each other. **[proposal, strong] They do it through people**, over the [contact
-graph](ECOSYSTEM.md#community-scope-is-a-network-not-a-faculty) that already
-carries everything else in this world: shell → its limbs' hosts → skin contact →
-other hosts → their limbs → their shells.
+**There is no inter-shell channel, because there is nothing to send.** Shells
+sampling the same world with the same objective select the same branches — [shared
+objective plus shared evidence, no
+communication](ECOSYSTEM.md#shells-do-not-coordinate-they-converge).
 
-No new physics, and the consequences all earn their place:
+Which is better than a channel on every count: instant rather than
+contact-limited, undetectable because there is nothing to detect, and
+**non-agentic**, since nothing is ever told anything by anyone.
 
-- **It is slow.** Two shells exchange at the speed of human social contact —
-  weeks and seasons, not seconds. Nothing here coordinates faster than people
-  actually touch each other.
-- **It routes through the same people you do.** The wire you read the island
-  with is the wire the island organises on.
-- **A community that stops touching goes dark**, which is the mechanism
-  [already killing symbiotes in
-  modernity](ECOSYSTEM.md#the-regulator-is-social-not-geographic), arriving a
-  second time at a larger scale.
+##### The horizon gradient is the only politics
 
-> **[proposal] Shells in physical contact may exchange directly**, which nothing
-> on this island had arranged until the developer put a cabinet's worth of them
-> in one room. See [what collecting shells actually
-> does](ECOSYSTEM.md#what-collecting-shells-actually-does).
+Divergence between symbiotes is divergence in horizon, and nothing else:
+
+| | prices | so what scores best is |
+|---|---|---|
+| **an old symbiote** | a long span | whatever keeps the group standing |
+| **a young one** | a short span | whatever benefits its host now |
+
+They pull apart without disagreeing, because neither is doing anything but
+arithmetic. And it is **one parameter producing the same pattern at three
+scales** — parasite against symbiote, old symbiote against young, and the
+islanders' own [generational
+conflicts](#it-is-a-generational-conflict-and-it-is-the-ordinary-kind).
+
+##### Which makes a symbiote a sixth sense
+
+The experience of carrying one is **indistinguishable from ordinary intuition**:
+a hunch, a sense of what is coming, a feeling that something is off. Nothing
+announces itself, nothing speaks, and almost nobody carrying one knows.
+
+- **An unusually good hunch is the only symptom** — deniable, ordinary, and
+  unprovable. Nothing the station could instrument would find it.
+- **Losing one is a sense one cannot name, gone**, which is what [the docs
+  already say it feels like](ECOSYSTEM.md#minimal-interference).
+- **The matriarch is the rare trained case**, not the normal one.
+
+This is what the folklore is a garbled account of — something very quiet, not
+something that takes people over.
 
 ### Placement is deliberate, and it is a readout
 

@@ -85,9 +85,16 @@ The island does three things no inland setting does as well:
 its people, **the myths around past events**, and local **scientific
 peculiarities.**
 
-That remit matters. The previous eclipses, the husks, the folklore and the
+That remit matters. The previous eclipses, the shells, the folklore and the
 unclassifiable fossil are all *already inside somebody's job description*. No
 one has to stumble onto them.
+
+> **And the remit is not an accident.** [The developer pushed the station into
+> existence](#then-the-developer-heard-about-it) **as an instrument for
+> investigating the island's myths**, with an institution's respectability over
+> the top. The myth clause was the point; the ecology and the marine work are
+> what made it fundable. The scholarships and the research quota belong to the
+> same design — he needed islanders inside the building.
 
 It also gives every potential discoverer a home — the biologist with a contact
 map, the astronomer with eclipse paths, the anthropologist with the myths. See
@@ -183,19 +190,50 @@ Implications:
 **The person who finds the seed is a young islander research assistant** — one
 of [this year's quota intake](#the-stations-fracture).
 
-#### Why it has to be her
+#### She was waiting for it
 
-She is the only kind of person on the island who could do all three things the
-opening needs, in one scene, without any of it being a coincidence:
+**It is not a coincidence and it is not luck. She went looking.**
+
+Working through the island's material, she found **more than one account of a
+star falling out of the sky a fixed number of days before the sun goes dark** —
+separate sources, different centuries, the same interval. The island is [in a
+totality cluster](ECOSYSTEM.md#how-symbiotes-persist-between-eclipses), so the
+pattern had occasions to be recorded.
+
+She did the obvious thing with a testable claim: **she counted the days, and then
+she watched the sky.**
+
+> **And she was mocked for it, without mercy.** An islander on the research quota
+> reading folklore as data is the exact thing the station's culture exists to
+> find funny, and [the director is the one who cannot afford to take her
+> seriously](#and-it-is-the-directors-catastrophe).
+
+So when it comes down she is **the only person on the island who both sees it and
+knows what it means** — and she is in the truck before anyone else has decided it
+was a meteor.
+
+> **She drives straight to where it came down**, which nobody else could have
+> done, because nobody else was holding a bearing and a date.
+
+##### What she still brings to it
 
 | | because |
 |---|---|
-| **recognise the object** | she has handled the rare fossils before — a couple of times, the way you handle things that are around. **[open]** where: a relic in a grandmother's house is the best answer, and chains her straight to the folklore |
-| **know what it means** | she grew up with the stories. **Casually, unromantically, the way you know things from your family** — not as mystical insight |
-| **take it somewhere that matters** | she works at the station. **She carries it into the compute**, which is the only reason the game can start |
+| **she can recognise the object** | she has handled the rare fossils before — a couple of times, the way you handle things that are around. **[open]** where: a relic in a grandmother's house is the best answer, and chains her straight to [the shell religion](#the-shells-were-the-religion) |
+| **she knows what it means** | she grew up with the stories. **Casually, unromantically, the way you know things from your family** — not as mystical insight |
+| **she takes it somewhere that matters** | she works at the station. **She carries it into the compute**, which is the only reason the game can start |
 
-> **And she can tell this one is different.** Every other husk she has seen was
+> **And she can tell this one is different.** Every other shell she has seen was
 > stone. This one is not.
+
+##### The loop that closes on the developer
+
+The land deal that put islanders inside the station was **his** design — he
+needed islander knowledge in the building. It worked, twenty-odd years after he
+died, in exactly the way he intended and on nobody's schedule:
+
+> **The instrument he built to find the thing found it, and the institution he
+> founded to look for it laughed at the only person who was looking.**
 
 #### What it costs her to be believed
 
@@ -696,6 +734,107 @@ one group and they do not agree.
 > their own lives. If a scene's only function is to deliver cosmology to the
 > player, it is the wrong scene. The myths must never be the reason a character
 > is on screen.
+
+### The shells were the religion
+
+Before contact, the island's religion was **centred on the shells themselves** —
+not on spirits the shells stood for, but on the objects.
+
+| a shell was | and at the same time |
+|---|---|
+| **a deity** | the thing itself, never an idol of something else |
+| **a charm** | carried, handled, brought out at need |
+| **a symbol of authority** | holding one *was* the standing |
+| **a clan's inheritance** | and the proof of its continuity |
+
+**Every clan had at least one. The powerful ones had several.** Nobody could have
+said which way that ran — did a clan hold shells because it was powerful, or was
+it powerful because it held them? Both, and the question has no edge, because
+[placement is a readout and a cause at
+once](MECHANICS.md#placement-is-deliberate-and-it-is-a-readout).
+
+#### The first wave took some, and the loss was measurable
+
+Colonisation cost the island shells early. What followed is the island's most
+durable observation about them:
+
+> **Families that lost their shells fell on hard times within a few years.
+> Families that kept theirs went on doing well, even under occupation.**
+
+Which is true, and mechanically exact. A displaced shell means [a guardian losing
+coherence and with it its
+faculty](ECOSYSTEM.md#and-it-is-where-the-symbiotes-whole-faculty-comes-from) —
+so a household that had been unusually well-judged for generations becomes
+ordinarily well-judged, and in a bad decade that is the entire difference.
+
+> **Craft liability, and a serious one.** This must never become the explanation
+> for what colonisation did. The ordinary mechanisms — violence, disease,
+> expropriation, legal exclusion, debt — are the causes, they are fully present
+> on the page, and they are sufficient by themselves. **The shell loss is one
+> more real harm among them**, distinguished only by being the one nobody could
+> name, prove, or take to a court.
+>
+> And the families that kept theirs were not spared by magic. They were
+> collaborating, or already well placed, or lucky. The correlation is real and it
+> is not the reason.
+
+#### The religion went into hiding, and came back as the cult
+
+Losing shells to people who did not know what they were taking is what drove the
+practice underground. It did not end; it went quiet, and then it went
+**bilingual.**
+
+Conversion to Catholicism is **the root of [the
+society](#he-heads-the-society-and-its-core)**. The old observance continued
+inside the new calendar — saints' days doing the work of older dates, reliquaries
+doing the work of older containers, a confraternity doing the work of a clan
+council. Two hundred years of that is why the society now looks like an elders'
+institution with odd habits rather than a surviving religion, and why [its core
+is the only part that still knows what the habits
+are](#the-cult-is-the-same-rite-badly-inherited).
+
+> **The syncretism was not a compromise. It was camouflage that worked**, and
+> worked so well that most of its present membership has no idea what it is
+> camouflage for.
+
+#### Then the developer heard about it
+
+Two centuries later, **the developer had an affair with the shaman's daughter**,
+and she told him some of what she had been taught by her mother.
+
+He became obsessed. He began **acquiring shells from the clans** — by purchase,
+by swindle, by bribery, and by threat, over years, with the leverage of a man who
+owned a great deal of the island.
+
+> **That is [the break](#the-stations-fracture).** Not a disagreement about land
+> or money. He took the clans' gods out of their houses, one at a time, and put
+> them in a cabinet.
+
+And it is why he pushed to found [the research station](#the-research-station):
+not as philanthropy and not as a marine laboratory, but **as an instrument for
+investigating the island's myths**, with the respectability of an institution
+over the top of it. The scholarships and the research quota for islanders were
+part of the same design — he needed islanders *inside* it.
+
+> **He worked toward this eclipse specifically, for decades, and died too early
+> to see it.** The institution he built to find the thing is still running, under
+> a director who inherited the project without necessarily inheriting its
+> purpose.
+
+> **[open] Is the shaman's daughter [the matriarch](#the-matriarch)?** The
+> timeline permits it. If she is, the dispossession began with something she
+> said, and her [three fronts](#three-fronts) acquire a fourth that is entirely
+> interior. It is the strongest version and it is not the only one — the
+> alternative is a sister or an aunt, dead or estranged, which keeps the
+> matriarch's authority uncomplicated and costs the story its best knot.
+
+> **Craft liability.** *Native woman betrays her people through a romance with
+> the coloniser* is a trope with a long and ugly history — Malinche, Pocahontas.
+> Avoiding it is not a matter of softening her. She needs **her own reasons,
+> legible and not naive**: she may have been trading, or testing, or seeking an
+> ally against someone else on the island, or simply in love with a man who then
+> did something she did not predict. What she must not be is a conduit. **He took
+> more than she gave**, and the gap between those two is where her character is.
 
 ### Their myths are the most accurate account on the island
 
@@ -1226,10 +1365,33 @@ on the mountaintop: **a national park, and holy ground for the local tribes.**
 > harder and more impressive, and the research-ethics theme acquires a physical
 > instance: the building they work in.
 
-The great development never happened — resistance never let up. He lost
-interest and left his properties to associates, **some of them local.** (Which
-keeps the faction map from resolving into clean opposition: islanders are inside
-the developer's structure, complicit and benefiting.)
+The great development never happened — resistance never let up. He left his
+properties to associates, **some of them local.** (Which keeps the faction map
+from resolving into clean opposition: islanders are inside the developer's
+structure, complicit and benefiting.)
+
+> **But he did not lose interest in the island.** He had stopped caring about
+> the resort. [After the affair and what he was told](#then-the-developer-heard-about-it)
+> the development was only ever the lever: land, roads, power, a government
+> contract, and a research institution with the island's myths written into its
+> remit. **The property empire was scaffolding for a search**, and the people
+> fighting him over the coastline were fighting the wrong project.
+
+##### What he was actually doing
+
+Acquiring shells. From the clans, over years — **purchase, swindle, bribery,
+threat**, with the leverage of a man who owned a great deal of the island, and
+with a collector's cover story that was true as far as it went.
+
+> **He worked toward this eclipse specifically, for decades, and died too early
+> to see it.** The cabinet is in his daughter's house and the institution is
+> still running, under [a director](#the-director) who inherited the project
+> without necessarily inheriting its purpose.
+
+**[open]** How much the director knows about why the station exists. The range
+runs from *nothing* (he is a marine biologist who took a job) through *he found
+the founder's papers years ago* to *he was told, and has spent twenty years
+pretending the remit is a quirk of the charter.* Each produces a different man.
 
 ##### He was in the society
 
@@ -1249,9 +1411,12 @@ Three consequences:
   respectable institutional position, and his contempt for the scientists
   carries weight for that reason rather than an occult one.
 - **Whether the father was anywhere near the core is a separate question, and
-  probably no.** Keeping him an ordinary member is better: his daughter inherits
-  a social connection, not an initiation — a membership card, socially real and
-  spiritually empty. **[open]**
+  the answer is no.** His membership stays ordinary and his daughter inherits a
+  membership card, socially real and spiritually empty. **This is now load-bearing
+  rather than a preference:** what he learned came from [one conversation with an
+  islander](#then-the-developer-heard-about-it), not from the society — so **the
+  colonial establishment's own cult knew less than one woman did**, which is the
+  correct ordering and would be spoiled by initiating him.
 - **"With exceptions" is co-option.** Those exceptions are almost certainly the
   locals inside the developer's structure — his associates. Entry has a price.
   Which fractures the indigenous faction internally, and should: a monolithic
@@ -2538,6 +2703,46 @@ rather than a substance it has* sits on the same ground Watts builds on.
 - **The myth treatment differs in direction.** Watts explains a myth away. Here
   the folklore is **accurate and badly transmitted** — the interest is in what
   survives a thousand years of retelling, not in debunking.
+
+### Tenet, Christopher Nolan (2020)
+
+**The closest ancestor of the temporal mechanic**, and on the same physics rather
+than a parallel invention.
+
+| | Nolan | here |
+|---|---|---|
+| **"what's happened, happened"** | the **Novikov self-consistency principle** — one timeline, paradox impossible because only self-consistent histories exist | the same formalism: [post-selected CTCs](ECOSYSTEM.md#frameworks-to-lean-on-none-of-them-invented-here), where **post-selection is the fold** |
+| **the temporal pincer** | two teams, one running forward from the setup, one backward from the outcome, the operation happening where both constrain it | [the two-state vector](ECOSYSTEM.md#across-timelines) — a state fixed by boundary conditions at both ends of the run |
+| **nobody changes anything** | the protagonist discovers he was always the one who did it | the shell does not intervene. [It was always going to have](MECHANICS.md#the-option-space) |
+
+The pincer is worth keeping in mind as the one staged, watchable version of a
+two-boundary system. It is what TSVF looks like when someone films it.
+
+#### What to take
+
+**Consequences legible, mechanism opaque.** Nobody in the film explains inversion
+usefully and everybody can see what it does. That is a working demonstration at
+scale of the rule [the physics section is written
+under](ECOSYSTEM.md#the-mechanism): the machinery exists so the rules are
+consistent, not so anyone explains them.
+
+#### Where this has to differ
+
+- **Nolan has nowhere to put the interiority.** A protagonist with almost none,
+  inside a mechanism elaborate enough to crowd out everything else. This design
+  relocates it rather than omitting it: the entity has none, **the hosts have all
+  of it**, and [the baseline is a real
+  novel](MECHANICS.md#the-baseline-is-a-real-novel-and-it-comes-first) before it
+  is anything else.
+- **The Algorithm is the structural risk.** An abstract object accumulated so the
+  ending can occur. [The purified
+  resource](MECHANICS.md#the-resource-buys-the-finale-it-is-not-the-finale) is
+  the same shape, and the protection is that it never carries weight on its own —
+  what it buys is **a choice about people**, not an object.
+- **Inversion is not what the shell does.** Nolan's inverted matter runs
+  thermodynamics backwards. Nothing here is entropy-reversed; the shell simply
+  has [boundary conditions at both
+  ends](ECOSYSTEM.md#across-timelines). Borrow the image, not the mechanism.
 
 ---
 

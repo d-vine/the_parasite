@@ -105,17 +105,57 @@ something a body does.** A process the body runs, not a substance it has.
 On that assumption, nothing here is supernatural and all of it is the same kind
 of thing:
 
-| | stored in | executes on | anchored to |
+| | what it is made of | executes on | anchored to |
 |---|---|---|---|
 | **a human consciousness** | the body it is a process of | that body | — |
-| **a limb, before transcendence** | the shell | a host's brain | **the shell** |
-| **a limb, after** | the shell, with its reserve spent | a host's brain | **the shell** |
+| **a limb, before transcendence** | a population of **physical units** in the host's tissue | a host's brain | the shell, loosely |
+| **a limb, after** | the same population, now [entangled with the shell](#the-eclipse-is-what-creates-the-tether) | a host's brain | **the shell** |
 | **an adult** | itself | the fabric of spacetime | nothing |
 
-A limb is **information extended from the shell into a body**, and once there it
-**runs the way consciousness runs** — on the same tissue, by the same kind of
-process. What changes at transcendence is not the substrate. It is **the
-tether.**
+**A limb is material, not information.** It is a population of units living in
+the host — replicating there, built on the mitochondrial pattern: a minimal
+inherited core, with every piece of apparatus assembled out of host proteins. Once
+established it **runs the way consciousness runs**, on the same tissue, by the
+same kind of process.
+
+What changes at transcendence is not the substrate. It is **the tether.**
+
+##### Which makes a human a holobiont, with one more resident
+
+The organism is not an intrusion into an otherwise unified body. **It is one more
+passenger in a body that was never one thing.**
+
+| | |
+|---|---|
+| bacterial to human cells | roughly **1:1** — ~3.8 × 10¹³ against ~3.0 × 10¹³ |
+| mitochondria | their own genome of 37 genes; the other ~1,500 proteins supplied by the host |
+| the human genome | **~8% endogenous retrovirus** — and **syncytin**, which builds the placenta, is a captured viral envelope gene |
+| gut flora | vitamin K, immune training, and mood through a gut–brain axis |
+
+> **Nobody experiences their mitochondria as a passenger.** Which is why nothing
+> in this setting reads as possession, and why [carrying a symbiote is
+> indistinguishable from ordinary
+> intuition](MECHANICS.md#which-makes-a-symbiote-a-sixth-sense).
+
+And it makes the species split biological rather than moral:
+
+| | |
+|---|---|
+| **symbiotes** | **flora.** Settled, chronic, inherited, participating, adapted to the niche |
+| **the parasite** | **a pathogen.** Acute, foreign, uncalibrated, newly arrived |
+
+*Symbiotes are an immune system* stops being analogy. They do not resist because
+they object — they resist the way a microbiome resists a colonist, by already
+holding the niche and being fitted to it when the arrival is not.
+
+> **What a discovery would actually be.** Not aliens: **an undescribed
+> endosymbiont in an isolated human population, with heritable behavioural
+> effects.** A paper and a career, which is what a small station with a
+> collections policy might plausibly stumble into.
+>
+> Each party holds half. The islanders have tracked the organism accurately for a
+> thousand years with no framework. Biology has the framework — holobiont,
+> endosymbiosis, Margulis — and has never looked.
 
 ##### Folding multiplies the limbs
 
@@ -349,8 +389,12 @@ weaker host by killing its current one):
 
 ##### Why family, with no new mechanism
 
-Vertical transmission is **the ordinary host-jump running at its slowest and
-most favourable setting** — same physics, years instead of seconds:
+Vertical transmission is **not a host-jump at all.** [The limb is
+material](#what-they-are-made-of), so a seed population simply moves and
+proliferates — the mitochondrial pattern, and the microbiome's: maternal
+inheritance plus horizontal transfer by contact, shared food and breastfeeding.
+Nothing is rebuilt from a codebook. The old argument still names the right
+conditions, and they are now the literal transfer mechanism:
 
 - **similarity** — a relative's driver is a short edit, not a rewrite
 - **duration** — years of proximity is what slow driver-building needs
@@ -1019,8 +1063,12 @@ magnitude of headroom absorbs without complaint.
 
 The point most easily got wrong, and the one everything else rests on.
 
-> **The limb is not entangled with the shell. Nothing is entangled with the
-> shell.**
+> **No part of the energy transaction is entangled with the shell.**
+
+That is a statement about *this* protocol, not about the organism — a symbiote's
+limb [is entangled with its shell](#the-eclipse-is-what-creates-the-tether), and
+that is where its branch-sampling comes from. It simply plays no part in
+delivering energy.
 
 The entanglement the protocol consumes is **in the field, between two
 neighbouring regions of space.** It is a free, universal property of the vacuum.
@@ -1126,49 +1174,164 @@ Three of them, and conflating the first two is the standing error.
 
 | | what moves | medium | timescale |
 |---|---|---|---|
-| **1. establishment** | the limb itself — enzyme recipes, the codebook, the model | body-channel contact. Virus-like, physical | years |
+| **1. establishment** | **a seed population of units**, carrying the codebook and the model with them | physical transfer by sustained contact | years |
 | **2. operational** | Alice's measurement outcome | ordinary electrochemistry inside one skull | microseconds, microns |
-| **3. back to the shell** | what the limb has learned | the same physical channel as (1), reversed | contact-limited |
+| **3. back to the shell** | **for a parasite, nothing** — it makes no decision that would require knowing. **For a symbiote, the units themselves**, carrying their half of the correlation | contact-limited. Somebody has to handle the shell |
 
 #### A driver is a codebook
 
 QET needs exactly one host-specific object: a lookup from **Alice-side
 measurement outcome → which conditional operation Bob applies.** That is what a
-driver is.
+driver is — **held materially**, in the unit population and archived in the
+shell, never stored as a file anywhere.
 
 Which puts [the shell's two kinds of
 spending](MECHANICS.md#the-shell-is-the-budget-and-it-has-two-kinds-of-spending)
-in the right units. A codebook is bytes. It occupies capacity permanently, which
-is why `shellCost` is never refunded — and **a relative's codebook is an edit of
-one already held**, not a new one, which is the whole of the vertical
+in the right units. A codebook has a size; it occupies capacity permanently,
+which is why `shellCost` is never refunded — and **a relative's codebook is an
+edit of one already held**, not a new one, which is the whole of the vertical
 transmission argument.
 
-The establishment channel also carries the *model* of the host, which is the
-`horizon` parameter in [push
-admissibility](MECHANICS.md#feasibility-is-three-conditions-not-one), and the
-recipes for the enzymes. All three are information. Nothing material crosses
-except by [ordinary contact](MECHANICS.md#jumping-is-a-file-transfer).
+The establishment channel also carries the *model* of the host — the `horizon`
+parameter in [push
+admissibility](MECHANICS.md#feasibility-is-three-conditions-not-one). All of it
+travels the way [a microbiome
+travels](#why-family-with-no-new-mechanism): in units, by contact, slowly.
 
-#### The back channel is not entanglement
+#### The eclipse is what creates the tether
 
-**Entanglement carries no information, in either direction.** The
-no-communication theorem is a theorem, not an engineering limit, and a setting
-that quietly assumes otherwise loses the constraint its whole social structure
-rests on.
+A parasite is not tethered. A symbiote is. **The eclipse is the difference**, and
+it is the only moment at which it could be.
 
-So the back channel is the slow physical one, which has a consequence worth
-keeping:
+Establishing fresh entanglement between a shell and a host needs mass proximity,
+synchrony and coherence all at once — which happens exactly once, at [the
+event](MECHANICS.md#the-one-place-bandwidth-matters), and nowhere else in the
+organism's life.
 
-> **The shell's copy is always out of date.** The limb learns continuously in the
-> host; the master reconciles only on contact, and contact is rare.
+> **The event that was supposed to free it is what binds it.** The tether is a
+> product of the failure.
 
-That is where [the lag in
-placement](MECHANICS.md#placement-is-deliberate-and-it-is-a-readout) comes from.
-It also recasts homing: an old symbiote steers toward its shell not to refuel but
-**to write back.**
+##### Which is what "tethered" means, with nothing flowing
 
-> **[open]** Whether the back channel wants a better mechanism than "the forward
-> one, reversed." Provisionally assumed identical.
+A reasonable objection: what is a tether, if nothing travels along it? The answer
+is that nothing does.
+
+> **A tethered limb is not connected to the shell. It is part of it.**
+
+One quantum system, not two in communication. Operations on the limb act on the
+joint state, which is not signalling — it is being a single object. Severing is
+not cutting a wire; it is amputation.
+
+##### And it is where the symbiote's whole faculty comes from
+
+Sampling branches and selecting among them requires coherence spanning branches,
+and [only the shell spans branches](#across-timelines). A limb in warm tissue
+cannot.
+
+> **Cut from its shell, a symbiote is not a symbiote. It is a thing in a person,
+> running forward in time like everything else.**
+
+No sampling, no selection, no horizon, no regulation. The one faculty that
+separates it from ordinary biochemistry is borrowed from the body it is attached
+to.
+
+**This also settles the leash.** Being one system imposes no range limit —
+entanglement does not decay with distance, it decays with environmental
+interaction. So separation costs a *rate*, not a cliff:
+
+> **A symbiote far from its shell does not stop working. It loses coherence
+> faster, and with it the faculty, slowly.**
+
+Which is better than the hard limit it replaces: it explains why displaced old
+symbiotes self-correct, why one is never found far from where it was made, and
+why nothing dramatic happens when a relic is carried to the next village.
+
+#### The parasite has no back channel
+
+**Entanglement carries no information, in either direction** — the
+no-communication theorem is a theorem, not an engineering limit. But the
+stronger result is that nothing needs to come back at all.
+
+**The shell never learns anything from a host, because it never makes a decision
+that would require knowing.** It plants an initial specification and the batches
+in which that specification produced the wanted outcome are the ones kept. There
+is no mid-course correction to compute, so there is no reading to do.
+
+> **It is not an engineer. It is a breeder.** It does not design a chain that
+> works — it plants many and keeps the ones that ran. The failures were simply
+> not kept.
+
+Which is the deep form of a rule already stated: [it does not wait, does not plan
+ahead, does not find out](MECHANICS.md#the-parasite-experiences-the-whole-timeline-at-once).
+
+##### The bandwidth problem dissolves
+
+Continuous decision-making would need a live, high-rate link from every host.
+Planting a specification needs a one-time transfer. **A letter, not a
+telephone** — and the letter is the establishment channel that already exists.
+
+##### Drivers are selected, not learned
+
+> **Nothing acquires better drivers. The batches in which better drivers happened
+> to have been produced are the ones kept.**
+
+This stays compatible with *driver quality is bought with compute*, because
+compute buys **selective pressure** rather than learning: more of it means more
+can be conditioned on, so more of what survives is what was wanted. Progression
+by selection, which is the right verb for this organism.
+
+**The fold is the write.** The shell's state after a fold reflects which batch
+survived, because the shell is what spans the branches being measured. No
+channel — the measurement is the update.
+
+##### The symbiote is the exception, and the reason is principled
+
+A symbiote **does** have a back channel. It is physical, high-latency, and made
+of the units themselves.
+
+> **Selection does not require storage. Persistence does.**
+
+The parasite has a deadline and a transcendence to reach, so planting and
+selecting is all it needs; reading anything back would buy it nothing. A symbiote
+has no deadline and its entire existence *is* persistence across centuries — so
+it needs an archive, and an archive needs writing to.
+
+**The units carry it.** Each one holds phosphorus nuclear spins paired with the
+shell, so moving a unit physically moves its half of the correlation. That is the
+only kind of channel that could exist, since nothing can be *sent*.
+
+> **It requires physically handling the shell.** The sync operation is somebody
+> picking the relic up.
+
+Which gives the ceremonial handling of relics a mechanical function that nobody
+performing it knows about. **The matriarch's custodial role is custodial in a
+literal sense**, and the rites that call for a stone to be taken out and held are
+maintenance.
+
+> **What the cabinet actually did.** [Collecting the
+> shells](#what-collecting-shells-actually-does) did something worse than
+> relocate them. **It ended the handling.** Those relics sat in households being
+> picked up — at rites, by children — for centuries, and now they are behind
+> glass in a stranger's house and nobody touches them. A slow severance of
+> several guardians from their archives: invisible, uninstrumentable, and
+> entirely the result of a rich man's hobby being tidier than a family's shelf.
+
+##### Shells do not coordinate. They converge
+
+Two shells sampling the same world and scoring it with the same objective select
+the same branches, for the same reason two calculators agree. **Shared objective
+plus shared evidence produces identical behaviour with nothing passing between
+them.**
+
+So the island's guardians act as one without any mechanism for acting as one —
+instant rather than slow, undetectable because there is nothing to detect, and
+non-agentic because nothing was ever told anything.
+
+> **What differs between them is the horizon, and that is enough to produce
+> everything that looks like politics.** An old symbiote prices a long span, so
+> what scores best for its host is what keeps the group standing. A young one
+> prices a short span, so what scores best is what benefits its host now. They
+> diverge without disagreeing, because neither is doing anything but arithmetic.
 
 #### What entanglement can do instead
 
@@ -1222,7 +1385,7 @@ anchor and can no longer run the expensive operation.
 | **Deutsch 1991** (closed timelike curves) | the grandfather paradox resolved by a fixed-point density matrix, read Everettianly: **the curve connects branches, not one branch to itself.** Available as flavour; see the warning below before taking its computational claims |
 | **Two-state vector formalism** (Aharonov, Bergmann & Lebowitz 1964) | a system described by a forward state *and* a backward state from post-selection. *The parasite experiences the whole timeline at once*, as a formalism. Weak measurement comes with it — information without collapse |
 | **Post-selected CTCs** (Lloyd et al., 2011) | entanglement plus post-selection on a Bell measurement. Post-selection **is** folding |
-| **Transactional interpretation** (Cramer 1986) | every event a handshake between a forward offer wave and a backward confirmation. The forward and back channels, symmetric by construction |
+| **Transactional interpretation** (Cramer 1986) | every event a handshake between a forward offer wave and a backward confirmation — good imagery for a two-boundary state. Single-world and collapse-based, so **use the picture, not the formalism** |
 | **ER = EPR** (Maldacena & Susskind 2013) | entanglement **is** a wormhole — non-traversable, which is why it carries nothing. Gao, Jafferis & Wall 2017 make it traversable by coupling the sides, which is sending a classical signal. **A traversable wormhole is quantum teleportation** |
 
 The last row is the one to note: the architecture above — a bridge of correlation

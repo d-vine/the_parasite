@@ -59,12 +59,14 @@ eclipse, read **core**; where it means power, membership or exclusion, read
 | 15 | Does the title survive contact with *Parasite* (2019) and *Parasyte*? | A shipping title may need to clear the field |
 | 16 | How far is the look-ahead horizon for a symbiote, and for a shell? | Sets how much of the world the regulator can price, and the width of the window you can act inside. [Model](MECHANICS.md#the-horizon-is-the-parameter-that-matters) |
 | 17 | Does branch scoring reconcile with the signed deviation integral? | Candidate: **deviation = how much you lowered the best score still available**. [Note](MECHANICS.md#the-opposition-is-the-same-verb-opposed) |
-| 18 | Does the back channel want a better mechanism than the forward one reversed? | Provisionally assumed identical. [Note](ECOSYSTEM.md#the-back-channel-is-not-entanglement) |
+| ~~18~~ | ~~Does the back channel want a better mechanism?~~ | **Closed, split.** The parasite has none — it makes no decision requiring knowledge. The symbiote's is **the units themselves**, written by handling the shell. [Note](ECOSYSTEM.md#the-symbiote-is-the-exception-and-the-reason-is-principled) |
 | 19 | Is reproduction a merge, which the physics forbids, or two adults entangling? | The adult's defining act currently contradicts unitarity. [Note](MECHANICS.md#folding-is-reproduction-performed-by-something-that-cannot-yet-reproduce) |
 | 20 | Does a failed finale consume the resource? | Injection destroys a magic state, so paying and losing costs it while never reaching the price does not. Jeopardy against retry pressure. [Note](MECHANICS.md#the-resource-is-not-fungible-and-that-is-physics) |
 | 21 | What carries between parallel lines — shell state only, or a shared trunk? | Decides how rich the cross-line interlock is. [Note](MECHANICS.md#lines-constrain-each-other-they-do-not-merge) |
 | 22 | How is *p* made legible without a meter? | The option text may be the price tag. [Note](MECHANICS.md#what-the-interface-is-for) |
 | 23 | What replaces severing, now that branches cannot be detached? | *The two systems oppose each other* turns on detached nodes. [Note](MECHANICS.md#the-opposition-is-the-same-verb-opposed) |
+| ~~24~~ | ~~Does the leash survive?~~ | **Closed.** It is a decoherence *rate*, not a range limit. [Note](ECOSYSTEM.md#and-it-is-where-the-symbiotes-whole-faculty-comes-from) |
+| 25 | What do the collected shells mean, now that presence matters? | A dozen guardians' bodies in one house, for the first time. [Note](MECHANICS.md#the-shell-has-to-be-there) |
 
 ---
 
@@ -94,10 +96,33 @@ belongs.
   the product **aim, not power**. Nothing is entangled with the shell — the
   apparatus needs coherence for control fidelity, not for a channel. Three
   channels: establishment (virus-like, years), operational (microns, microseconds),
-  and the back channel, which is the first one reversed and therefore slow.
-  Entanglement never carries information; it can only supply shared randomness.
+  and **no back channel at all** — the shell plants a specification and keeps the
+  batches where it worked, so there is nothing to read and the bandwidth problem
+  dissolves. **It is a breeder, not an engineer.** Drivers are selected rather
+  than learned, and the fold is the write. **Shells do not coordinate; they
+  converge** — same objective, same evidence, no channel — and the only thing
+  that differs between symbiotes is **horizon**, which is what makes an old one
+  care about the group and a young one about its host. Entanglement never
+  carries information; it can only supply shared randomness.
   **One exemption: the organism maintains nuclear-spin coherence in warm tissue
   and uses it** — and that same isolation is what lets the shell span branches.
+- **A limb is material, not information** — a population of physical units in the
+  host, on the **mitochondrial pattern**: a minimal inherited core with all
+  apparatus built from host proteins. Nothing is rebuilt from a codebook;
+  inheritance is a seed population moving. **A human is a holobiont and the
+  symbiote is one more resident**, which is why nothing reads as possession.
+  Symbiotes are **flora**; the parasite is **a pathogen**.
+- **The eclipse is what creates the tether.** A parasite is not tethered, a
+  symbiote is, and the event is the only moment with the proximity, synchrony and
+  coherence to establish it. **A tethered limb is not connected to the shell — it
+  is part of it**, one quantum system, so severing is amputation. That shared
+  coherence is also the source of the symbiote's branch-sampling: cut from its
+  shell it is just a thing in a person. The leash is a **rate, not a cliff**.
+- **The symbiote has a back channel; the parasite does not.** Selection needs no
+  storage, persistence does. The units carry it physically, so **the sync
+  operation is somebody handling the relic** — which makes ceremonial relic-handling
+  literal maintenance, and makes the cabinet's real harm that **it ended the
+  handling.**
 - **All three kinds of mind here are processes a body runs.** Working assumption,
   never argued in-game: consciousness is something a body does. A parasite or
   symbiote is information brought in from outside and executed on host tissue
@@ -111,6 +136,18 @@ belongs.
   The text never gives it a feeling, a want or a reaction; the narration carries
   **the host's** inner life, and the entity's nature shows only as what the
   interface makes possible.
+- **The eclipse is the one place bandwidth matters.** The shell needs no channel
+  to operate, but the event is a distributed computation and a cluster is only a
+  supercomputer if the fabric is fast enough — which derives proximity, numbers
+  and shared state, with **synchrony as the clock**. An atomised population
+  cannot assemble the machine at all.
+- **The shell must physically be at the event**, and cannot take itself, so
+  **every route needs a carrier** — a named person who brings it for their own
+  reasons, not knowing what it is. A specimen to the station, a relic to the
+  observance, a charm in a pocket to the festival.
+- **Carrying a symbiote is indistinguishable from ordinary intuition** — a hunch,
+  a sense of what is coming. Almost nobody who has one knows. An unusually good
+  hunch is the only symptom, and nothing instrumentable would find it.
 - **Symbiotes are not agents** — closer to mitochondria than to antagonists. They
   regulate; they do not scheme, negotiate or remember. The only agents in the
   world are humans.
