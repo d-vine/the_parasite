@@ -79,6 +79,85 @@ The island does three things no inland setting does as well:
 - **It has a documented history of arrivals** — which is what a colonial past
   is, and what makes the folklore legible as a record.
 
+#### [proposal] The region, which is bounded; the island, which is not
+
+**The island is invented and is not any real place.** But the islanders need a
+culture, a language family, a church and a colonial history that can be
+researched rather than guessed, so the *region* is fixed:
+
+> **The western Pacific, somewhere between the Marianas and the Carolines.**
+
+##### Why there, and not elsewhere
+
+The design had already narrowed this before anyone chose:
+
+| what the documents require | what it rules out |
+|---|---|
+| a Catholic **diocese**, two priests, a congregation | the Protestant Pacific — Samoa, Tonga, Fiji, the Cooks, most of Polynesia |
+| conversion ~200 years before 1978, with [the old practice surviving inside it](#the-religion-went-into-hiding-and-came-back-as-the-cult) | anywhere mission contact is 19th-century |
+| the [2009 track](#why-2009) | the eastern Pacific |
+| [makatea geology](#why-2009) and a sacred peak | pure atolls, pure volcanic islands |
+
+##### Thin administration is why the religion survived
+
+Spain claimed an enormous stretch of this ocean from the 1600s and **barely
+administered most of it.** Missions went in; everything else was nominal.
+
+> **That is the colonial situation that produces syncretism rather than
+> extirpation.** Heavy administration destroys a practice. A mission with no
+> garrison behind it gets absorbed — which is precisely how the observance
+> survives two centuries inside a saints' calendar.
+
+##### Four layers, not one villain
+
+| | |
+|---|---|
+| **early 1700s** | Spanish mission. The conversion, and the beginning of the camouflage |
+| **1899** | ceded to Germany — administratively, by treaty, between two European powers, with nobody asked |
+| **1914** | taken by Japan; held under mandate |
+| **1945** | US trusteeship |
+| **mid-1980s** | **independence**, in free association |
+
+Which puts a legal rupture inside the story's own timeline:
+
+- **The hippies arrive (~1972) and the beach happens (1978) under a trusteeship
+  administration.**
+- **Roman's land deal straddles independence**, which produced a gap rather
+  than a dispute. The ground transferred under an administering power the
+  islanders had not consented to, and **the state that could have pressed [the
+  human clause](#the-stations-fracture) did not exist yet.** By the time it did,
+  the land was long gone and the promise was a courtesy nobody was chasing. The
+  island got the worst of both.
+- **Free association means the young can leave.** A passport, a flight, and
+  work abroad — which is the legal mechanism behind [symbiotes dying back in
+  atomised, mobile
+  populations](ECOSYSTEM.md#the-regulator-is-social-not-geographic). The
+  organism's decline here has a *statutory* cause.
+
+##### What to research, since it is now researchable
+
+Austronesian kinship and clan structure; customary land tenure and how it
+collides with registered title; Spanish mission history in the Pacific; the
+German and Japanese administrations; trusteeship-to-independence land law;
+Catholic syncretic practice in the region.
+
+> **Name the influences, invent the specifics.** Vagueness is not respect — it
+> produces generic islanders. A named region with invented particulars is both
+> more honest and more writable than an unplaceable one.
+>
+> And **do not map the island onto a living community.** The composite is the
+> point: it is why this can be researched properly without being *about* anyone.
+
+##### Three consequences for the existing cast
+
+- **The old priest's diocese is real and regional**, not a local eccentricity.
+- **[The young priest](#the-young-priest) is foreign to the region**, not merely
+  to the island — which is why [his signature never
+  resolves](ECOSYSTEM.md#a-foreign-signature-does-not-resolve).
+- **The matriarch's role sits in a tradition that survived by looking
+  Catholic**, which is what the documents already say about [the
+  society](#he-heads-the-society-and-its-core) — now with a history under it.
+
 #### The research station
 
 **Interdisciplinary**, and here to study the island: its ecology, its history,
@@ -90,7 +169,7 @@ unclassifiable fossil are all *already inside somebody's job description*. No
 one has to stumble onto them.
 
 > **And the remit is not an accident.** [The developer pushed the station into
-> existence](#then-the-developer-heard-about-it) **as an instrument for
+> existence](#then-the-developer-heard-about-it-on-a-beach) **as an instrument for
 > investigating the island's myths**, with an institution's respectability over
 > the top. The myth clause was the point; the ecology and the marine work are
 > what made it fundable. The scholarships and the research quota belong to the
@@ -181,6 +260,105 @@ Implications:
 - pressure is claustrophobic rather than epic — the right register for this
 - **the end date is public.** Everyone is counting down, for their own reasons
 
+### The chronology
+
+**The game is set in 2009.** Everything else hangs off that and off [the
+beach](#then-the-developer-heard-about-it-on-a-beach), which is **1978**.
+
+| year | |
+|---|---|
+| ~**1920** | **Sonia**, Roman's mother, born in Czechoslovakia |
+| **1939** | Czech universities closed by the Nazis — her education stops for six years |
+| **Aug 1948** | **VASKhNIL.** Mendelian genetics outlawed across the bloc — three weeks before the congress |
+| **1947** | **Roman** born in Prague |
+| **1947–48** | **Thomas** does his CIMA fieldwork in the Trust Territory, under Navy contract |
+| **1949–early 50s** | he writes it up — in Chicago, with Sonia and a small Roman |
+| **Aug 1948** | **Wrocław.** She interprets for the Czechoslovak delegation and meets **Thomas** |
+| **1948–49** | she leaves with Roman. **His biological father stays** |
+| **1958** | the matriarch's elder brother born |
+| **1961** | **the matriarch** born |
+| **~1972** | the hippie colony establishes itself — **before Roman** |
+| **1970** | **Nicclas** born |
+| **1978** | **the beach.** Roman 31, the brother 20, the matriarch 17. Roman's wife is already pregnant |
+| late **1978** | **Aurora** born |
+| **1981** | **Maximilian** born — three years *after* the break |
+| **~1989** | the director begins investigating in earnest |
+| **2007** | **Roman dies suddenly, at 60** |
+| **2009** | the game. The eclipse |
+
+#### Why 2009
+
+**Before ubiquitous smartphones.** No pocket cameras on every tourist, no mobile
+internet on a remote island, no instant verification of anything. The station's
+isolation, the folklore's unprovability and the impossibility of simply
+*looking something up* are all era facts rather than contrivances.
+
+**The real anchor is 22 July 2009** — the longest total eclipse of the century,
+6m39s, its track running from India across China and out over the Pacific past
+the Ryukyus, Iwo Jima, the Marshall Islands and Kiribati. **The island itself
+stays fictional and unlocated**; the eclipse is borrowed for its date and its
+duration, not to place anything on a map.
+
+> **[proposal] Borrow *makatea* geology regardless of the year.** A raised
+> fossil-coral limestone rim around a volcanic interior — Mangaia in the Cooks
+> is the type case. It is the one tropical island form that gives **both** a
+> fossil-bearing rock and real elevation, where atolls give neither and volcanic
+> islands give only the hill. Raised coral islands with guano deposits are also
+> the **phosphate** islands, which makes [phosphatic
+> shells](ECOSYSTEM.md#what-they-are-made-of) geologically coherent rather than
+> convenient.
+>
+> Note that **[the totality cluster](ECOSYSTEM.md#how-symbiotes-persist-between-eclipses)
+> is invented** and no real location supplies it.
+
+#### Names and ages in 2009
+
+| name | who | age |
+|---|---|---|
+| **Nicclas** | the eldest son | **39** |
+| **Aurora** | the middle child — [the hotel owner](#the-hotel-owner) | **30** |
+| **Maximilian** | the youngest — [the event](#the-event) | **28** |
+| | the matriarch | **48** |
+| | her elder brother | **51** |
+| | Roman, had he lived | 62 |
+
+> The rest of the documents still use role labels (*the matriarch*, *the
+> director*, *the finder*). **[open]** whether to do a full naming pass; the
+> islander cast has no names yet, and naming the coloniser's family first is a
+> choice worth making deliberately rather than by accident.
+
+#### What the dates do
+
+- **Roman died at 60, two years ago** — sudden, early, and with decades of work
+  toward this eclipse unfinished. Not a distant founder: **people on this island
+  drank with him**, and the estate is barely settled.
+- **Nicclas is the only sibling who remembers before.** He was 8 in 1978, old
+  enough to register that something changed and too young to understand what.
+- **Maximilian was born into the aftermath.** 1981 — he has never known a
+  version of this family that was not at war with the island.
+- **The cabinet changed hands inside living memory**, twice: out of the clans
+  across the late seventies and eighties, into Aurora's house in 2007.
+- **Aurora was in utero during the affair.** Her mother was pregnant with her
+  while Roman was on that beach — and **the woman he was seeing is the woman
+  whose household later raised her.** The matriarch was in her twenties when
+  that began. **[open]** whether Aurora knows any part of it.
+- **The matriarch is 48**, not an elder stateswoman. Mid-career, still fighting,
+  decades ahead of her — which is the right register for [three
+  fronts](#three-fronts).
+
+> **A fact the text must know it is depicting.** Roman was 31 and the matriarch
+> was 17. That is not an affair between equals and it should not be written as
+> one — not as tragedy, not as romance, and not with the fourteen years left for
+> a reader to notice unaided.
+>
+> It also complicates the ledger. *Everything she is accused of is partly true*
+> holds for the adult she became, and **the thing she is most entangled in
+> happened to her as a child.** Both at once, with nobody on the island
+> adjusting for it, including her.
+>
+> Her brother was 20, which is less stark and still an imbalance, and the room
+> was Roman's long before either of them walked into it.
+
 ### The opening
 
 > **Resolved.** `story.ink` — Astrid and Clement at the crater — is the first
@@ -229,8 +407,8 @@ was a meteor.
 ##### The loop that closes on the developer
 
 The land deal that put islanders inside the station was **his** design — he
-needed islander knowledge in the building. It worked, twenty-odd years after he
-died, in exactly the way he intended and on nobody's schedule:
+needed islander knowledge in the building. It worked **two years after he
+died**, in exactly the way he intended and on nobody's schedule:
 
 > **The instrument he built to find the thing found it, and the institution he
 > founded to look for it laughed at the only person who was looking.**
@@ -348,6 +526,34 @@ few, and the quota sat politely unfilled.
 
 > **This year, for the first time, every reserved post is occupied.** The
 > youngest cohort of a decades-old promise arrived all at once.
+
+#### Why all at once, and why now
+
+Not a coincidence — **a cohort effect.** A scholarship pipeline takes fifteen to
+twenty years to produce its first research-grade output, and this is the year it
+did:
+
+```
+early 1980s   the deal, under trusteeship
+mid-1980s     independence; the new state reviews inherited obligations
+late 1980s    the scholarship clause implemented for the first time
+1990s         the first funded cohorts through secondary school
+2000s         through university, and postgraduate work
+2009          enough qualified islanders exist to fill every reserved post
+```
+
+##### Which sharpens the fracture rather than excusing it
+
+If that is the mechanism, then **for two decades the merit objection was true.**
+There genuinely was nobody qualified, and saying so was not prejudice.
+
+> It stopped being true recently, and the people making the argument have not
+> updated. **Their objection curdled into a reflex while they were not
+> watching.**
+
+Considerably more uncomfortable than bigotry, and it is what makes [the mockery
+of the finder](#she-was-waiting-for-it) legible: she is in a building where a
+formerly honest position has gone stale and nobody has noticed.
 
 ### What that cost, and who paid it
 
@@ -487,7 +693,7 @@ went to **two** people:
 
 | | got | and did |
 |---|---|---|
-| **[the eldest son](#the-eldest)** | the blood, the money, the confidences of a childhood | read the lore for its orgies and planned a party |
+| **[Maximilian](#maximilian-the-youngest)** | the blood, the money, the confidences of a childhood | read the lore for its orgies and planned a party |
 | **the director** | the friendship of an adult, and an institution | **spent twenty years investigating it properly** |
 
 > **Each almost certainly believes he is the real heir to it**, and each is
@@ -699,7 +905,7 @@ Two are already written; the rest sketch themselves.
 | faction | the conflict |
 |---|---|
 | **the church** | the two priests — already built |
-| **the developer's family** | the dead father, the [eldest son who was made to carry him](#the-eldest), the daughter who was not — already built, and the bitterest version |
+| **the developer's family** | the dead father, [the youngest who was given everything](#maximilian-the-youngest), the eldest who walked out, the daughter who was neither — already built, and the bitterest version |
 | **indigenous** | [the matriarch](#the-matriarch) holding caution and tradition against younger confrontation — and the fracture of those co-opted into the cult. **The sharpest version, because the rite's inclusiveness is itself what the young are rejecting.** |
 | **the station** | seniors whose careers rest on a compromised facility against juniors who know how it was built — **and crossing it, [the islander/international split](#the-stations-fracture)**, which is this year's and still bleeding. [The director](#the-director) is the hinge of both |
 | **the hippies** | original settlers against whoever came after, or against their own children |
@@ -797,44 +1003,91 @@ are](#the-cult-is-the-same-rite-badly-inherited).
 > worked so well that most of its present membership has no idea what it is
 > camouflage for.
 
-#### Then the developer heard about it
+#### Then the developer heard about it, on a beach
 
-Two centuries later, **the developer had an affair with the shaman's daughter**,
-and she told him some of what she had been taught by her mother.
+Two centuries later, and not from a book or a rite.
 
-He became obsessed. He began **acquiring shells from the clans** — by purchase,
-by swindle, by bribery, and by threat, over years, with the leverage of a man who
-owned a great deal of the island.
+**A small colony of ex-hippies and assorted nonconformists was already here**
+when he began building — settled on the sand, and supplying the island with
+drugs. Their encampment was a short walk from his site, and **he walked over
+regularly**: to stock up, and to stay. Beers, joints, hours of it. He liked them
+and they liked him.
 
-> **That is [the break](#the-stations-fracture).** Not a disagreement about land
-> or money. He took the clans' gods out of their houses, one at a time, and put
-> them in a cabinet.
+**And a group of island teenagers had fallen in with them.** Local plants and
+knowledge going one way, imported chemicals going the other, and myths,
+cosmology and teaching moving in both directions along with everything else.
 
-And it is why he pushed to found [the research station](#the-research-station):
-not as philanthropy and not as a marine laboratory, but **as an instrument for
-investigating the island's myths**, with the respectability of an institution
-over the top of it. The scholarships and the research quota for islanders were
-part of the same design — he needed islanders *inside* it.
+> **The ethic of the encampment was exchange.** That is what it was *for*. Nobody
+> in it was disclosing anything, because nobody in it thought anything was
+> secret.
 
-> **He worked toward this eclipse specifically, for decades, and died too early
-> to see it.** The institution he built to find the thing is still running, under
-> a director who inherited the project without necessarily inheriting its
-> purpose.
+##### The eldest son of a shaman
 
-> **[open] Is the shaman's daughter [the matriarch](#the-matriarch)?** The
-> timeline permits it. If she is, the dispossession began with something she
-> said, and her [three fronts](#three-fronts) acquire a fourth that is entirely
-> interior. It is the strongest version and it is not the only one — the
-> alternative is a sister or an aunt, dead or estranged, which keeps the
-> matriarch's authority uncomplicated and costs the story its best knot.
+The teenagers adored the developer — worldly, funny, clever, interested, and from
+somewhere else. **The shaman's eldest son most of all**, who was seduced by
+exactly those things and who became, without anybody using that word, the
+channel.
 
-> **Craft liability.** *Native woman betrays her people through a romance with
-> the coloniser* is a trope with a long and ugly history — Malinche, Pocahontas.
-> Avoiding it is not a matter of softening her. She needs **her own reasons,
-> legible and not naive**: she may have been trading, or testing, or seeking an
-> ally against someone else on the island, or simply in love with a man who then
-> did something she did not predict. What she must not be is a conduit. **He took
-> more than she gave**, and the gap between those two is where her character is.
+He told him what he had been taught. Over years, in pieces, at night, to a man
+who listened properly and asked good questions.
+
+> **He was not betraying his tradition. He was proud of it.** A teenager handed a
+> context in which his own inheritance looked *interesting* rather than
+> obligatory, showing it off to the one adult who seemed to find it worth
+> knowing. **He was being generous**, by the rules of the only room he was in.
+
+That is where the knowledge went. Not through a romance, not through the
+society, not through a theft — through a boy who liked a man and had something
+good to share.
+
+##### His younger sister
+
+**She was in the same group**, and she and the developer had a short, very
+intense affair. It ended abruptly, when everything else did.
+
+It is a real fact about her and about him. **It is not the mechanism.** Nothing
+was transmitted through it that was not already moving freely around a campfire,
+and the story must never let it read as though something was.
+
+##### And then it soured
+
+Not in a moment. Over a season or two, as **the scale of his building plans
+became clear** and, alongside them, **the methods he had begun using to acquire
+shells** — purchase first, then swindle, then pressure, then threat.
+
+> **The group dissolved the way such groups do**, badly and without a final
+> conversation. The affair ended inside that collapse rather than causing it.
+
+> **[proposal, strong] The matriarch is the younger sister.** The age fits, and
+> the docs already give her *[a prior connection with the
+> developer](#three-fronts)*. If she is, then her authority sits on top of her
+> own history with the man whose daughter she later raised — and **everything she
+> is accused of is partly true** becomes exact rather than atmospheric.
+>
+> **And the line skipped her brother.** He was the heir. He is still alive, in
+> his sixties, on this island, and his younger sister holds the role that was
+> his — because of what he gave away at seventeen to a man who was charming to
+> him. He has had forty-five years to think about it.
+
+> **Craft note, replacing the Malinche caution.** The liability was never the
+> affair; it was an affair *functioning as the breach*. It no longer does. What
+> needs care now is the brother:
+>
+> - **He is not weak and not a sellout.** He was a kid in a scene built on
+>   sharing, being taken seriously by an adult for the first time.
+> - **He is not the villain of the dispossession.** The developer did that, over
+>   decades, deliberately, with money and leverage. The boy gave him a reason to
+>   start looking.
+> - **He must not spend the game in penance.** Forty-five years is long enough to
+>   have built a whole life on the other side of it.
+
+##### The hippies were the medium, and do not know it
+
+[The founders still on that beach](#the-old-hippies) convened the room where this
+happened. Some of them were *there*. They remember it as a good few years.
+
+> They are the only living witnesses to the origin of everything on this island,
+> and they witnessed it as a party.
 
 ### Their myths are the most accurate account on the island
 
@@ -951,7 +1204,7 @@ a single body and the role is not the community's leadership.
 |---|---|
 | **political** | She negotiates constantly with the other factions' elders — the developer's circle, the church, the station, the hippies' founders — over land, access, permits, the eclipse itself. She is outmatched in every room and goes into them anyway. |
 | **social** | She leads by holding a culture whose nature is harmonisation and community, and she has to justify that to [the young](#the-generational-axis), who are done with it. Against the daily inventory of injustice, "we keep the community whole" sounds to them like a counsel of surrender. **She cannot fully answer them, because they are not wrong.** |
-| **personal** | She is entangled with one of the island's major neo-colonial forces in several ways at once — the prior connection with the developer, the years she gave his daughter, the household that kept his family's confidences. Everything she is accused of is partly true. |
+| **personal** | She is entangled with one of the island's major neo-colonial forces in several ways at once — **[the affair, at nineteen, on that beach](#his-younger-sister)**, the years she later gave his daughter, the household that kept his family's confidences, and **[a brother who is still alive and was the heir](#and-then-it-soured)**. Everything she is accused of is partly true. |
 
 ##### The political front is an ordinary exclusion, with one thing hidden inside it
 
@@ -1347,6 +1600,398 @@ knowing what it was.
 
 Daughter of a powerful New York real-estate developer.
 
+#### Roman, before the island
+
+> **Names provisional:** *Sonia*, his mother; *Thomas*, the American who became
+> his stepfather. His biological father is unnamed and probably stays that way.
+
+##### Her subject, and the month it was abolished
+
+She was reading **evolutionary biology** — which in the summer of 1948 stopped
+being a field she could work in.
+
+> **31 July – 7 August 1948: the VASKhNIL session in Moscow.** Lysenko announces
+> that Michurinist biology is official doctrine and **Mendelian genetics is
+> outlawed.** Soviet geneticists are purged, recant or change subject, and the
+> decree is binding across the bloc. Hermann Muller resigned from the Soviet
+> Academy over it that year.
+
+**Wrocław is three weeks later.**
+
+> **Three weeks before she met him, Moscow abolished her subject.**
+
+Which locates her anti-communism in her discipline rather than in inherited
+grievance: **the state told her that the thing she knew to be true was false,
+and made saying so a career-ending act.** For a geneticist in 1948 that is the
+most legible anti-communism available, and it is exact.
+
+She is not leaving a country. **She is leaving a place where her work is now
+illegal.**
+
+##### Wrocław, August 1948
+
+The **World Congress of Intellectuals in Defence of Peace** — 25–28 August 1948,
+385 delegates from 38 delegations, organised jointly by Poland and the USSR.
+Czechoslovakia sent 24. The United States sent 32. Julian Huxley chaired a
+session and wrote afterwards that there had been "no discussion in the ordinary
+sense of the word"; several Western delegates walked out of Fadeyev's speech
+attacking American decadence.
+
+**Sonia was not a delegate. She was an interpreter.**
+
+| | |
+|---|---|
+| **why her** | pre-war Czech education means German, Russian, probably French and English. Support staff are easier to include than delegates and draw less attention |
+| **why she was trusted to return** | **she had a one-year-old at home.** The child is the surety, and everyone involved understood that |
+| **what the job did** | four days as the voice between delegations. **An interpreter hears everything and is counted as nobody** |
+
+She was already six years behind where she should have been — Czech
+universities were **closed by the Nazis from November 1939**, so she entered
+around 1938, lost the war, and resumed in 1945. In August 1948 she is **28 and a
+final-year student**, which is old for it, and which is the wound.
+
+> **She met Thomas across a table, professionally, for four days.** Whatever
+> happened there happened in the open, in two languages, while she was working.
+
+##### The congress is the meeting. It is not the departure
+
+**Roman was in Prague**, which rules out defecting from the delegation. She went
+home.
+
+What followed was **months** — correspondence, arrangements, other people's
+help and other people's exposure — and then she left, in late 1948 or 1949, with
+a toddler.
+
+> **Which makes his staying a decision, not an abandonment.** The biological
+> father had the whole of that time to choose, probably more than once, and
+> chose Prague. **[open]** why: parents who could not travel, a belief it would
+> pass, a political conviction that made it a rupture inside the marriage, or
+> simply not believing she would actually go.
+
+##### What it cost the man who stayed
+
+In 1948–49 Czechoslovakia, **being the husband of a defector is catastrophic** —
+surveillance, a destroyed career, and worse once the trials start. Milada
+Horáková was executed in 1950; Slánský in 1952.
+
+> **Writing to him would have been dangerous for him.** The silence is partly a
+> kindness, and nobody can ever be certain how much of it was.
+
+##### Her American career
+
+She arrives around 1949, into **very good timing** — Avery in 1944, Hershey–Chase
+1952, Watson–Crick 1953, and NIH money expanding fast. Émigré scientists with
+political complications did succeed; Salvador Luria was blacklisted and
+passport-denied in 1952 and a Nobel laureate later.
+
+The obstacles are not ideological. They are worse than that:
+
+| | |
+|---|---|
+| **being a woman** | **anti-nepotism rules** barred wives from employment at their husband's institution — widespread, documented, career-ending. Women were confined to research-associate and soft-money posts. Barbara McClintock, the best American geneticist of the era, spent her career in a non-faculty position |
+| **credentials** | an interrupted Czech degree, probably not recognised. She redoes graduate work in her thirties |
+| **language** | accented English, and publishing in a second one |
+| **origin** | FBI interest, visa scrutiny, the McCarran Acts of 1950 and 1952 — real, and sharpest from 1950 to 1954 |
+
+> **She is welcome as a witness and not as a colleague.** An articulate Czech
+> refugee geneticist who can testify to what Lysenkoism did to her field is
+> *useful* — to foundations, to committees, to the Cold War. **Being valuable as
+> an exhibit is not being hired.**
+
+> **Note what is not an obstacle.** Anti-communism was the *safe* position in
+> American academia between 1949 and 1956 — the loyalty-oath years, when the
+> University of California dismissed 31 faculty over an oath. And in genetics
+> specifically, anti-Lysenkoism was the mainstream view, so her position is a
+> credential. The academic left revival that would have made her awkward is
+> **the 1960s**, by which time she is in her forties and established.
+
+##### The letter, and the ten-year burrow
+
+**Tough as nails**, and worth being precise about: she expected hard work and
+ambition from her son, loved him utterly, and backed him without conditions.
+Demanding *and* unconditional, which is a specific thing to be — and which
+produces a man with enormous self-belief who was never once required to doubt
+himself.
+
+**She writes to Dobzhansky early**, not to ask for anything — **to tell him he
+is wrong about something.** A technical point in one of his papers. That is how
+she gets noticed: a letter from an unplaceable Czech woman with no position, and
+the training visible in every line of it.
+
+> Theodosius Dobzhansky, Columbia 1940–62, Russian émigré, architect of the
+> modern synthesis, and a prominent voice on what Lysenko had done to Soviet
+> genetics. **He was famously generous with correspondence and with young
+> scientists**, and he would have recognised what was behind that letter
+> immediately.
+
+He encourages her, and helps her work out how to patch the missing credentials —
+**evening courses**, taken against the steady resistance of the local biology
+department. The resistance is entirely banal: she lacks the prerequisites, nobody
+knows what a Czech degree means, there is no funding line.
+
+**Thomas gets her in as a lab assistant**, which is grimly exact: a technician
+post was frequently the *only* position [the nepotism
+rules](#the-marriage-ends-and-they-stay-close) left open to a professor's wife.
+It is the reason so many scientific wives of that generation were technicians.
+
+Then **a decade.** Work, brilliance, and a refusal to back down, until she has
+burrowed her way from the bench into the department as an actual researcher.
+Arriving around 1949, that puts her there around 1960 — **aged forty, with
+Roman thirteen.**
+
+She meets Dobzhansky a handful of times — Cold Spring Harbor, Genetics Society
+meetings — and corresponds with him occasionally for the rest of her life. *(He
+died in 1975, so that correspondence ends three years before the beach.)*
+
+> **[open] Is Sonia alive in 2009?** She would be 89. If she is, she is **the
+> only living person who knew Roman before he was Roman** — and she is Aurora's
+> grandmother, which makes her reachable.
+
+###### What Roman took from it, and what he did not
+
+**He watched a decade of relentlessness against legitimate obstacles, and never
+faced one himself.** US passport, a professor stepfather, Chicago. He inherited
+the quality and never inherited the context for it.
+
+> **She refused to be told no by institutions that could have stopped her. He
+> applied the same refusal to people who had no way to resist him.** The same
+> trait, in two situations that have nothing in common.
+
+And note what the household's founding wound actually was:
+
+> **Being disbelieved about biology.** His mother was driven out of a country
+> for insisting that a biological truth was true against a state that said
+> otherwise. Roman grew up with that as the family's central grievance — and
+> ended his life pursuing a biological truth that no institution would credit.
+
+##### What they could not agree about, which was not communism
+
+They agreed about communism entirely. **They fought about America.**
+
+| | |
+|---|---|
+| **Sonia** | went **all in**, the way many of that emigration did. The state had told her that biology was ideology and taken her field; this country let her work. Her evidence is personal and incontrovertible |
+| **Thomas** | **a Depression childhood**, and then a career documenting what unfettered capitalism does to people who cannot leave. His evidence is professional and incontrovertible |
+
+**He is not anti-American, and that is the point.** He is **deeply patriotic** —
+a believer in the American ideal of freedom *and responsibility* — who is also
+unable to stop seeing that the field is rigged by design. That is a New Deal
+liberal, which is the ordinary politics of his whole professional generation,
+not a radical position.
+
+Which makes the argument harder rather than easier:
+
+> **She believes America kept its promise to her. He believes America has a
+> promise and is breaking it for almost everyone else.**
+>
+> Neither is attacking the country. They are arguing about whether the exception
+> proves the rule or disproves it — and **her life is the counter-example to his
+> thesis, sitting at his table every evening.**
+
+**The Depression is generational trauma, not biography.** Born around 1912, so
+he is a young man at the worst of it: a family losing something, the specific
+shame of experiencing a systemic collapse as personal failure, and probably
+relief work or a state school as the only route through. That profile — first in
+the family to go, Depression-formed, New Deal in politics, wartime service, a
+career spent studying what he escaped — is the standard one for American social
+scientists of his cohort.
+
+**And they cannot be frightened by the same thing.** She fears the state,
+because it took everything. He fears its absence, because he watched the market
+destroy people who had done everything right. A marriage can survive
+disagreement more easily than it can survive that.
+
+And she has a weapon in the argument that he cannot answer:
+
+> **He took the Navy's money.** [CIMA](#proposal-thomas-did-a-cima-season) is
+> anthropology commissioned by a military administration to help it govern a
+> people it had just acquired. He is complicit in the precise thing he
+> critiques, which is the discipline's whole problem, and she can point at it
+> across a kitchen table.
+
+And he did not take it cynically, which is worse. **The United States had just
+assumed responsibility for a hundred thousand people, and he thought somebody
+competent ought to be involved.** That is the characteristic New Deal error —
+believing an administration can be improved by joining it.
+
+> **He is right that it was better than the alternative and wrong that it was
+> not complicity.** A position that cannot be defended and cannot be abandoned.
+
+###### What Roman took from each of them
+
+He sides with his mother, which is overdetermined — she raised him, she loved him
+without conditions, and her account of the world is both simpler and far more
+flattering to a young man.
+
+> **He took his mother's ideology and his stepfather's methods.** He believes in
+> acquisition, and he knows how to sit with people and listen properly to a
+> cosmology he is about to take.
+
+And note what he actually declined, because it was not anti-Americanism — there
+was none in the house:
+
+> **The ideal was freedom and responsibility. Roman took the first word.**
+
+The custody was shared, so he grew up with Thomas's library, his fieldwork and
+his stories — and absorbed the skills while declining the politics.
+
+> **He read his stepfather's fieldwork as a catalogue, not as a critique.**
+
+And the part nobody in the house ever noticed:
+
+> **Thomas's life's work was a precise description of the man Roman became.**
+> Roman grew up hearing it, from someone he was fond of, years in advance, and
+> never once recognised himself in it.
+
+##### The marriage ends, and they stay close
+
+It does not survive — [they could not agree about
+America](#what-they-could-not-agree-about-which-was-not-communism). The custody
+is shared and amicable, Thomas keeps supporting her into American academia, and
+she becomes part of the field as it blossoms.
+
+> **And anti-nepotism cuts both ways.** Married to Thomas she cannot be employed
+> by his institution; divorced, she can. **Not the reason they separate** — but
+> the rule was real and bit couples constantly, which gives the amicable
+> arrangement an institutional edge underneath it that neither of them would ever
+> say out loud.
+
+##### [proposal] Thomas is an anthropologist
+
+Not documented at Wrocław — the sources name writers, artists, scientists and
+politicians without a discipline breakdown — but the connective tissue is
+**UNESCO**, and it is strong. Huxley was its first Director-General and chaired
+there; UNESCO's race programme was being assembled in exactly these years, with
+the Statement on Race following in 1950. American anthropologists of the
+anti-racist left were squarely in this milieu.
+
+Two things it buys:
+
+- **It explains the one capability the story needs Roman to have.** He grew up
+  watching an adult take other people's cosmologies seriously as objects of
+  study. **He learned to listen like an anthropologist and act like a
+  developer** — which is why [the shaman's eldest son
+  opened up](#the-eldest-son-of-a-shaman). The interest was genuine and trained,
+  not a technique.
+- **It explains the shape of his obsession.** When he became fixated, his
+  instinct was to [found an institution to study the island's
+  myths](#the-research-station), because that was the form of attention he had
+  been raised to think legitimate.
+
+> And it puts **anthropology's own extractive problem inside the family**, which
+> the research-ethics thread can use without anyone stating it.
+
+##### Chicago
+
+**[proposal] The University of Chicago**, which is the one choice that satisfies
+every constraint at once:
+
+| | |
+|---|---|
+| **for Thomas** | **Robert Redfield** was dean of the social sciences and a major internationally-engaged figure — intercultural relations, the postwar "study of man," the UNESCO-adjacent profile exactly. With Sol Tax and Fred Eggan, one of the two or three great departments |
+| **for Sonia** | **Sewall Wright** was at Chicago from 1926 into the mid-1950s — one of the three founders of population genetics, which is *precisely* the Mendelian field Lysenko abolished. **She lands in the exact subdiscipline she was driven out of** |
+| **for the Czechs** | **by far the largest community in America.** Pilsen — named for Plzeň — with Cicero, Berwyn and "Czech California." At its peak Chicago held the third-largest Czech population of any city after Prague and Vienna |
+| **for her position in it** | the post-February-1948 political emigration is an identifiable cohort with its own organisations and its own bitter internal arguments. **A woman who left her husband behind sits awkwardly in it** |
+
+So Roman grows up in Chicago, in a Czech-speaking household inside a
+Czech-speaking neighbourhood, with an American stepfather at the university.
+
+See [the letter](#the-letter-and-the-ten-year-burrow) for how she gets out of
+the neighbourhood and into the department.
+
+##### [proposal] Thomas did a CIMA season
+
+The **Coordinated Investigation of Micronesian Anthropology**, 1947–49:
+**42 anthropologists from 22 institutions**, funded by the Office of Naval
+Research through the National Research Council's Pacific Science Board, surveying
+the newly acquired **Trust Territory of the Pacific Islands**. Called the largest
+research project in the discipline's history.
+
+Twenty-two institutions means a Chicago anthropologist fits without strain.
+
+###### The phasing
+
+Sources vary on the span — Murdock's foreword says 1947–48, the Goodenough final
+report describes fieldwork through 1949 — which gives three phases that sit very
+usefully against the marriage:
+
+| phase | when | where they are |
+|---|---|---|
+| **fieldwork** | 1947–48 | **before Wrocław.** He is home by August |
+| **writing up** | 1949 into the early 1950s | **Chicago, with Sonia and a small child** |
+| **the orbit** | through the 1950s | Pacific Science Board follow-on programmes, the HRAF Micronesia files, district-anthropologist advising |
+
+So she does not arrive after it. **She arrives into the middle of it** — her
+first American years spent beside a man processing an archipelago at the dining
+table, in a language she is still learning, while [her own field is closed to
+her](#her-american-career).
+
+And Micronesia is in the house while Roman is a toddler, not a story told later.
+
+> **By the time Roman is choosing where to go, the Pacific is simply the
+> family's territory.** Not a discovery. An inheritance.
+
+*(The Navy handed Trust Territory administration to the Department of the
+Interior in **1951**, so the Navy-contract flavour is sharpest 1947–51 and then
+softens into civilian administration.)*
+
+Two things it buys:
+
+**It gives Roman the Pacific, without contrivance.**
+
+> **His stepfather surveyed the Trust Territory for the Navy.** Roman grew up
+> with the maps, the reports and the photographs — they were in the house, and he
+> could have read them as a teenager. When he went looking for somewhere to
+> build, **he went where the household's expertise already pointed.**
+
+**And it makes Thomas's McCarthy problem concrete and self-contradictory:**
+
+> **A Navy contract and a Wrocław attendance on the same record.** Months of
+> military-adjacent survey work in newly acquired American territory, and then a
+> Soviet-sponsored peace congress. Very 1948, and it leaves him compromised in
+> both directions at once.
+
+Which is the right texture for a man whose defector wife is also his political
+cover. It also puts **anthropology commissioned by a military administration to
+help govern a people it had just acquired** inside the family — the extractive
+problem in its most documented form, available to the research-ethics thread
+without anyone stating it.
+
+##### The household
+
+Thomas attended a Soviet-sponsored peace congress in 1948. That is on a file
+somewhere, and by 1950–54 it is a career problem and possibly a passport one.
+
+> **Sonia's anti-communism is entirely sincere and it is also the family's
+> cover.** A defector wife is the best available proof that her husband is not a
+> fellow traveller. Those two facts never have to be separated, and nobody in
+> the house ever separates them.
+
+So Roman grows up where politics is existential, his mother's position is
+absolute and unexaminable, and the family's safety depends on the story holding.
+
+##### What he actually inherited
+
+**He was one year old.** Everything he knows about his father, the country and
+why they left comes from the only person who could tell him — and she had every
+reason to build a version in which it was necessary.
+
+> **He inherited an account, not a memory.**
+
+Which is the same thing he later does to his own son: [hands Maximilian a
+version of things and dies before finishing the
+explanation](#maximilian-the-youngest). Not irony imposed on the family — one
+mechanism, one generation apart.
+
+And it is where the motive comes from, which is not greed:
+
+> **His mother lost everything to a state. He spent his life acquiring things no
+> state could take** — and then did to a clan precisely what had been done to
+> her.
+
+He never saw it. **The dispossession he was raised on is the only one he can
+recognise.**
+
 #### Her father, and what he left on the island
 
 Through shady dealing he acquired protected coastal land and spent decades
@@ -1371,7 +2016,7 @@ from resolving into clean opposition: islanders are inside the developer's
 structure, complicit and benefiting.)
 
 > **But he did not lose interest in the island.** He had stopped caring about
-> the resort. [After the affair and what he was told](#then-the-developer-heard-about-it)
+> the resort. [After the affair and what he was told](#then-the-developer-heard-about-it-on-a-beach)
 > the development was only ever the lever: land, roads, power, a government
 > contract, and a research institution with the island's myths written into its
 > remit. **The property empire was scaffolding for a search**, and the people
@@ -1414,7 +2059,7 @@ Three consequences:
   the answer is no.** His membership stays ordinary and his daughter inherits a
   membership card, socially real and spiritually empty. **This is now load-bearing
   rather than a preference:** what he learned came from [one conversation with an
-  islander](#then-the-developer-heard-about-it), not from the society — so **the
+  islander](#then-the-developer-heard-about-it-on-a-beach), not from the society — so **the
   colonial establishment's own cult knew less than one woman did**, which is the
   correct ordering and would be spoiled by initiating him.
 - **"With exceptions" is co-option.** Those exceptions are almost certainly the
@@ -1474,7 +2119,7 @@ instinct nor **her father's ruthlessness** in handling his old associates. Most
 of the inheritance is gone, the land heavily mortgaged, little to show.
 
 **The super-exclusive eclipse party was her [obnoxious
-brother's](#the-brothers) idea**, and he supplied the first guests — two
+brother's](#the-siblings) idea**, and he supplied the first guests — two
 Californian crypto bros. The list has grown to twelve. It is her last chance to
 turn the business around and stay on the island she feels bound to.
 
@@ -1580,7 +2225,7 @@ inherited the wreckage:
 | **the cult** | her father's membership, however loosely it transfers |
 | **the symbiote network** | hers came from the matriarch's household and is fully resolved |
 | **the shells themselves** | [the anchors are in her cabinet](#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye) — possibly including her own symbiote's |
-| **[her brother](#the-brothers)** | he manufactured the failure, supplied the guests, and is using her venue |
+| **[her brother](#the-siblings)** | he manufactured the failure, supplied the guests, and is using her venue |
 
 A lot of load for one character, but coherent rather than contrived: she is the
 hub precisely because she is the one left holding what he built.
@@ -1610,39 +2255,73 @@ a dozen rich people and everyone they have arranged to have there.
 **She has been told a guest number and is hosting an event.** The gap between
 those two facts is most of her character's arc.
 
-### The brothers
+### The siblings
 
-**Three children, not two.** The eldest, a middle brother, and [the hotel
-owner](#the-hotel-owner), who is much the youngest.
+**Three children.** [Nicclas](#the-chronology) the eldest, [Aurora](#the-hotel-owner)
+in the middle, [Maximilian](#maximilian-the-youngest) the youngest.
 
 | | |
 |---|---|
-| **the eldest** | runs most of the father's empire. Groomed for it from childhood. The subject of this section. |
-| **the middle** | bought out by the eldest. Keeps as much distance as he can manage, and is in **occasional contact with his sister, of whom he is fond.** |
-| **the sister** | came away from the inheritance fight with the island holdings — the most commercially fragile part of the estate. |
+| **Nicclas**, 39 | **The heir apparent, who turned away.** A clash with his father, serious enough to end the relationship. Keeps as much distance as he can manage and is in **occasional contact with Aurora, of whom he is fond** |
+| **Aurora**, 30 | **Loved and neglected.** Came out of the succession with the island holdings — the most commercially fragile part of the estate |
+| **Maximilian**, 28 | **The one Roman made time for.** Runs the empire. The subject of this section |
 
-#### The eldest
+#### What Roman intended, and what happened instead
 
-**He was the successor from the beginning**, trained harshly, carrying the full
-weight of his father's expectations for his entire life. He did the work. He is
-extremely good at it. The empire is intact because of him.
+He meant **Aurora and Maximilian to inherit it together** — his two remaining
+children, both imperfect, when they were ready. He never said when that would be
+and never wrote it down properly, because he was 60 and in no hurry.
 
-He **despises his younger siblings** — the sister most, because she is so much
-younger and had the easiest ride of all — and he **pities them**, genuinely and
-without contradiction, for their lack of ambition, competence and ruthlessness.
-Both feelings are sincere and he holds them at once.
+> **Then he died, suddenly, and Maximilian took it.** Easily, and within months.
+> It was not a fight Aurora lost. **It was a fight she did not know she was in
+> until it was over**, two years ago.
 
-> **He is not a caricature and the standing rule applies to him hardest.** Write
-> the scene where he explains what it cost to be the one who had to be capable,
-> to a sister who got the island and resents him for everything else. **He is
-> right about the facts and monstrous about the conclusion**, and the scene must
-> let him be right.
+And *easily* is the whole point. He did not out-think her. He was **already in
+the room** — closer to the lawyers, the accountants, the staff and the files,
+because he was the one Roman kept beside him.
+
+> **The favouritism was not sentiment. It was infrastructure**, and nobody
+> noticed it was being installed.
+
+##### [open] The clash
+
+Nicclas's break with his father is unwritten and load-bearing — it decides
+whether he is the family's conscience or merely its first casualty.
+
+| | |
+|---|---|
+| **he worked out what the collection was** | Old enough to remember the island before, and the heir being brought into the business. Principled, ties him to the centre of the story, and risks making him the clean one |
+| **he was replaced** | He watched his father hand everything to a child born after it all went wrong, and left — **then** built the principled account afterwards. Messier, and keeps him complicit |
+| **both, and he can no longer separate them** | The version worth writing |
+
+#### Maximilian, the youngest
+
+**He was never made to be capable, because he was never required to be.** Roman
+took him everywhere, told him everything, and asked nothing of him. He is 28, he
+runs a business he did not build, and he is not good at it.
+
+> **The sympathy is real and it excuses nothing.** His father was the only
+> person who ever paid him sustained attention, handed him a worldview along
+> with a company, and died at 60 without finishing a single explanation.
+> **Everything he is doing, he is doing for his dad.**
+
+He **resents Nicclas** — who left, and is therefore the only one Roman never got
+to be disappointed in — and he is **genuinely fond of Aurora**, in a way that has
+never once stopped him taking something from her. Both are sincere and he holds
+them at once.
+
+> **The standing rule applies to him hardest.** Write the scene where he lays
+> out why he took it: that Aurora was never going to run it, that the island
+> holdings were a money pit, that *somebody* had to hold the thing together the
+> week their father died. **He is right about the facts and monstrous about what
+> he concluded he was owed**, and the scene must let him be right.
 
 ##### He has been sabotaging her, and she does not know
 
-Through **his father's old local staff** — men he has known since he was a boy
-actively helping run the early building projects, who are loyal to him
-personally in a way they were never loyal to the father.
+Through **his father's old local staff** — men he has known since he was small,
+because Roman took him along to everything. They are not loyal to him for
+anything he has done. **They are loyal because he is Roman's boy**, and because
+he signs the cheques now.
 
 That is a **second shadow power structure on the island**, parallel to [the
 society](#he-heads-the-society-and-its-core) and invisible in the same way: not
@@ -1651,7 +2330,9 @@ matriarch is not in that one either.
 
 > **Her commercial failure is partly manufactured.** She reads it as her own
 > lack of her father's instinct — the self-assessment she already carries — and
-> the truth is that her brother has had a hand on the scale for years.
+> the truth is that her brother has had a hand on the scale. **He is not clever
+> about it.** He does not need to be; the network does the work, which is exactly
+> why she cannot see a hand in it.
 
 **A payload for [information
 brokerage](MECHANICS.md#4-information-brokerage--between-humans):** true, held by
@@ -1659,9 +2340,10 @@ nobody who will ever tell her, and it changes what she does.
 
 ##### He inherited the father's assembled picture
 
-The love/hate with his father was intense and he was **trusted with information
-from an early age** — including the father's fascination with the eclipse events
-and the lore around them.
+He was **told everything from an early age** — including Roman's fascination with
+the eclipse events and the lore around them. Not because he was trusted with it,
+but because he was *there*, for twenty-six years, and Roman liked talking to
+him.
 
 And [the father was uniquely placed](#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye),
 with three independent angles on it:
@@ -1672,11 +2354,13 @@ with three independent angles on it:
 | **close ties to the research station** | the fossils, the anomalies, the eclipse track |
 | **close ties to the [matriarch](#the-matriarch)** | the guardian spirits, the trickster, the ceremony |
 
-> **Whether the father ever assembled them stays ambiguous — but he told his
-> son.** The son assembled it, and reached the wrong conclusion. That resolves
-> the father's ambiguity without spending it, and it puts the only assembled
-> picture on the island in the hands of the person least equipped to be careful
-> with it.
+> **Whether Roman ever assembled them stays ambiguous — but he told his son.**
+> Maximilian assembled it himself, at twenty-six, out of half-finished
+> conversations with a man who then died. He reached the wrong conclusion.
+>
+> That resolves Roman's ambiguity without spending it, and puts the only
+> assembled picture on the island **in the hands of someone trying to complete
+> his father's project without understanding what it was.**
 
 ##### What he took from the lore
 
@@ -1923,7 +2607,7 @@ Three consequences:
   asked, and she has noticed that she is not asking. Innocent makes her a victim
   twice over; fully complicit makes her unusable as the endgame hub. Half is
   both harsher and more human.
-- **[open] What the middle brother is for.** He is the only member of the family
+- **[open] What Nicclas is for.** He is the only member of the family
   with no stake, which is rare in this cast — but *he got out and said nothing
   for twenty years*, which makes his distance a failure rather than a virtue.
   The useful version is a man who could have warned her at any point and chose
@@ -1943,7 +2627,7 @@ outer body with a reason, and a small core with the real one.**
 
 | | **the guests** (outer) | **the core** (inner) |
 |---|---|---|
-| who | twelve or so very rich people | [the brother](#the-eldest) and one or two others |
+| who | twelve or so very rich people | [Maximilian](#maximilian-the-youngest) and one or two others |
 | why they came | **an exclusive eclipse event among their peers.** A rare sky, a private island, the right names on the list | **to engineer one of the legendary nights** out of the lore the brother inherited |
 | what they know | that it will be a very good party | everything |
 | what they do when it becomes obvious | **nothing. They enjoy it.** | it was always the point |
@@ -2114,11 +2798,65 @@ defensible; only the fact that a dozen of them are one project is unstated.
 ### The old hippies
 
 Settled here decades ago, on land they did not have a claim to, in pursuit of a
-paradise they then spent forty years defending against everyone who arrived
-after them — including their own children. The faction table has them wanting
+paradise they then spent nearly forty years defending against everyone who
+arrived after them — including their own children. **They were here before
+[Roman](#the-chronology) was.** The faction table has them wanting
 **paradise preserved *on their terms*** and extracting **belonging in a place
 that is not theirs**, which remains exactly right and is the hardest extraction
 to write honestly, because it is the gentlest and the most sincerely meant.
+
+#### Who they are, and how they got here
+
+**They arrived around 1972**, which is the densest part of the window: after
+Altamont and Manson and Kent State, during the back-to-the-land dispersal, while
+Vietnam was still running and before the draft ended.
+
+Most of the American counterculture went rural *inside* the United States.
+Crossing an ocean needed a reason and a means:
+
+| | |
+|---|---|
+| **a boat** | the most common mechanism — California, Mexico, the Marquesas, onward. People bought boats and went |
+| **charges** | pre-1973 possession penalties were severe enough to make leaving rational |
+| **the draft** | though Canada and Sweden took the overwhelming majority |
+| **the war** | **a great many Americans knew the Pacific because they had been sent there** |
+
+> **[proposal] At least one founder is a veteran.** Someone who came back wrong
+> and went back out to the ocean. It makes the group less of a type, and it ties
+> the counterculture to the war mechanically rather than thematically.
+
+*(The direct precedent is **Taylor Camp** on Kauai — a treehouse village from
+1969 to 1977, started when a landowner bailed out thirteen young people and let
+them camp. The state condemned and burned it. Very nearly this encampment,
+including the ending.)*
+
+##### They walked in legally, which is worse
+
+In 1972 the island is [US trust territory](#proposal-the-region-which-is-bounded-the-island-which-is-not).
+An American could arrive, stay, and never meet an immigration regime at all. No
+visa, nobody to deport them.
+
+> **They did not settle on land they had no claim to by sneaking in. Their
+> presence was lawful — under an administration the islanders had not consented
+> to either.**
+
+And **independence in the mid-1980s changed their status without anyone coming
+to tell them.** They have been there, undisturbed, across two sovereignties.
+
+#### They were present at the origin, and remember it as a good time
+
+Before any of the rest of it, **their encampment was where the developer met the
+island** — see [on a beach](#then-the-developer-heard-about-it-on-a-beach). They
+convened the room, supplied it, and sat in it.
+
+> **The only living witnesses to how this started, and they witnessed it as a
+> party.** Nothing they could tell you would sound like testimony. It would
+> sound like reminiscence about a few good years with some nice kids and a
+> developer who turned out badly.
+
+Which makes them a source the player can reach and nobody on the island thinks
+to ask — including the matriarch, who was there herself and has her own reasons
+not to raise it.
 
 #### They supplied the brother's drugs
 
@@ -2130,13 +2868,15 @@ A lever that is simply the truth: tell them what their supply was for.
 
 #### They are the bridge between the tourists and the island
 
-Nobody else is. They are **white, foreign, and have been here forty years** —
+Nobody else is. They are **white, foreign, and have been here nearly forty
+years** —
 not of the community and no longer of anywhere else. That makes them the only
 group that can plausibly convene outsiders and islanders on the same sand,
 which is the precondition for [the beach
 route](MECHANICS.md#the-other-viable-high-intensity-event-is-the-beach).
 
-> And it is the one occasion where their forty years of **not quite belonging**
+> And it is the one occasion where their nearly forty years of **not quite
+> belonging**
 > turns into a capability. They have spent decades being tolerated by both
 > sides. Here that is worth something.
 

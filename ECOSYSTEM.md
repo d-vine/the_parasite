@@ -1758,7 +1758,7 @@ congregation and the station, and completely mute about the entity.
 
 #### The brother is the human instance of the pattern
 
-**[The developer's eldest son](STORY.md#the-eldest)** does by social power what
+**[Maximilian](STORY.md#maximilian-the-youngest)**, Roman's youngest, does by social power what
 the entity does by biology: reads people, finds what constrains them, reaches
 into a distribution he did not create, and takes.
 

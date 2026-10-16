@@ -269,6 +269,16 @@ belongs.
 
 ### The world
 
+- **The island is invented; the region is fixed** — the western Pacific between
+  the Marianas and the Carolines, with a Spanish mission conversion in the early
+  1700s and four colonial layers after it (Spain → Germany 1899 → Japan 1914 →
+  US trusteeship 1945 → independence in free association, mid-1980s). **Thin
+  administration is why the religion survived**: a mission with no garrison
+  behind it gets absorbed rather than extirpating anything. Research the region;
+  invent the specifics; do not map it onto a living community.
+- **The game is 2009; the backstory beach is 1978.** Pre-ubiquitous-smartphone
+  by design. Roman died in 2007 at 60, two years before the game.
+
 - **An island with a colonial past and an interdisciplinary research station**,
   over days to weeks. Overlapping factions — islanders, developers, hippies,
   researchers, tourists, the congregation — with people belonging to several.
