@@ -21,7 +21,7 @@ For setting and cast see [STORY](STORY.md); for systems see [MECHANICS](MECHANIC
   - [What kind of being this is](#what-kind-of-being-this-is)
   - [The parasite (you)](#the-parasite-you)
   - [The symbiote](#the-symbiote)
-  - [They are the same thing](#they-are-the-same-thing)
+  - [They are the same thing](#they-are-not-what-you-are)
 - [The moral structure](#the-moral-structure)
   - [Should transcendence be reachable at low deviation?](#open-should-transcendence-be-reachable-at-low-deviation)
   - [The symbiote ending](#the-symbiote-ending)
@@ -79,23 +79,58 @@ Consequences:
   the self to a single host, permanently — which is to say, near enough, to a
   person.
 
-#### The shell is the organism. Everything else is a limb.
+#### Three parties, and one of them inherits the equipment
 
 **The central fact, and most of the ecology follows from it.**
 
-| | |
+| | what it is |
 |---|---|
-| **the shell** | **the animal.** Its actual body, and the only thing that persists on its own |
-| **a parasite** | **a limb** of that body, extended into a human and running there |
-| **a symbiote** | **the same limb**, after the transcendence event, still tethered |
+| **the parasite** | an organism of quantum-encoded information. **The shell is its body** |
+| **the shell** | **its organ** — storage, and the branch-sampling faculty. Not a creature, and it has no reproduction of its own because body parts do not need one |
+| **the limb** | **a separate organism.** Tissue-dwelling, with its own life cycle and its own reproduction, recruited as an actuator |
+| **the host** | the animal the limb lives in, and the community it spreads through |
 
-What this world calls a parasite and what it calls a symbiote are **not two
-beings and not two stages of a life cycle.** They are one limb of one organism,
-described before and after a single event.
+##### What a symbiote actually is
 
-> **The only difference between a parasite and a symbiote is transcendence.**
-> A limb that transcends **detaches** and becomes an adult. One that does not
-> **stays tethered to the shell**, indefinitely.
+At transcendence or expiry the parasite goes, and **the shell is left behind,
+still working, with the operator gone.** The limb is standing right there,
+tethered to it.
+
+> **A limb with a shell can see forward and remember. A limb without one cannot.**
+
+So the recruited actuator inherits a faculty it could never have possessed, and
+begins using it for its own ends — which are simply the ends a tissue-dwelling
+organism has: stay alive, stay in a viable habitat, keep spreading.
+
+> **The guardian is the servant left holding the master's instrument.**
+
+##### Which is where the opposition comes from, and it needs no regulation
+
+The party doing the resisting is the party with a reproductive future:
+
+| | stake in the community |
+|---|---|
+| **the spent shell** | **none.** It is an object |
+| **the limb** | **everything.** The host community is its habitat *and* its route of dispersal |
+
+So resistance is not a post-reproductive conspecific picking a pointless fight,
+and it is not homeostasis. It is **an organism defending the thing it lives in
+and spreads through**, from something that will spend it and leave.
+
+> **They do not have competing claims. They have incompatible discount rates on
+> the same resource.** The arriving parasite has until totality and will spend
+> everything; the limb has an indefinite horizon and needs the substrate intact.
+>
+> The resident's position is not *this is mine*. It is **this one is going to
+> burn the house down and then move out.**
+
+And the irony the design already runs on gets sharper: [the limb is the only
+route in](MECHANICS.md#they-are-the-bridge) **and** the party with the most to
+lose. You have to recruit the one creature that is correct to refuse you.
+
+> **Why the shell has no reproduction route.** Because it is not an organism. An
+> adult makes new ones when it seeds, and the chrysalis image was saying so all
+> along: **the shell is the body that gets left.**
 
 ##### What they are made of
 
@@ -108,8 +143,9 @@ of thing:
 | | what it is made of | executes on | anchored to |
 |---|---|---|---|
 | **a human consciousness** | the body it is a process of | that body | — |
-| **a limb, before transcendence** | a population of **physical units** in the host's tissue | a host's brain | the shell, loosely |
-| **a limb, after** | the same population, now [entangled with the shell](#the-eclipse-is-what-creates-the-tether) | a host's brain | **the shell** |
+| **the parasite** | quantum-encoded information | a host's brain, through a recruited limb | **the shell — its own body** |
+| **a limb, while ridden** | a population of **physical units** in the host's tissue | a host's brain | the shell, loosely |
+| **a limb, after the rider goes** | the same population, now [holding the shell itself](#the-eclipse-is-what-creates-the-tether) | a host's brain | **the shell it inherited** |
 | **an adult** | itself | the fabric of spacetime | nothing |
 
 **A limb is material, not information.** It is a population of units living in
@@ -117,6 +153,11 @@ the host — replicating there, built on the mitochondrial pattern: a minimal
 inherited core, with every piece of apparatus assembled out of host proteins. Once
 established it **runs the way consciousness runs**, on the same tissue, by the
 same kind of process.
+
+**But it reproduces as information.** The units themselves never leave the body
+they grew in; what crosses to a new host is a targeted package of instructions
+for building a fresh population there — see [how a limb
+reproduces](#how-a-limb-reproduces).
 
 What changes at transcendence is not the substrate. It is **the tether.**
 
@@ -141,8 +182,8 @@ And it makes the species split biological rather than moral:
 
 | | |
 |---|---|
-| **symbiotes** | **flora.** Settled, chronic, inherited, participating, adapted to the niche |
-| **the parasite** | **a pathogen.** Acute, foreign, uncalibrated, newly arrived |
+| **the limb** | **flora.** A separate organism — settled, chronic, inherited, participating, adapted to the niche |
+| **the parasite** | **a pathogen.** Acute, foreign, uncalibrated, newly arrived, and **of a different lineage entirely** |
 
 *Symbiotes are an immune system* stops being analogy. They do not resist because
 they object — they resist the way a microbiome resists a colonist, by already
@@ -219,7 +260,7 @@ This single asymmetry accounts for most of the difference between them.
 - **[Losing the shell is the whole of the failure
   state](#the-shell).** You do not lose your mind, you lose **your body**, and
   become a process with no substrate of its own, dependent on one person.
-- **[Communion](STORY.md#the-practice-is-technique-not-spirituality) crosses no
+- **[Communion](story/islanders.md#the-practice-is-technique-not-spirituality) crosses no
   gap.** The guardian is a process running on the shaman's own tissue; the
   altered state makes local data legible to the self-model. She is not reaching
   outside herself.
@@ -317,7 +358,7 @@ and why you are alone.
 #### The shell
 
 **It is not equipment. It is the body** — see [the shell is the
-organism](#the-shell-is-the-organism-everything-else-is-a-limb). The seed is a
+organism](#three-parties-and-one-of-them-inherits-the-equipment). The seed is a
 shell with a limb folded inside it.
 
 It holds the entire memory, it is what opens timelines and overpowers a
@@ -357,6 +398,207 @@ Each symbiote inhabits a particular person, and they differ by age:
 The older ones hold multiple hosts — the same faculty you acquire late. They are
 further along a road you are on.
 
+#### How a limb reproduces
+
+[The limb is a separate
+organism](#three-parties-and-one-of-them-inherits-the-equipment), so it has a
+life cycle of its own, and it is the only one of the three parties that does.
+The shell does not reproduce, because an organ has no reproductive route. The
+parasite reproduces only by transcending. **The limb reproduces the ordinary
+way: it transmits information, and the receiver builds the copy.**
+
+##### What crosses, and what does not
+
+| | |
+|---|---|
+| **what crosses** | **a package of DNA and a handful of proteins** — viral in form and in delivery, and targeted in a way no virus is |
+| **what it does on arrival** | sets up production of limb units **out of host tissue**, the same way the units in the issuer were built |
+| **what does not cross** | **cells.** Nothing of the issuer's own body makes the trip |
+| **what is not touched** | **the host genome.** The package is not written into the germ line, and children do not inherit it genetically. It is **carried, not encoded** |
+
+Which keeps the limb exactly where [the holobiont
+table](#which-makes-a-human-a-holobiont-with-one-more-resident) already put it:
+**flora, not a gene.** You acquire your microbiome from your mother. You do not
+inherit it.
+
+> **It is the mitochondrial pattern again, one step earlier.** A minimal foreign
+> core with every piece of apparatus assembled out of host proteins — and now
+> the core itself arrives as *instructions* rather than as an object.
+
+A real form for the delivery, if one is ever wanted: **~8% of the human genome is
+endogenous retrovirus**, and syncytin, which builds the placenta, is a captured
+viral envelope gene. Getting a working gene package into human tissue with
+tissue-specific targeting is a thing viruses do and a thing clinical vectors are
+built to do.
+
+*(What this deliberately is **not**: a transmissible cell line. Canine
+transmissible venereal tumour and devil facial tumour disease are real,
+ancient, and spread as living cells from the original animal. Here nothing of
+the donor survives in the recipient — which is why a limb has no single point of
+origin to trace.)*
+
+##### The brake is targeting, and targeting is tolerance
+
+A package written for one person does not work in another. That is why this is
+not an epidemic, and the reason is the most ordinary one in human biology: **a
+body destroys what it does not recognise.**
+
+So the package has to be written *for* the recipient, which requires the issuer
+to read that specific body first, in detail, over a long time.
+
+| route | why it works | cost |
+|---|---|---|
+| **kin** | **shared haplotypes.** A parent and child share one HLA haplotype obligately; full siblings are identical by descent across both roughly a quarter of the time. Most of the targeting is already done before anyone starts | cheap, and comparatively fast |
+| **a long sexual relationship** | repeated exposure to one partner's antigens **builds partner-specific tolerance.** This is real reproductive immunology: short sexual cohabitation before conception is a documented preeclampsia risk factor, and prolonged exposure to the same partner is protective | expensive, and slow — years |
+| **anything briefer** | nothing. Not a handshake, not a field season, not one affair | — |
+
+> **Prolonged, intense, and with one particular person** is not a decorative
+> condition. It is the whole brake. The two human arrangements that satisfy it
+> are **raising a child** and **a long relationship with one partner**, and
+> there is no third.
+
+##### Which runs on a channel already in the design
+
+Reading a body takes contact and bandwidth, and there is already a published
+physical layer for it: [jumping is a file
+transfer](MECHANICS.md#jumping-is-a-file-transfer) — Human Body Communication,
+IEEE 802.15.6, in which **contact duration × skin area is the channel.**
+
+Which collapses two slow operations into one:
+
+> **Building the driver and writing the seed are the same job.** Both are the
+> issuer learning one specific body well enough to address it. A limb that has
+> spent fifteen years learning a daughter well enough to relocate into her has,
+> by that fact, spent fifteen years learning her well enough to seed her.
+
+##### A limb is not a symbiote
+
+Which is the consequence that has to be stated plainly, because the limb now
+reproduces and the older rule said nothing did.
+
+| | reproduces? | how many |
+|---|---|---|
+| **the limb** | **yes** — targeted transfer into kin and long partners | uncommon, concentrated in lineages, quietly persistent wherever families are close |
+| **the shell** | **no.** It is an organ | **conserved.** One shell is one shell, and the only source is a clutch |
+
+**A symbiote is a limb holding a shell.** The limb is the common part; the shell
+is the scarce part.
+
+- **A spreading limb does not make symbiotes.** A limb with no shell is flora —
+  chronic, acquired by contact, participating in the body, and with **no
+  foresight whatsoever**: nothing to sample timelines with, nothing to steer by
+- **Humanity still has no gentle guiding hand.** The number of symbiotes in the
+  world is the number of shells left behind by failed transcendences, decaying.
+  It does not grow between eclipses
+- **The shell inherits into a limb, not into a person.** When a holder dies the
+  shell goes to someone who **already carries a limb** — which is why it goes to
+  family, and why it can fail
+
+> **The limb population is the infrastructure the shell lives on.** A lineage
+> that keeps producing carriers keeps its shell. A lineage that stops strands
+> one — and a stranded shell is not a symbiote looking for a home. It is an
+> object on a shelf.
+
+##### Seeding from a shell requires a driver
+
+One asymmetry, and it carries weight: **a shell can seed a limb into a host only
+while a parasite is driving it.** A free shell cannot start a lineage.
+
+| issuer | can seed a new host? | |
+|---|---|---|
+| **a shell under a parasite** | **yes** | this is how a lineage *starts*, and it happens only around an eclipse |
+| **a free shell** | **no** | an organ with nobody holding it decides nothing |
+| **a limb** | **yes**, into kin and long partners | this is how a lineage *persists* |
+
+So there are two populations with two different sources, and the slow common one
+is what the rare one needs in order to survive at all.
+
+#### What a limb does to its host: it makes them want to touch shells
+
+**Unfailingly, in every carrier, with no exceptions.** A limb produces a
+standing attraction to shells and an impulse to put a hand on one. It is the one
+behavioural signature the organism has, and it is the only thing a limb does
+that a host could in principle notice.
+
+##### The evolutionary logic is short
+
+A limb cannot acquire a shell. **Its host can.**
+
+| | |
+|---|---|
+| a limb alone | flora. No foresight, no sampling, no faculty of any kind |
+| a limb holding a shell | a symbiote |
+| the distance between them | **one act of physical contact** |
+
+So the limb does the only thing available to it: it makes the host **go and find
+one**, and reach out. Everything the organism could ever become is on the far
+side of a touch, and the limb is not the thing with hands.
+
+> **It is not loyalty and it is not service.** The limb is upgrading itself, and
+> the host is the mechanism.
+
+##### Host behavioural manipulation is ordinary, documented parasitology
+
+Nothing here needs inventing. The literature is old and unglamorous:
+
+| | |
+|---|---|
+| ***Dicrocoelium dendriticum*** | the lancet fluke drives an ant to climb a grass blade at dusk and **clamp its mandibles shut on the tip**, so a grazing sheep eats it. Worked out in the early 1950s |
+| ***Leucochloridium paradoxum*** | pulsating broodsacs fill a snail's eyestalks and drive it into the open, where birds take it. Described in **1835** |
+| ***Ophiocordyceps*** | the ant's death-grip bite, at a species-specific height and humidity |
+| hairworms | drive terrestrial insects to enter water and drown |
+| ***Sacculina*** | castrates a crab and makes it tend the parasite's brood as if it were its own eggs |
+| ***Toxoplasma gondii*** | reduces infected rodents' aversion to cat odour |
+
+The mechanism is correspondingly ordinary — secreted compounds acting on an
+existing reward or aversion circuit. **A limb has a far better instrument than a
+fluke does**: it is already a population of units in the host's tissue, built
+out of host proteins, sitting where neuromodulation happens.
+
+##### What it feels like, which is the point
+
+Not a compulsion. **A preference**, and a deniable one.
+
+| | |
+|---|---|
+| what the host experiences | finding them beautiful. Wanting to hold one. Going back to the shelf. Picking it up while thinking about something else |
+| what the host never experiences | being made to |
+| what a host says if asked | that they have always liked them — which is true, and is the whole of what they know |
+
+> **It is indistinguishable from taste.** Which is why it has never once been
+> reported as a symptom, by anyone, in a thousand years.
+
+*(Distinct from [the parasite's tropism](#the-tropism-is-an-affordance-not-a-feeling),
+which is not felt at all and shows up only as what the interface offers. This one
+is felt, by a human, as liking something.)*
+
+##### At population scale it is a collection, and then a religion
+
+One carrier with a shell-impulse is a person with an odd fondness. **A kin group
+of carriers over forty generations is a culture organised around shells** — and
+[the island's religion](story/islanders.md#the-shells-were-the-religion) stops needing a
+separate explanation for why *these* people, on *this* rock, built everything
+around *that* object.
+
+It also explains the collection in the house without a word of mysticism. [The
+developer spent decades acquiring shells](story/developers.md#what-he-was-actually-doing) by
+purchase, swindle, bribery and threat, with a collector's cover story that was
+true as far as it went. **Collectors collect. Carriers collect shells.**
+
+> **[liability] The tropism supplies the impulse, not the content.** It must
+> never be allowed to read as *the islanders were drugged into a religion*.
+> Everything they know about shells they learned the way anyone learns anything
+> — by watching, for a very long time, and being right. The tropism only
+> explains **why they were the ones doing the watching.** A thousand years of
+> accurate observation is still a thousand years of accurate observation.
+
+> **[open]** Whether the tropism has range, or only works on sight and
+> proximity. The conservative reading: it is an impulse to *touch*, and it
+> explains why [the finder](STORY.md#she-was-waiting-for-it) went toward the fall
+> instead of away, and why she put her hand on it instead of reporting it — not
+> how she knew where to go. The strong reading gives carriers a bearing, which
+> is a much bigger mechanism and should be bought deliberately if at all.
+
 #### How symbiotes persist between eclipses
 
 Totality recurs at a point every ~375 years *on average* — far longer than a
@@ -368,7 +610,7 @@ human life — so symbiotes must outlive their hosts for the attractor to work.
 > island is in a cluster** — a rare run of totalities across a few centuries —
 > so the gap to bridge is decades to a century, not four centuries every time.
 
-##### They relocate on host death. They do not multiply
+##### The shell relocates on host death. It does not multiply
 
 **Ruled out:** hosts travelling to seek eclipses. It would make transcendence
 events common and drain the wonder from the one the game is about.
@@ -380,21 +622,29 @@ weaker host by killing its current one):
 > A symbiote persists with its host for life and **relocates when the host
 > dies**, into someone it has spent years building a driver for. Usually family.
 
-- **No multiplication, so no saturation.** The population is conserved, not
-  growing. Most humans have never had one — **humanity has no gentle guiding
-  hand.**
+What moves is **the shell**, into a relative who already carries a limb — see [a
+limb is not a symbiote](#a-limb-is-not-a-symbiote). The limb in the dying host
+dies with the host; the limb in the receiving host was seeded years earlier and
+is already in place.
+
+- **No multiplication, so no saturation.** The shell population is conserved,
+  not growing. Most humans have never held one — **humanity has no gentle
+  guiding hand.**
 - **The age hierarchy survives.** Old symbiotes stay on old, important people
   precisely because they do not jump early. If they moved to children on
   schedule, the elderly would be unclaimed and the hierarchy would invert.
 
-##### Why family, with no new mechanism
+##### Why family, and the mechanism is the same one
 
-Vertical transmission is **not a host-jump at all.** [The limb is
-material](#what-they-are-made-of), so a seed population simply moves and
-proliferates — the mitochondrial pattern, and the microbiome's: maternal
-inheritance plus horizontal transfer by contact, shared food and breastfeeding.
-Nothing is rebuilt from a codebook. The old argument still names the right
-conditions, and they are now the literal transfer mechanism:
+Both halves of the transfer favour kin, for the same reason and independently:
+
+| | what family buys it |
+|---|---|
+| **the limb**, seeding a new carrier | **shared haplotypes.** Most of the targeting work is done by descent — see [targeting is tolerance](#the-brake-is-targeting-and-targeting-is-tolerance) |
+| **the shell**, relocating on death | **a driver that is an edit, not a rewrite**, and a carrier already in place |
+
+Neither is a host-jump. Nothing travels as a body. The conditions the older
+argument named turn out to be the literal transfer mechanism for both:
 
 - **similarity** — a relative's driver is a short edit, not a rewrite
 - **duration** — years of proximity is what slow driver-building needs
@@ -403,15 +653,25 @@ conditions, and they are now the literal transfer mechanism:
   has more of both than raising a child.** Parent–infant contact is the
   highest-bandwidth link humans have.
 
-*(Non-genetic inheritance through gametes is real and documented in mouse
-models, if a mechanism is ever wanted rather than an analogy.)*
+*(And it runs both ways. **Microchimerism** is real and well documented:
+fetal cells persist in the mother for decades after a birth, and maternal cells
+persist in the child. The body does not have a one-way door between a parent and
+a child, which is why this route is the cheap one.)*
 
 ##### The population dynamics close the loop
 
-| | |
-|---|---|
-| **source** | limbs that did not transcend, only at eclipses. Rare |
-| **sink** | failed transitions: no suitable relative, a lineage that ends, a death too sudden for the driver to be ready |
+Two populations, two sets of books:
+
+| | source | sink |
+|---|---|---|
+| **shells in human hands** | limbs that did not transcend, **only at eclipses.** Rare | failed relocation: no carrier relative, a lineage that ends, a death too sudden for the driver to be ready |
+| **limbs** | seeded by a shell under a parasite at an eclipse, then **seeded on by limbs** into kin and long partners | a carrier who seeds no one — and every carrier dies with theirs |
+
+The limb population is the larger, slower one and it can recover; the shell
+population only ever goes down between eclipses. Which means a lineage can keep
+carrying limbs for centuries after the shell has gone, **with nobody in it
+noticing anything is missing** — there was never anything to notice. A limb
+without a shell has no faculty to lose.
 
 So symbiote density is **a decayed record of past eclipse activity** — which is
 exactly the [graveyard attractor](#what-draws-a-clutch-here). The island has
@@ -468,7 +728,7 @@ reading each other's signal density.
 > **Language discipline:** signatures, calibration, thresholds, propagation.
 > Never *decide*, *warn*, *agree* or *collaborate* in the sense of intent. This
 > is coordination, not cooperation (see [They are not
-> agents](#they-are-not-agents)).
+> agents](#they-have-interests-but-they-are-not-agents)).
 
 **The channel already exists.** When hosts touch, their symbiotes exchange
 signatures over the same body-channel link everything else in this world runs
@@ -515,8 +775,8 @@ keeps nudging toward conditions matching what it is tuned for.
 So **displaced old symbiotes self-correct**: either they return or their host
 does. One is therefore never found far from where it was calibrated.
 
-**A new symbiote has no set point at all.** A limb that stayed, with no
-community calibration, it has nothing to steer toward. *Adrift* is the
+**A newly abandoned limb has no set point at all.** Holding a shell it has only
+just inherited, with no community calibration, it has nothing to steer toward. *Adrift* is the
 mechanically correct word.
 
 > **Liability.** This must **not** become an explanation for indigenous
@@ -525,7 +785,7 @@ mechanically correct word.
 >
 > Old symbiotes sit with **elders of every faction** (the cult spans all of
 > them), so it is an elder phenomenon, not an indigenous one. Better still, make
-> [the hotel owner](STORY.md#the-hotel-owner) the illustration: she feels an
+> [the hotel owner](story/developers.md#the-hotel-owner) the illustration: she feels an
 > inexplicable, disproportionate pull to the island and carries a symbiote taken
 > from the matriarch's household. **The colonizer's daughter is held here by
 > something taken from the colonized.**
@@ -539,7 +799,7 @@ information, but because the signature does not resolve. Consequences:
 - it receives no collective signal either, so its scope collapses to its own host
 - **calibration takes centuries, so a newcomer is foreign for life**
 
-See [the young priest](STORY.md#the-young-priest), who is the island's only
+See [the young priest](story/church.md#the-young-priest), who is the island's only
 instance.
 
 ##### The network is also a store
@@ -583,7 +843,7 @@ not as a limitation of power but as the same fact that makes you invisible to it
 **The only known interface is a human practice**: sustained meditation plus
 psychoactive plants, performed by someone whose own symbiote is a fully
 calibrated node. It alters the host's processing until she can perceive what her
-symbiote is configured as. See [the matriarch](STORY.md#the-practice-is-technique-not-spirituality).
+symbiote is configured as. See [the matriarch](story/islanders.md#the-practice-is-technique-not-spirituality).
 
 > **The island's accumulated knowledge about your species is available to you
 > only through a human who volunteers to go and get it.** You cannot take it.
@@ -602,50 +862,60 @@ itself to defend one host has less left over for the rest of its scope.
 Which makes **forcing a symbiote to act an attack in its own right.** Provoke a
 defence in one place to open a gap in another.
 
-### They are the same thing
+### They are not what you are
 
-**A symbiote is a limb that did not transcend.** Same shell, same limb, same
-stage — and the difference is one event.
+**A symbiote is a limb holding an abandoned shell.** Not a stage of your life
+cycle, not a sibling, and not a failed version of anything —
+**[a different organism entirely](#three-parties-and-one-of-them-inherits-the-equipment)**,
+using equipment your lineage left behind.
 
-Every symbiote trait follows from a spent reserve and an intact tether:
+Every symbiote trait follows from that:
 
 | symbiote trait | because |
 |---|---|
-| cannot author timelines — only sample them | the shell has no power left to make or merge one |
-| **local**, bound to one place | **still on the leash.** Its body is here |
-| conserves energy obsessively | nothing to draw on |
-| *selects* among timelines it cannot make | still attached to the thing that made them. It commits to one line; [you hold many](MECHANICS.md#same-technique-different-goal) |
-| depends on humans | the host supplies all processing, as it always did |
+| samples timelines but does not author them | **the capability was always the shell's.** Authoring costs compute, and nothing in a limb's own programme ever justifies it |
+| **local**, bound to one place | the shell is where it is, and the limb is tethered to it |
+| spends as little as it can | perturbation is risk, and risk compounds over an indefinite horizon |
+| protects its host community | **that is its habitat and its dispersal route.** Not regulation — self-interest |
+| depends on humans | it lives in them |
 
-#### They are not agents
+> **Which preserves *same technique, different goal* in a better form.** It is
+> not two species at two life stages. **It is one machine, driven by two
+> different things, for two incompatible purposes** — and the deadline is still
+> what makes one of them reckless.
 
-Every symbiote here tried what you are trying and ran out of time. **None of
-them remember it**, because there was never a continuous self to remember with —
-and a shell-less larva has only whatever self its single remaining host lends it
-(see *What kind of being this is*).
+#### They have interests, but they are not agents
 
-> **A symbiote has more in common with a mitochondrion than with a dark agent
-> holding a grudge.**
+**This needs more care than it used to.** A limb is an organism with a
+reproductive future, so it has *interests* in a way a decommissioned organelle
+does not. What it does not have is deliberation.
 
-Once free-living; now obligate infrastructure. It does not scheme, negotiate,
-hold opinions, or want revenge. It regulates.
+> **A gut bacterium has interests. It does not have opinions.**
+
+It does not scheme, negotiate, hold grudges or want revenge. It is goal-directed
+the way every living thing is goal-directed, and nothing above that.
 
 Read every "wants", "protects" and "responds" in this document that way:
 
 | reads as | actually is |
 |---|---|
-| the symbiote defends its host | a regulatory response to perturbation |
+| the symbiote defends its host | an organism defending its habitat |
 | the symbiote alerts humans | a symptom — the human feels wrong, like a fever |
-| the symbiote escalates | homeostasis failing to correct, harder |
+| the symbiote escalates | a cheap defence failing, and a costlier one starting |
 | the symbiote knows what you are | nothing knows anything |
 | the symbiote chooses a branch | a scoring function returns an argmax |
 | the shell decides who gets a symbiote | relocation lands where the score is highest |
 
-> **Language discipline, extended.** *Samples, scores, selects, commits,
-> horizon, argmax.* Never *chooses*, *plans*, *anticipates* or *decides* — the
-> new machinery is [predictive, not
-> deliberative](MECHANICS.md#same-technique-different-goal), and a model of
-> the next few weeks is not a mind.
+> **Language discipline.** *Samples, scores, selects, commits, horizon, argmax.*
+> Never *chooses*, *plans*, *anticipates* or *decides* — the machinery is
+> [predictive, not
+> deliberative](MECHANICS.md#same-technique-different-goal), and a model of the
+> next few weeks is not a mind.
+
+> **And the sentence that is now wrong:** *they are you, later, with nobody
+> home.* They never were you. **They are what your lineage leaves behind in the
+> creatures it uses** — still running, still inhabited, and now holding the
+> instrument.
 
 **This sorts out who the antagonist is.** Symbiotes are *physics* — the terrain,
 an immune system, a cost function. **The only other agents in this world are
@@ -654,7 +924,8 @@ is riding them; the symbiote layer is what makes that pressure mount, not a
 party to it.
 
 It also settles a question asked earlier — does your species have a relationship
-to theirs? Yes, but not a *social* one. *They are you, later, with nobody home.*
+to theirs? Yes, but not a *social* one — **not kinship at all.** They are a
+different lineage, living on what yours discards.
 
 #### Two ways to end up a symbiote
 
@@ -875,8 +1146,8 @@ totality passing, a leash that rewards concentration — are the ordinary ones.
 
 | | |
 |---|---|
-| **[the developer's fossil collection](STORY.md#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye)** | a private cabinet in a climate-controlled villa. Shells gathered from across the island into one protected room |
-| **[the research station](STORY.md#the-stations-fracture)** | an institution with an archive, a remit covering local scientific peculiarities, and a mandate to continue |
+| **[the developer's fossil collection](story/developers.md#he-collected-fossils-hunted-and-kept-an-amateur-naturalists-eye)** | a private cabinet in a climate-controlled villa. Shells gathered from across the island into one protected room |
+| **[the research station](story/station.md#the-stations-fracture)** | an institution with an archive, a remit covering local scientific peculiarities, and a mandate to continue |
 
 > **Humans on this island have independently begun doing exactly what the
 > organism needs**, for reasons entirely their own — a rich man's hobby and a
@@ -894,12 +1165,12 @@ So moving one moves a symbiote's leash.
 - **The relics in households** are not souvenirs. A family keeps an odd stone on
   a shelf, and the thing that looks after them is tethered to it.
 - **[The cabinet is now in the hotel owner's
-  house](STORY.md#she-is-the-hub-of-the-endgame)**, which means the anchors are
+  house](story/developers.md#she-is-the-hub-of-the-endgame)**, which means the anchors are
   too.
 
 - **[open]** What displacement does to a tethered limb — drag, stress, loss of
   homing, or nothing at all. Something should be observable, because [the
-  matriarch can read the network](STORY.md#the-practice-is-technique-not-spirituality)
+  matriarch can read the network](story/islanders.md#the-practice-is-technique-not-spirituality)
   and the collection was assembled in living memory.
 
 It makes *the nursery is made of the dead* literal at species scale: the dead
@@ -953,7 +1224,7 @@ unknowingly, running something else's process on their spare cycles.
 > **The scientist's problematic fossil and the mystic's relic are the same
 > object, and neither knows.** The two exposition channels are looking at one
 > thing from opposite ends, unable to see each other — [two wrong
-> models](STORY.md#two-wrong-models-no-adjudication) made physical.
+> models](story/learning.md#two-wrong-models-no-adjudication) made physical.
 
 
 ## The mechanism
@@ -1196,7 +1467,8 @@ The establishment channel also carries the *model* of the host — the `horizon`
 parameter in [push
 admissibility](MECHANICS.md#feasibility-is-three-conditions-not-one). All of it
 travels the way [a microbiome
-travels](#why-family-with-no-new-mechanism): in units, by contact, slowly.
+travels](#why-family-and-the-mechanism-is-the-same-one): by contact, slowly, and
+only into a body that has been read first.
 
 #### The eclipse is what creates the tether
 
@@ -1351,7 +1623,7 @@ both get it. That is the basis of quantum key distribution.
 
 The last row is the one to protect: the island's guardians can act as one without
 any of them deciding anything, which is the behaviour the setting wants and the
-ontology [it has committed to](#they-are-not-agents), at once.
+ontology [it has committed to](#they-have-interests-but-they-are-not-agents), at once.
 
 It also hands the station the right wrong answer — correlation across the island
 with no transmission vector and no contact path. Right that something is
@@ -1618,7 +1890,7 @@ does for a person:
 | **protects them**, [regulating toward their good and their community's](MECHANICS.md#what-they-regulate-toward) | the whole of what it does |
 | **interferes minimally**, by its own standard | the host keeps their agency entirely |
 | **persists across generations**, moving into a relative | a household holds one for centuries |
-| **connects them** to [a network and a store](#the-network-is-also-a-store) | which [one woman on this island can read](STORY.md#the-practice-is-technique-not-spirituality) |
+| **connects them** to [a network and a store](#the-network-is-also-a-store) | which [one woman on this island can read](story/islanders.md#the-practice-is-technique-not-spirituality) |
 
 A thousand years of stable mutual benefit, on an island where nobody calls it
 that. Its only defect is being **reproductively inert.**
@@ -1627,7 +1899,7 @@ that. Its only defect is being **reproductively inert.**
 
 | | parasite | symbiote | human |
 |---|---|---|---|
-| intent | a tropism it does not understand | none — [not an agent](#they-are-not-agents) | **yes** |
+| intent | a tropism it does not understand | none — [not an agent](#they-have-interests-but-they-are-not-agents) | **yes** |
 | concepts | none | none | **yes** |
 | planning across generations | no — one eclipse, then gone | no | **yes, and they already do** |
 
@@ -1658,7 +1930,7 @@ anyone.
   be observed from inside a run.
 - **It costs the same.** No transcendence, and the line still ends.
 - **It requires standing**: a community that trusts you, and a human who was
-  [deliberately told what you are](STORY.md#and-the-player-can-hand-it-over).
+  [deliberately told what you are](story/learning.md#and-the-player-can-hand-it-over).
 
 - **[open]** Whether any in-world evidence supports it. **Recommend one piece,
   ambiguous**: a fossil site where the husks are unusually numerous and unusually
@@ -1758,7 +2030,7 @@ congregation and the station, and completely mute about the entity.
 
 #### The brother is the human instance of the pattern
 
-**[Maximilian](STORY.md#maximilian-the-youngest)**, Roman's youngest, does by social power what
+**[Maximilian](story/developers.md#maximilian-the-youngest)**, Roman's youngest, does by social power what
 the entity does by biology: reads people, finds what constrains them, reaches
 into a distribution he did not create, and takes.
 
@@ -1771,9 +2043,9 @@ into a distribution he did not create, and takes.
 Constraints on writing him:
 
 - **His reach is small.** A few dozen people on one island on one night, and
-  [the island beats him](STORY.md#in-the-baseline-it-fails) unaided.
+  [the island beats him](story/developers.md#in-the-baseline-it-fails) unaided.
 - **He is not usable as an instrument.** [Having no
-  symbiote](STORY.md#he-has-no-symbiote) puts him out of reach entirely; anything
+  symbiote](story/developers.md#he-has-no-symbiote) puts him out of reach entirely; anything
   done in his favour is done through other people.
 
 #### The generational conflict runs on both layers
@@ -1818,7 +2090,7 @@ narration adjudicates between them.
 | **the folklore** | superstition / garbled operational memory |
 | **the cognitive explosion** | a crank theory at the station / true |
 | **the island's past** | colonial history / the core's rites / what happened at a previous eclipse |
-| **[the young priest's silence](STORY.md#what-he-failed-to-do)** | ordinary human cowardice / something made it hard to speak |
+| **[the young priest's silence](story/church.md#what-he-failed-to-do)** | ordinary human cowardice / something made it hard to speak |
 
 ### Do not state the critique
 
@@ -1836,7 +2108,7 @@ and they are invisible to you.*
 **Do not sharpen it.** A line about extraction, a subplot about the station's
 funding, a pointed remark from the mystic — each converts an experience into a
 position. The existing rules (nothing explains itself, [two wrong models, no
-adjudication](STORY.md#two-wrong-models-no-adjudication)) already forbid this,
+adjudication](story/learning.md#two-wrong-models-no-adjudication)) already forbid this,
 but allegory is a specific temptation they were not written to catch.
 
 **Nobody is culpable in the ordinary way.** The entity is a creature executing

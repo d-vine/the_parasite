@@ -122,7 +122,7 @@ already standing.
 
 **From horror down into exploitation**, deeper as the game goes. The register
 notes and the works that use the same machinery seriously are in
-[STORY](STORY.md#for-the-register).
+[STORY](story/reference.md#for-the-register).
 
 **[proposal] Let the descent track the player's methods rather than the plot.**
 
@@ -187,7 +187,7 @@ makes their story worse and yours better**, and the game never has to say so,
 because the comparison is a mechanic rather than a theme.
 
 **And it ends with her getting close to the truth**, because she is [the one
-who could](STORY.md#the-one-who-could-work-it-out) — nobody harmed, nothing
+who could](story/station.md#the-one-who-could-work-it-out) — nobody harmed, nothing
 consumed, a young woman very nearly understanding what she found. **That is the
 story every other branch is built by wrecking, and the player will have read it
 first.**
@@ -669,7 +669,7 @@ opposition made of **named characters performing ordinary protective acts**:
 |---|---|
 | a mother | makes a phone call and her daughter does not go |
 | the young priest | hears something in confession and does not let it rest |
-| the matriarch | sits down to [commune](STORY.md#the-practice-is-technique-not-spirituality) a week earlier than she meant to |
+| the matriarch | sits down to [commune](story/islanders.md#the-practice-is-technique-not-spirituality) a week earlier than she meant to |
 | a hotel employee | says the wrong thing to the wrong person, deliberately |
 | a friend | turns up at the door and will not leave |
 
@@ -758,7 +758,7 @@ A different answer every run, and nothing states it.
 | faction | integrating them costs | suppressing them costs |
 |---|---|---|
 | **the young islanders** | giving the event a form they want | constant work, and they are many |
-| **the native community** | [the matriarch's real consent](STORY.md#the-matriarch), which is expensive and may be unobtainable | enormous — she is the island's only sensor |
+| **the native community** | [the matriarch's real consent](story/islanders.md#the-matriarch), which is expensive and may be unobtainable | enormous — she is the island's only sensor |
 | **the society's elders** | an event they can attend without embarrassment | moderate; they are few and set in their ways |
 | **the tourists** | **nothing. They will come to anything** | nothing. They will not object to anything either |
 | **the station** | a reason to be outdoors, which they already have | easy, and loses you the best cognition on the island |
@@ -1410,7 +1410,7 @@ they solve it differently.
 | **[the station's synchronised viewing](#the-scientists-route-is-consent-not-a-venue)** | high, and **tightly correlated** — its distinctive property | **low — but only the organisers were asked**, and it cannot happen without another faction's crowd |
 | church, pagan rite | high | low, but it excludes | 
 | **[rage that becomes an atrocity](#the-darkest-route-collective-rage-fuelled-by-what-it-does)** | **the highest in the game** — and it feeds itself | **maximum** |
-| **[the brother's private event](STORY.md#the-plan-cannot-work)** | **none. It is not an event, it is a crime** | irrelevant — see below |
+| **[the brother's private event](story/developers.md#the-plan-cannot-work)** | **none. It is not an event, it is a crime** | irrelevant — see below |
 | coerced orgy, quiet massacre, anything done *to* a crowd | **none** | irrelevant |
 
 Every direction away from the festival buys intensity and pays in tension —
@@ -1453,7 +1453,7 @@ So the only two mass states the game actually works with are **shared joy** and
 
 ##### What follows
 
-- **[The brother's plan cannot work](STORY.md#the-plan-cannot-work), ever**, at
+- **[The brother's plan cannot work](story/developers.md#the-plan-cannot-work), ever**, at
   any level of player investment. Its victims outnumber its participants, so
   perfect suppression of all resistance still yields an event with no yield.
 - **Harm is not an intensity dial.** You cannot raise an event's output by
@@ -1559,10 +1559,10 @@ to anyone looking, and some of what happens will be regretted.
 > works and one that does not.
 
 The hardest part is the [native
-community](STORY.md#the-native-community). Their ceremony is the one thing they
+community](story/islanders.md#the-native-community). Their ceremony is the one thing they
 successfully kept, and folding it into a party with the people who took
 everything else is **either the night the island finally shared something or one
-more act of extraction**, and [the matriarch](STORY.md#the-matriarch) will see
+more act of extraction**, and [the matriarch](story/islanders.md#the-matriarch) will see
 both possibilities before anyone else does.
 
 - **[open]** Whether she can be brought to yes honestly, or only by the player
@@ -1600,7 +1600,7 @@ not expect: comfortable, harmless, powerless, and still on the clock.
 ###### Second, what the viewing party is: the festival in a lab coat
 
 The station's public viewing is already [on the
-board](STORY.md#the-party-makes-the-mid-game-concrete), and mechanically it is a
+board](story/developers.md#the-party-makes-the-mid-game-concrete), and mechanically it is a
 [festival](#the-festival-is-the-zero-point) variant — inclusive, communal,
 genuinely awe-producing, because totality works identically on the sceptic and
 the devout.
@@ -1636,8 +1636,8 @@ humans do not know. The station's path is the only one where they could.
 > they can act.**
 
 [The director has spent twenty years looking for exactly
-this](STORY.md#the-director). [The finder holds both
-models](STORY.md#the-one-who-could-work-it-out). Between them the station is the
+this](story/station.md#the-director). [The finder holds both
+models](story/station.md#the-one-who-could-work-it-out). Between them the station is the
 only place on the island where being understood is even possible.
 
 What it buys:
@@ -1701,15 +1701,15 @@ alliance with at least one faction that can actually deliver a crowd.
 
 | partner | brings | costs |
 |---|---|---|
-| **[the native community](STORY.md#the-native-community)** | **everything** — numbers, legitimacy, and [a protocol that already works](STORY.md#the-ceremony-is-an-invitation) | asking the people they have spent a century describing |
-| **[the hippies](STORY.md#the-old-hippies)** | the beach, the ethos, a willing crowd | not enough islanders on their own |
+| **[the native community](story/islanders.md#the-native-community)** | **everything** — numbers, legitimacy, and [a protocol that already works](story/islanders.md#the-ceremony-is-an-invitation) | asking the people they have spent a century describing |
+| **[the hippies](story/hippies.md#the-old-hippies)** | the beach, the ethos, a willing crowd | not enough islanders on their own |
 | **the young islanders** | numbers and genuine enthusiasm | they are furious with everyone, including the station |
-| **[the society](STORY.md#he-heads-the-society-and-its-core)** | money, standing, the director's own membership | the old priest loathes the science community, and the core would read it as rivalry or blasphemy |
+| **[the society](story/church.md#he-heads-the-society-and-its-core)** | money, standing, the director's own membership | the old priest loathes the science community, and the core would read it as rivalry or blasphemy |
 
 ###### The best version requires the director to undo himself
 
 **The community is the partner that works, and the only bridge to them is [the
-islander researchers he kept out](STORY.md#and-he-will-not-let-the-islanders-in).**
+islander researchers he kept out](story/station.md#and-he-will-not-let-the-islanders-in).**
 
 > **The route is gated on his humiliation.** To get what he has wanted for
 > twenty years he must go, in public, to the people he excluded, and ask.
@@ -1721,7 +1721,7 @@ And the two descriptions of the event are **the same description**:
 | a synchronised observation — **a wet CPU cluster**, as somebody says in a corridor and nobody flinches at | **drawing him in, joining with him, and sending him on his way** |
 
 **Both are correct.** Each would find the other's phrasing offensive, and
-[neither model is ever adjudicated](STORY.md#two-wrong-models-no-adjudication) —
+[neither model is ever adjudicated](story/learning.md#two-wrong-models-no-adjudication) —
 except here, at the climax, where the two halves have to stand in the same field
 and do the same thing while believing different things about it.
 
@@ -1739,7 +1739,7 @@ what that makes her**, and so will everyone she is sent to.
 > people to be instrumented. Agree and manage it, and she has become the thing
 > she was hired as.
 
-- **[open]** Whether [the matriarch](STORY.md#the-matriarch) says yes to her when
+- **[open]** Whether [the matriarch](story/islanders.md#the-matriarch) says yes to her when
   she would say no to anyone else — and whether that is the best outcome in the
   game or the most complete extraction in it. **The design should not decide.**
 
@@ -1765,7 +1765,7 @@ game where somebody says yes with their eyes open.
 
 ##### Except one: the observance you must be invited to
 
-**[The islanders' ceremony](STORY.md#the-ceremony-is-an-invitation) breaks the
+**[The islanders' ceremony](story/islanders.md#the-ceremony-is-an-invitation) breaks the
 trade.** It is high intensity *and* communal *and* symbiote-positive, because it
 is a thousand years of tuning on the same arithmetic — and because it is an
 explicit invitation rather than something done to anybody.
@@ -1776,7 +1776,7 @@ contradiction; the toolkit does not apply. **You have to be let in**, which
 makes access a matter of standing with one household and one woman rather than
 of amplitude.
 
-And it closes by [sending you on your way](STORY.md#its-closing-movement-is-your-expulsion):
+And it closes by [sending you on your way](story/islanders.md#its-closing-movement-is-your-expulsion):
 the gathering's final movement is the island's largest coordinated deviation
 response, fired deliberately, at peak intensity, with everyone present
 participating.
@@ -1812,7 +1812,7 @@ a festival. The betrayal version should stay available.
 #### Someone else is already engineering one, and the baseline defeats him
 
 **[A human has been planning his own eclipse event for
-years](STORY.md#a-human-has-already-done-your-mid-game)** — better resourced,
+years](story/developers.md#a-human-has-already-done-your-mid-game)** — better resourced,
 with a venue, a guest list and lead time, and built on coercion he considers his
 birthright.
 
@@ -1832,10 +1832,10 @@ non-human agent.
 
 ##### Breaking it relocates him; it does not hand you an event
 
-**[He does not go home](STORY.md#if-it-collapses-the-brother-does-not-go-home).**
+**[He does not go home](story/tourists.md#if-it-collapses-the-brother-does-not-go-home).**
 He is one of the few people on the island who genuinely believes something could
 happen at this eclipse, so a failed party sends him to [the
-core](STORY.md#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose),
+core](story/church.md#the-core-is-not-a-corruption-of-the-society-it-is-its-original-purpose),
 which he then funds.
 
 **And then, left alone, [everyone goes to the
@@ -1868,7 +1868,7 @@ toward light. Motivation without intent; biology, not ambition.
 
 The player may work out what it is for by riding an investigator, which is the
 same moment they become hunted (see [How the player learns
-anything](STORY.md#how-the-player-learns-anything)). A player who avoided the scientists
+anything](story/learning.md#how-the-player-learns-anything)). A player who avoided the scientists
 arrives at the climax executing a compulsion on people they have spent the whole
 game coming to know, and never finds out what it was for.
 
@@ -2722,7 +2722,7 @@ If the objective is a viable group, and a group's viability runs through the
 people who decide things, then **the strongest limbs belong in the people who
 matter most.** Placement is the shell's main lever, and it gets one opportunity
 to pull it: [relocation on host
-death](ECOSYSTEM.md#they-relocate-on-host-death-they-do-not-multiply).
+death](ECOSYSTEM.md#the-shell-relocates-on-host-death-it-does-not-multiply).
 
 | | |
 |---|---|
@@ -2740,7 +2740,7 @@ simply look at it.
 > no longer runs anything and the hotel and the station do, the shells' model of
 > who matters is visibly out of date — and one of them has already corrected,
 > which is how a symbiote out of the matriarch's household ended up in [the hotel
-> owner](STORY.md#the-hotel-owner).
+> owner](story/developers.md#the-hotel-owner).
 
 ### What they regulate toward
 
@@ -2996,6 +2996,21 @@ That is the axis to play.
 Darker than the version it replaces, and it uses the compact window rather than
 fighting it.
 
+##### The landing site is not a free choice, which is what makes it playable
+
+A shell relocates **only into someone who already carries a limb** — see [a limb
+is not a symbiote](ECOSYSTEM.md#a-limb-is-not-a-symbiote). So the tactic is not
+*kill the host and the symbiote lands anywhere*. It is:
+
+> **Kill the host and it lands on the best carrier within reach.** The candidate
+> set is the host's kin, and it is small, enumerable, and knowable in advance.
+
+| | |
+|---|---|
+| **for the player** | the move has a **readable outcome.** You can see the pool before you act, which turns an assassination into a placement |
+| **for the symbiote** | this is why it defends the family rather than the person. The family *is* its continuity, materially |
+| **and it can miss** | a host with no carrier relative is a dead end. Killing that one **strands the shell**, which removes a guardian permanently and costs the species something it cannot replace |
+
 #### 4. Information brokerage — between humans
 
 You are the only thing in this world that can carry knowledge **out of a
@@ -3085,7 +3100,7 @@ You are outside the symbiote network: a foreign signature does not resolve, so
 none of [what the network holds](ECOSYSTEM.md#the-network-is-also-a-store)
 reaches you directly. But a host whose symbiote *is* a calibrated node can be
 made to read it, and [one woman on this island knows
-how](STORY.md#the-practice-is-technique-not-spirituality).
+how](story/islanders.md#the-practice-is-technique-not-spirituality).
 
 | | what it gives you |
 |---|---|

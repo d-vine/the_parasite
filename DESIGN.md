@@ -21,7 +21,8 @@ See [Three altitudes](MECHANICS.md#three-altitudes-and-the-game-is-all-of-them).
 
 | | what is in it |
 |---|---|
-| **[STORY](STORY.md)** | Premise, the island and its factions, the timescale, the cast, the arc, how the player learns anything, reference points |
+| **[STORY](STORY.md)** | Premise, the timescale, who lives here, the opening, the generational axis, the arc — **and the index to [`story/`](story/)** |
+| ⤷ **[story/](story/)** | One document per faction, plus [one master chronology](story/timeline.md): [timeline](story/timeline.md) · [island](story/island.md) · [developers](story/developers.md) · [islanders](story/islanders.md) · [station](story/station.md) · [church](story/church.md) · [hippies](story/hippies.md) · [tourists](story/tourists.md) · [learning](story/learning.md) · [reference](story/reference.md) |
 | **[ECOSYSTEM](ECOSYSTEM.md)** | The species — parasite, symbiote, their shared origin; deep time; why this site; the moral structure; tone and stance |
 | **[MECHANICS](MECHANICS.md)** | Core loop, the layered design, possession, the shell, compute, timelines and folding, the symbiote opposition, progression, UI |
 | **[ARCHITECTURE](ARCHITECTURE.md)** | Technical design: engine/Ink split, the timeline graph, projections, storylets, build order |
@@ -34,7 +35,7 @@ society** is an ordinary cross-factional elders' institution, publicly known, no
 more sinister than a country club. **The core** is the handful of members who are
 genuinely occult. Where a passage says *cult* and means rites, placation or the
 eclipse, read **core**; where it means power, membership or exclusion, read
-**society**. See [the two radii](STORY.md#he-heads-the-society-and-its-core).
+**society**. See [the two radii](story/church.md#he-heads-the-society-and-its-core).
 
 ---
 
@@ -47,7 +48,7 @@ eclipse, read **core**; where it means power, membership or exclusion, read
 | 3 | Do the four deviation axes reduce to one number? | The escalation ladder may need to read them apart |
 | 4 | What sits above rung 3 of the escalation ladder? | The late game has to escalate into human action |
 | 5 | How does information pass from the entity into a human? | Brokerage is the late-game verb and has no mechanism yet |
-| 6 | How close is anyone to the fossil-locality/eclipse-path correlation? | Sets the third act's clock. [The one person positioned to find it](STORY.md#the-one-who-could-work-it-out) is the one the station discounts |
+| 6 | How close is anyone to the fossil-locality/eclipse-path correlation? | Sets the third act's clock. [The one person positioned to find it](story/station.md#the-one-who-could-work-it-out) is the one the station discounts |
 | 7 | Is a direct link per-timeline or cross-timeline, and which holds you at expiry? | The survival condition, and its scope is undefined |
 | 8 | How is the epidemiological signature computed from play? | The main detection channel; must respond to style, not just volume |
 | 9 | Does transcendence collapse sibling timelines, or only your own branches? | Largely answered: siblings are consumed as checks along the way, not collapsed at the end. [Note](MECHANICS.md#what-a-fold-actually-consumes) |
@@ -67,6 +68,9 @@ eclipse, read **core**; where it means power, membership or exclusion, read
 | 23 | What replaces severing, now that branches cannot be detached? | *The two systems oppose each other* turns on detached nodes. [Note](MECHANICS.md#the-opposition-is-the-same-verb-opposed) |
 | ~~24~~ | ~~Does the leash survive?~~ | **Closed.** It is a decoherence *rate*, not a range limit. [Note](ECOSYSTEM.md#and-it-is-where-the-symbiotes-whole-faculty-comes-from) |
 | 25 | What do the collected shells mean, now that presence matters? | A dozen guardians' bodies in one house, for the first time. [Note](MECHANICS.md#the-shell-has-to-be-there) |
+| 26 | Does the shell-tropism have range, or only sight and proximity? | Range gives carriers a bearing, which is a much larger mechanism. [Note](ECOSYSTEM.md#at-population-scale-it-is-a-collection-and-then-a-religion) |
+| ~~27~~ | ~~When does Sonia die, and how far does she reach into the grandchildren?~~ | **Closed. 1992, at 77.** Nicclas 22, Aurora 14, Maximilian 11 — so Nicclas is the only sibling raised within reach of an adult who was not Roman, and [the clash](story/developers.md#open-the-clash) gets a window without having its content decided. [Note](story/developers.md#she-dies-in-1992-at-seventy-seven-and-that-is-what-sets-the-grandchildren-apart) |
+| 28 | Did the founding director ever find anything? | Sonia told them what the biology clause was for. Twenty years before the current director started looking. [Note](story/developers.md#she-was-supposed-to-run-it) |
 
 ---
 
@@ -77,17 +81,25 @@ belongs.
 
 ### The species
 
-- **The shell is the organism.** Not an organ it carries — its actual body, and
-  the only thing that persists on its own. What this world calls a parasite and
-  what it calls a symbiote are **one limb of that body**, described before and
-  after a single event.
-- **The only difference between them is transcendence.** A limb that transcends
-  detaches and becomes an adult; one that does not **stays tethered to the
-  shell** indefinitely. A symbiote is not cut loose — it is attached to a body
-  with nothing left in it, and **still on the leash**, which is why symbiotes are
-  local and never found far from where they were made.
-- **Folding multiplies the limbs**, so one shell can anchor many symbiotes — all
-  variants of the same limb.
+- **Three parties, and one of them inherits the equipment.** The **parasite** is
+  an organism of quantum-encoded information and **the shell is its body** — an
+  organ, not a creature, which is why it has no reproduction of its own. The
+  **limb** is **a separate organism** with its own life cycle, recruited as an
+  actuator.
+- **A symbiote is a limb holding an abandoned shell.** At transcendence the
+  parasite goes and the shell is left working with the operator gone. A limb with
+  a shell can see forward and remember; a limb without one cannot. **The guardian
+  is the servant left holding the master's instrument.**
+- **Which is where the opposition comes from, and it needs no regulation.** The
+  limb has a reproductive future and the host community is **its habitat and its
+  dispersal route**; the spent shell has no stake at all. They do not have
+  competing claims — **they have incompatible discount rates on the same
+  resource.** The arriving parasite has until totality and will spend everything;
+  the resident needs the substrate intact. *This one is going to burn the house
+  down and then move out.*
+- **They are not your kind.** Not a stage, not a sibling, not a failed anything.
+  *They are you, later* is **wrong** — they are a different lineage living on
+  what yours discards.
 - **The physics is written down once, in [The
   mechanism](ECOSYSTEM.md#the-mechanism), and is strictly authorial.** The shell
   holds memory, not energy; the limb is molecular apparatus built from host
@@ -108,10 +120,41 @@ belongs.
   and uses it** — and that same isolation is what lets the shell span branches.
 - **A limb is material, not information** — a population of physical units in the
   host, on the **mitochondrial pattern**: a minimal inherited core with all
-  apparatus built from host proteins. Nothing is rebuilt from a codebook;
-  inheritance is a seed population moving. **A human is a holobiont and the
+  apparatus built from host proteins. **A human is a holobiont and the
   symbiote is one more resident**, which is why nothing reads as possession.
   Symbiotes are **flora**; the parasite is **a pathogen**.
+- **But a limb reproduces as information.** No cell of the issuer ever crosses
+  and the host genome is never touched — what crosses is **a targeted package of
+  DNA and proteins** that sets up production of fresh units out of host tissue.
+  It is carried, not encoded. [Mechanism](ECOSYSTEM.md#how-a-limb-reproduces)
+- **The brake on it is targeting, and targeting is tolerance.** A package
+  written for one body is rejected by another, so the issuer must read that
+  specific body first — **prolonged, intense contact with one particular
+  person**. Kin are cheap (shared haplotypes); a long partnership earns it over
+  years; a handshake, a field season or a single affair earn nothing. Which
+  makes **building the driver and writing the seed the same job.**
+- **A limb is not a symbiote, and that is what keeps the numbers right.** Limbs
+  reproduce and are quietly common wherever families stay close; **shells do not
+  reproduce at all** and are only ever left behind by a failed transcendence. A
+  limb without a shell has **no faculty whatsoever** — it is flora and nothing
+  else. So the limb population is infrastructure, the shell is the bottleneck,
+  and a shell relocates on host death **into someone who already carries a
+  limb.** A lineage that stops producing carriers strands its shell.
+  [Note](ECOSYSTEM.md#a-limb-is-not-a-symbiote)
+- **A shell can seed a limb only while a parasite drives it.** A free shell
+  cannot start a lineage. Lineages *start* at eclipses and *persist* by
+  limb-to-kin transfer.
+- **A limb does exactly one thing to its host: it makes them want to touch
+  shells.** Unfailing, in every carrier. The logic is short — a limb cannot
+  acquire a shell and its host can, and the gap between flora and a symbiote is
+  one act of contact. **It is experienced as taste, not compulsion**, which is
+  why it has never been reported as a symptom. Host behavioural manipulation is
+  ordinary parasitology (*Dicrocoelium*, *Leucochloridium*, *Ophiocordyceps*).
+  At population scale it is a collection, and over forty generations it is a
+  religion. **[liability]** it supplies the impulse, never the content — the
+  islanders' knowledge is a thousand years of correct observation, and the
+  tropism only explains who was doing the watching.
+  [Mechanism](ECOSYSTEM.md#what-a-limb-does-to-its-host-it-makes-them-want-to-touch-shells)
 - **The eclipse is what creates the tether.** A parasite is not tethered, a
   symbiote is, and the event is the only moment with the proximity, synchrony and
   coherence to establish it. **A tethered limb is not connected to the shell — it
@@ -214,7 +257,7 @@ belongs.
   for. The population is conserved — created only by limbs that did not
   transcend, lost to failed transitions — so most humans have never had one. Humans without
   symbiotes read as gaps and cannot be reached at all.
-- **Every symbiote on this island is a previous eclipse's limb that stayed**,
+- **Every symbiote on this island is a limb left holding a previous eclipse's shell**,
   which is where the folklore, the societies and the superstitions come from.
 - **Shells persist as objects** and are known to science as an unclassifiable
   fossil taxon. **The record is a population, not a graveyard** — an unknown
