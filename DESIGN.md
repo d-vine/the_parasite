@@ -71,6 +71,8 @@ eclipse, read **core**; where it means power, membership or exclusion, read
 | 26 | Does the shell-tropism have range, or only sight and proximity? | Range gives carriers a bearing, which is a much larger mechanism. [Note](ECOSYSTEM.md#at-population-scale-it-is-a-collection-and-then-a-religion) |
 | ~~27~~ | ~~When does Sonia die, and how far does she reach into the grandchildren?~~ | **Closed. 1992, at 77.** Nicclas 22, Aurora 14, Maximilian 11 — so Nicclas is the only sibling raised within reach of an adult who was not Roman, and [the clash](story/developers.md#open-the-clash) gets a window without having its content decided. [Note](story/developers.md#she-dies-in-1992-at-seventy-seven-and-that-is-what-sets-the-grandchildren-apart) |
 | 28 | Did the founding director ever find anything? | Sonia told them what the biology clause was for. Twenty years before the current director started looking. [Note](story/developers.md#she-was-supposed-to-run-it) |
+| 29 | Can one run complete both discovery arcs, or must the hand-over be its own run? | The parasite's arc ends at the eclipse; the humans' ends when one of them knows. [Note](STORY.md#and-the-human-one-has-an-in-world-ending-not-just-a-player-one) |
+| 30 | Who represents the islanders at the crater in the first hour? | Every other faction has a candidate. [Roster](STORY.md#proposal-the-roster) |
 
 ---
 
@@ -321,6 +323,26 @@ belongs.
   invent the specifics; do not map it onto a living community.
 - **The game is 2009; the backstory beach is 1978.** Pre-ubiquitous-smartphone
   by design. Roman died in 2007 at 60, two years before the game.
+- **The player is playing two discovery stories, running opposite ways.** The
+  parasite's goes **outward from nothing** — capability and then *purpose*, from
+  an impulse with no object to a mandate — and is told **entirely through the
+  interface**, because the entity has no interior to realise anything in. The
+  humans' goes **inward toward one gap** that six partial accounts cannot close,
+  and is told **entirely in scenes**, as people's own problems. **They meet only
+  in the player**, who is the one node with both capability and understanding.
+  [Note](STORY.md#two-discovery-stories-running-against-each-other)
+- **The human arc has an in-world ending**, not only a player one: the assembled
+  picture can be handed to a human. That is the second arc's completion and
+  should be earned across runs, not awarded at the finale by default.
+- **[proposal] Every faction has someone at or near the impact site in the first
+  hour**, for a structural reason: a later run can only influence what an early
+  run can reach. The reasons differ **in kind** — one faction anticipates, two
+  or three coincide, the rest hear and come — which staggers arrival with no
+  scheduling and keeps six parties at one crater from reading as a pile-up.
+  **The roster is also evidence**: the ones who come unbidden are
+  [carriers](ECOSYSTEM.md#what-a-limb-does-to-its-host-it-makes-them-want-to-touch-shells),
+  Maximilian among them, and every explanation they give for being there is true
+  and none of them is the reason. [Roster](STORY.md#the-first-hour)
 
 - **An island with a colonial past and an interdisciplinary research station**,
   over days to weeks. Overlapping factions — islanders, developers, hippies,

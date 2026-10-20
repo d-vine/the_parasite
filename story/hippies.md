@@ -14,8 +14,6 @@ The colony that was already there when Roman arrived.
 > difficult situation, their one-line handle is a navigation aid rather than a
 > description, and none of their views may be derivable from their faction.
 
-## The old hippies
-
 Settled here decades ago, on land they did not have a claim to, in pursuit of a
 paradise they then spent nearly forty years defending against everyone who
 arrived after them — including their own children. **They were here before

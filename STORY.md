@@ -28,7 +28,7 @@ For the species and its ecology see [ECOSYSTEM](ECOSYSTEM.md); for systems see [
 | **[The old hippies](story/hippies.md)** | the colony, and what it is now |
 | **[The tourists](story/tourists.md)** | the visitors, and what they are for |
 | **[How the player learns anything](story/learning.md)** | the exposition channel, what each discipline can discover |
-| **[Reference points](story/reference.md)** | *Blindsight*, *Tenet*, and the register |
+| **[Reference points](story/reference.md)** | *Blindsight*, *Tenet*, *The Expanse*, and the register |
 
 > **Everyone in those files is subject to [the standing rule on
 > characters](ECOSYSTEM.md#nobody-is-a-caricature-and-nobody-is-only-an-archetype):**
@@ -40,7 +40,9 @@ For the species and its ecology see [ECOSYSTEM](ECOSYSTEM.md); for systems see [
 
 - [Premise](#premise)
 - [Setting and scale](#setting-and-scale) — [Who lives here](#who-lives-here) · [When](#when) · [The opening](#the-opening)
+- [The first hour](#the-first-hour) — who is at the crater, and why each of them is wrong about it
 - [The generational axis](#the-generational-axis) — the one thread that crosses every faction
+- [Two discovery stories](#two-discovery-stories-running-against-each-other) — the parasite's and the humans', running opposite ways
 - [The arc](#the-arc)
 
 ---
@@ -300,6 +302,91 @@ simply never ends the passenger phase.
 
 ---
 
+## The first hour
+
+**[proposal] Every faction has somebody at or near the impact site within the
+first hour**, and this is a structural requirement rather than a scene idea.
+
+> **A later run can only influence what an early run can reach.** If a faction
+> has nobody present in the opening, that faction is unreachable until the
+> player's host happens to cross it — which means the opening silently decides
+> which half of the island the run is about. **Everyone has to be touchable from
+> the start, in every run.**
+
+It also makes the opening the board. [Positioning across
+events](MECHANICS.md#3-positioning-across-events) has nowhere to work if there is
+only one event and one witness.
+
+### Three reasons, which is what keeps it from being a coincidence
+
+The reasons must differ **in kind**, not just in detail — and they stagger
+arrival on their own, with no scheduling required:
+
+| | why they are there | arrival |
+|---|---|---|
+| **anticipation** | they expected something, for reasons that are wrong, right, or unsayable | **first**, or already there |
+| **coincidence** | they were outside, or awake, or in the wrong field | **at the moment**, from the wrong direction |
+| **hearsay** | somebody told them, and they dropped what they were doing | **within the hour**, and visibly out of breath |
+
+> **Only one faction may anticipate.** Two or three coincide; the rest hear.
+> Six parties converging on one crater because each of them had a reason is a
+> pile-up, and the fix is that **most of their reasons are bad ones.**
+
+### [proposal] The roster
+
+| faction | who | kind | note |
+|---|---|---|---|
+| **station** | [the finder](#she-was-waiting-for-it) | **anticipation** | already resolved: she went looking, from the island's own written record. She is also an islander, so she is [two factions at once](story/station.md#the-stations-fracture) and the opening's hub |
+| **hippies** | — | **coincidence** | outside at night, forty years into living on this rock. **The only witness to the fall itself**, from a direction nobody else was looking |
+| **tourists** | — | **coincidence** | in 2009 this means **a camera**, not a phone — an object that can be taken, bought, destroyed or published, and which exists in every run |
+| **islanders** | **[open]** — the matriarch's elder brother is the obvious candidate | **anticipation of a different kind** | not from a record. See below |
+| **developers** | [Maximilian](story/developers.md#maximilian-the-youngest) | **hearsay**, as he would describe it | he came because it sounded like something. See below |
+| **church** | [the young priest](story/church.md#the-young-priest) | **hearsay** | he is the person everybody on this island tells things to, which is his whole function and his whole problem |
+
+**Clement** is currently a name in `story.ink` and nothing else. He is the
+obvious slot for whichever of these needs a body first.
+
+### Who turns up early is not random, and that is a clue
+
+The ones who arrive without being sent are **[carriers](ECOSYSTEM.md#what-a-limb-does-to-its-host-it-makes-them-want-to-touch-shells).**
+
+| | and they would say |
+|---|---|
+| the islander | that he knew. Which is true, and he cannot say how |
+| **Maximilian** | that he was curious, that it sounded like a party, that he was bored. **All of it true, and none of it the reason** |
+| a hippie or two | nothing at all. They were out there anyway |
+
+Which makes the roster evidence rather than staging: **the people who showed up
+share something**, it is in principle detectable, and [the one discipline that
+could detect it](story/learning.md#the-biologist--who-can-detect-you) is on the
+island.
+
+> **Maximilian is a carrier by descent** — [through Roman, through
+> Sonia](story/developers.md#the-route-into-roman) — so the most
+> self-serving person in the cast goes to the crater for the least self-serving
+> reason there is, and would be insulted to hear it.
+
+- **[open]** Whether the hippies' presence is also tropism. They have been in
+  close contact with a carrier population for nearly forty years, which is
+  [exactly the transmission
+  condition](ECOSYSTEM.md#the-brake-is-targeting-and-targeting-is-tolerance) —
+  so some of them are carriers, and **they do not know there is anything to
+  know.**
+- **[open]** Who among the developers' household is *not* a carrier, since by
+  descent all three siblings are. A negative would have to be a person who
+  married in.
+
+### What it buys the later runs
+
+| | |
+|---|---|
+| **reach** | every faction is one host away from the opening, in every run |
+| **a ladder** | arrival order is fixed and learnable. A first run meets whoever is standing there; a tenth run **knows who is coming and when**, and waits for the right one |
+| **an object** | the tourist's camera exists in all of them, and what happens to it is a decision |
+| **a tell** | the roster is the same every run, which is how the player eventually notices it is not a coincidence |
+
+---
+
 ## The generational axis
 
 > **Thread to develop.** Orthogonal to the factions — **each faction has its own
@@ -419,6 +506,67 @@ Two are already written; the rest sketch themselves.
 | **the station** | seniors whose careers rest on a compromised facility against juniors who know how it was built — **and crossing it, [the islander/international split](story/station.md#the-stations-fracture)**, which is this year's and still bleeding. [The director](story/station.md#the-director) is the hinge of both |
 | **the hippies** | original settlers against whoever came after, or against their own children |
 | **visitors** | the crypto investors against old money, which is a generational marker in itself |
+
+---
+
+## Two discovery stories, running against each other
+
+**The player is playing two of them at once**, and they are not the same shape.
+
+| | **the parasite's** | **the humans'** |
+|---|---|---|
+| what is discovered | **what it can do, and then what it is for** | **what the thing on their island is** |
+| starting state | no capability, no concepts, an impulse with no object | six partial accounts, four of them wrong in a different place |
+| direction of travel | **outward from nothing** — capability and mandate both resolve | **inward toward one gap** that none of them can close |
+| where it accumulates | in the option space | [in the player's head](story/learning.md#which-is-exactly-what-the-player-is), across runs |
+| who can finish it | the player | **nobody on the island**, unless the player hands it over |
+
+> **They meet in exactly one place, which is the player.** The entity has
+> capability and no understanding. The humans have understanding and no
+> capability. Neither can become the other, and the player is the only node
+> that is both.
+
+### The parasite's arc gains a second axis
+
+[The three movements](#the-arc) track **competence** — instinct, pattern,
+contact. They do not track **purpose**, and purpose moves too.
+
+| | the impulse | what the interface shows |
+|---|---|---|
+| **early** | *something should happen here, with people, together* | outcomes are priced and selectable, and **you cannot tell which ones are worth anything** |
+| **middle** | *more of them, closer, at the same moment* | the prices start to make sense. Certain outcomes are consistently cheaper to reach from certain configurations |
+| **late** | **a mandate**: this many, this close, in this state, under that shadow | the objective is legible. **You are no longer guessing what you are selecting for** |
+
+> **And the entity never learns any of this**, because [it has no
+> interior](ECOSYSTEM.md#why-the-entity-has-no-interior). The sharpening is not a
+> character realising something. It is **the option space becoming readable** —
+> the same rule as [the tropism: it shows up as what is possible, never as what
+> is wanted](ECOSYSTEM.md#the-tropism-is-an-affordance-not-a-feeling).
+
+Which means the two arcs are told by opposite means and cannot be confused:
+
+| | told through |
+|---|---|
+| the parasite's self-discovery | **the interface.** Prices, available options, what the UI will and will not offer |
+| the human discovery | **the fiction.** People, in scenes, as their own problems — and [never as information](story/learning.md#delivery-rules) |
+
+### And the human one has an in-world ending, not just a player one
+
+The assembled picture can be [handed to a
+human](story/learning.md#and-the-player-can-hand-it-over). **[proposal]** That
+is not a small flourish at the end of one route — it is the second arc's
+*completion*, and it should be reachable the way the first arc's completion is:
+by working for it across runs.
+
+> **The parasite's arc ends at the eclipse. The humans' arc ends when one of
+> them knows.** They are not the same ending, they do not have to happen in the
+> same run, and **[open]** whether a run can do both.
+
+- **[open]** Whether the final run is the natural place for it, as the one run
+  the player already knows the shape of — or whether making it the finale's job
+  overloads an ending that already carries the moral choice.
+- **[open]** How many humans can hold it at once. One is a secret; three is a
+  position; the whole station is a published paper and a different genre.
 
 ---
 

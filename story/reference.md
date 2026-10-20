@@ -5,8 +5,6 @@ Works this is in conversation with, and the register to write in.
 ↩ [STORY](../STORY.md) · [timeline](timeline.md) · [DESIGN](../DESIGN.md) · [ECOSYSTEM](../ECOSYSTEM.md) · [MECHANICS](../MECHANICS.md)
 
 
-## Reference points
-
 ### Blindsight, Peter Watts (2006)
 
 **The closest ancestor of the premise, on two counts at once.**
@@ -78,6 +76,64 @@ consistent, not so anyone explains them.
   thermodynamics backwards. Nothing here is entropy-reversed; the shell simply
   has [boundary conditions at both
   ends](../ECOSYSTEM.md#across-timelines). Borrow the image, not the mechanism.
+
+### The Expanse, James S. A. Corey (2011–12)
+
+***Leviathan Wakes* and *Caliban's War* only** — before the protomolecule
+assembles the ring. **The closest ancestor of the deep-time problem, and of the
+physics discipline.**
+
+| | Corey | here |
+|---|---|---|
+| **sent across deep time, built for simpler life** | the protomolecule, launched more than two billion years ago to take over Earth's earliest life, captured by Saturn on Phoebe, and woken among organisms far more complex than it was made for. It improvises, and Eros is the result | a seed placed by an adult, and a limb that had to be [bred up on simpler hosts](../ECOSYSTEM.md#deep-time-and-what-it-implies), over many shell generations, before a human brain was usable |
+| **a population as a computer** | Eros: a whole station turned into one machine, steered through Julie Mao's mind | [humans are CPUs, not batteries](../ECOSYSTEM.md#humans-are-cpus-not-batteries) — spare capacity borrowed from people who go on living their lives |
+| **a programme, not a mind** | it executes its builders' design without understanding it | [a tropism](../MECHANICS.md#and-the-entity-does-not-know-why). It does not know what the gathering is for |
+| **hard physics, one alien exception** | Newtonian throughout — travel times, g-forces — except the Epstein drive and the protomolecule, which breaks the rules in plain sight | [one exemption](../ECOSYSTEM.md#the-one-exemption), and nothing else |
+| **science that believes it owns the discovery** | Protogen, and Dresden's speech about what humanity could become | [the station](station.md#the-director), and a route where [only the top consents](../MECHANICS.md#which-means-the-consent-is-only-at-the-top) |
+| **the truth at the wrong moment** | Holden's broadcasts, which start a war | [the darkest route](../MECHANICS.md#which-inverts-the-dark-path-entirely), executed by telling the truth to the right people at the wrong time |
+
+#### What to take
+
+- **The deep-time problem, stated plainly.** Something built for one kind of
+  life arrives to find another. Corey answers it inside one generation, as
+  horror. This design answers it with time: the limb is bred up across many
+  failed eclipses on hosts it could manage, before it reaches one it was never
+  made for. Same question, opposite answer.
+- **Avasarala.** An elder who prices a long horizon, is unsentimental about it,
+  and is [right on the merits](../ECOSYSTEM.md#the-working-test). What the old
+  symbiote's objective looks like when a human holds it and can argue for it.
+- **Every faction constrained.** Belters, Inners and the OPA each do the best
+  available thing from where they stand, and the multi-POV structure is what lets
+  that be seen. The same work the island's factions have to do.
+- **Physics as everybody's constraint.** Nobody in the books escapes travel time.
+  Nobody here escapes contact, bandwidth and the eclipse date.
+- **Immunity as a selection criterion.** In *Caliban's War* the children taken
+  for the protomolecule programme all share an immune disorder. The books never
+  make the immunology the point; here [it is the whole
+  brake](../ECOSYSTEM.md#the-brake-is-targeting-and-targeting-is-tolerance).
+
+#### Where this has to differ
+
+- **Never give the entity a face.** Julie steering Eros and Miller's ghost are the
+  human faces the books give their alien. [The player supplies the
+  interior](../ECOSYSTEM.md#the-player-supplies-the-interior) forbids exactly
+  this move.
+- **Consumption yields nothing here.** Eros is a coerced event that produces an
+  enormous machine. Under [the field forms among the
+  many](../MECHANICS.md#the-field-forms-among-the-many-and-that-decides-everything),
+  an event done *to* people yields nothing at all. Eros is the model the
+  arithmetic is built to refuse.
+- **The exemption hides.** The protomolecule is legible because it breaks physics
+  in public — Eros changing course with nothing to explain it. This organism is
+  invisible because it breaks nothing anyone could measure.
+- **Holobiont, not body horror.** Nothing here [reads as
+  possession](../ECOSYSTEM.md#which-makes-a-human-a-holobiont-with-one-more-resident).
+  If the hybrids turn up, even as a register, the design has drifted.
+- **A life cycle, not a tool.** The protomolecule builds something for owners who
+  are gone. [Transcendence is metamorphosis](../ECOSYSTEM.md#what-kind-of-being-this-is),
+  and nobody is waiting for it.
+- **Dresden is the director to avoid.** A speech in place of a position. The
+  station's director has to be someone a scene can prove right.
 
 ---
 

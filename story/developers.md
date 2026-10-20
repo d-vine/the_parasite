@@ -1090,6 +1090,49 @@ turn the business around and stay on the island she feels bound to.
 > the scale for years, through the old local staff who are loyal to him
 > personally. **He built the hole and then sold her the ladder.**
 
+#### [proposal] What the hole is made of
+
+[How the money came in](island.md#proposal-how-the-money-came-in) left the
+island holdings as a structure only Roman understood, and **every part of it is
+pressing on her at once**:
+
+| | |
+|---|---|
+| **the debt** | Roman refinanced the dead Japanese loan in the 1990s through one of his own mainland companies. **In the split, she got the hotel and the leaseholds, and the loan stayed in the empire.** She owes her brother's company, and has not quite noticed |
+| **the ground** | non-locals cannot own land here, so the leases are held on paper by a local company whose directors are **her father's old local men** — the ones loyal to Maximilian. Some of the 1978 leases are [void if anyone sues](island.md#proposal-how-the-money-came-in). Nobody has. They are waiting |
+| **the rent** | the debt is serviced from the station's rent, and the station has just filled [every reserved islander post](station.md#the-stations-fracture) in a single year. A director under budget pressure renegotiates leases |
+| **the payroll** | the federal minimum wage rising every year since 2007, and [federal immigration control from 28 November](island.md#2009-the-gates-close) over a staff of guest workers |
+| **the season** | the 2008 crash, Japanese arrivals falling, and no bank anywhere refinancing a resort on leased ground on a remote island |
+
+##### His rescue is the takeover
+
+He does not need to attack her. He only needs to offer help:
+
+1. **The party**: revenue, guests, a reason to hold on until the eclipse.
+   [Already written](#the-event).
+2. **A restructuring**: he forgives the arrears if the debt converts into equity
+   in the operating company, with a management contract for his people.
+3. **A clean lease**: the old leases are legally shaky, so the landholding
+   company issues a new 55-year lease to a new company. Its local directors are
+   his father's men, and he controls it.
+
+> **At the end of it the resort is his, every document is legal, and she signed
+> each one gratefully.** She keeps the villa and the cabinet. **It is the move
+> he made two years ago** — not out-thinking her, only being already in the
+> room — made a second time, on the island, with the island's own law.
+
+He is not clever about this either. The structure is his father's and so are
+the lawyers; he only has to let it run.
+
+- **[proposal] Why he wants a money pit.** He tells everyone the island holdings
+  are worthless, which is half true. What he can see and she cannot: the resort,
+  plus [the island's three Senate
+  seats](island.md#the-periphery-of-the-periphery), plus a local-option gaming
+  vote — the route Tinian took in 1989 — is a casino licence. And it is the
+  venue for [the nights he means to repeat](#what-he-took-from-the-lore).
+- **[open]** Whether Nicclas sees it. He is fond of her and in occasional
+  contact, and he is the one sibling outside both the empire and the island.
+
 ### The indigenous family
 
 Several of them worked at her father's properties, which is how she met them.

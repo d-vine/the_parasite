@@ -5,12 +5,15 @@ How anything in these documents reaches the player.
 ↩ [STORY](../STORY.md) · [timeline](timeline.md) · [DESIGN](../DESIGN.md) · [ECOSYSTEM](../ECOSYSTEM.md) · [MECHANICS](../MECHANICS.md)
 
 
-## How the player learns anything
-
 The entity is ignorant and the interface is opaque, but the player needs
 information — most urgently that a direct link is the difference
 between symbiosis and extinction. The resolution is to route all of it through
 **unreliable in-world interpreters.**
+
+> **This file is one of two arcs.** What the humans work out runs alongside
+> [what the parasite becomes](../STORY.md#two-discovery-stories-running-against-each-other),
+> in the opposite direction and by opposite means: this one is told in scenes,
+> that one is told by the interface. They meet only in the player.
 
 ### Humans are the exposition channel
 

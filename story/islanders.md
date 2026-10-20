@@ -14,8 +14,6 @@ The one faction that is not extractive, and the only accurate record on the isla
 > difficult situation, their one-line handle is a navigation aid rather than a
 > description, and none of their views may be derivable from their faction.
 
-## The native community
-
 > **The one faction that is not extractive**, and the only one whose stories
 > about the entity are a real record rather than a theory.
 

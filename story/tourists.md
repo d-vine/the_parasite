@@ -14,8 +14,6 @@ The visitors, and what they are for.
 > difficult situation, their one-line handle is a navigation aid rather than a
 > description, and none of their views may be derivable from their faction.
 
-## The tourists
-
 **Structurally identical to [the society](church.md#he-heads-the-society-and-its-core): an
 outer body with a reason, and a small core with the real one.**
 

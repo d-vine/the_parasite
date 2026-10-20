@@ -20,7 +20,9 @@ beach](islanders.md#then-the-developer-heard-about-it-on-a-beach), which is **19
 | **1933** | she enters Charles University at eighteen, reading biology | developers |
 | **17 Nov 1939** | **Czech higher education closed.** She is 24, with six years done and her doctorate unfinished | developers |
 | **1939–45** | [the Protectorate health institute](developers.md#proposal-the-six-years-are-not-lost) — sera and vaccines for war needs. **She becomes a parasitologist here**, and attends what seminars there are | developers |
+| **1944–45** | **[proposal]** [the war](island.md#four-layers-not-one-villain): the Japanese garrison is bombed, bypassed and starved until the surrender in September 1945 | island |
 | **1947** | **Roman** born in Prague | developers |
+| **1947** | the island becomes US trust territory, under the Navy | island |
 | **1947–48** | **Thomas** does his [CIMA fieldwork](developers.md#proposal-thomas-did-a-cima-season) in the Trust Territory, under Navy contract — and [brings back two things](developers.md#proposal-and-he-brought-two-things-back) | developers |
 | **Aug 1948** | **VASKhNIL.** Mendelian genetics outlawed across the bloc — three weeks before the congress | developers |
 | **Aug 1948** | **Wrocław.** She interprets for the Czechoslovak delegation and meets **Thomas** | developers |
@@ -32,14 +34,20 @@ beach](islanders.md#then-the-developer-heard-about-it-on-a-beach), which is **19
 | **1967** | Malinowski's diaries published. Thomas is 55, Roman is 20. Margulis publishes on symbiogenesis the same year, and is rejected everywhere first | developers |
 | **1970** | **Nicclas** born | developers |
 | **~1972** | the hippie colony establishes itself — **before Roman** | hippies |
+| **Dec 1974** | Secretarial Order 2969: [public land returns to local control](island.md#what-each-layer-did-to-the-land), **except what the military kept** | island |
+| **1978** | self-government under the commonwealth's constitution, and Article XII: [non-locals can only lease](island.md#what-each-layer-did-to-the-land) | island |
 | **1978** | **the beach.** Roman 31, the brother 20, the matriarch 17. Roman's wife is already pregnant | developers · islanders · hippies |
 | late **1978** | **Aurora** born | developers |
 | **1979–81** | **Sonia assembles the station** — ONR money, University of Chicago, a charter with two buried clauses. Her health fails before she can run it | station · developers |
 | **1981** | **Maximilian** born — three years *after* the island went sour | developers |
+| **1986** | the trusteeship ends; [commonwealth with the US](island.md#the-1980s-commonwealth-and-the-periphery-of-the-periphery), and US citizenship | island |
+| **late 1980s** | **[proposal]** [Japanese money for the resort](island.md#proposal-how-the-money-came-in), secured on the station's rent | island · developers |
+| **1990–91** | Japan's bubble bursts; the resort is never finished | island · developers |
 | **~1989** | the director begins investigating in earnest — a junior at her station, while she is still alive | station |
 | **1992** | **Sonia dies at 77.** Nicclas is 22, Aurora 14, Maximilian 11. Czechoslovakia is dissolved on 31 December, months after her | developers |
 | **2007** | **Roman dies suddenly, at 60.** The cabinet passes to Aurora | developers |
 | **2009** | **the game.** The eclipse | everyone |
+| **28 Nov 2009** | [federal immigration control begins](island.md#2009-the-gates-close), four months after the eclipse | island |
 
 ## By faction
 
@@ -89,18 +97,21 @@ isolation, the folklore's unprovability and the impossibility of simply
 
 **The real anchor is 22 July 2009** — the longest total eclipse of the century,
 6m39s, its track running from India across China and out over the Pacific past
-the Ryukyus, Iwo Jima, the Marshall Islands and Kiribati. **The island itself
-stays fictional and unlocated**; the eclipse is borrowed for its date and its
-duration, not to place anything on a map.
+the Ryukyus, Iwo Jima, the Marshall Islands and Kiribati.
 
-> **[proposal] Borrow *makatea* geology regardless of the year.** A raised
-> fossil-coral limestone rim around a volcanic interior — Mangaia in the Cooks
-> is the type case. It is the one tropical island form that gives **both** a
-> fossil-bearing rock and real elevation, where atolls give neither and volcanic
-> islands give only the hill. Raised coral islands with guano deposits are also
-> the **phosphate** islands, which makes [phosphatic
+> **Resolved: the path is real, and the island is fictional but placed inside
+> it** — north of the Marianas, near the centre line, where totality lasts about
+> six and a half minutes with the sun overhead at midday. See [where
+> exactly](island.md#proposal-where-exactly) and [the eclipse passes
+> overhead](island.md#the-eclipse-passes-overhead).
+
+> **Resolved: *makatea* geology**, modelled on the southern Marianas — Saipan,
+> Guam, Rota — rather than Mangaia. A raised fossil-coral limestone rim around a
+> volcanic interior is the one tropical island form that gives **both** a
+> fossil-bearing rock and real elevation, and raised coral islands with guano
+> deposits are also the **phosphate** islands, which makes [phosphatic
 > shells](../ECOSYSTEM.md#what-they-are-made-of) geologically coherent rather than
-> convenient.
+> convenient. See [The ground](island.md#the-ground).
 >
 > Note that **[the totality cluster](../ECOSYSTEM.md#how-symbiotes-persist-between-eclipses)
 > is invented** and no real location supplies it.
